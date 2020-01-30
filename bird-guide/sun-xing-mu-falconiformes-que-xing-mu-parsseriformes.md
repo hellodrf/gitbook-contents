@@ -1,10 +1,12 @@
+# 其他鸟类
+
 ## 隼形目 FALCONIFORMES
 
 ### 1. 隼科 FALCONIDAE
 
 #### 白腿小隼 _Microhierax melanoleucos_
 
-![&#x4F5C;&#x8005;&#x73A9;&#x4E3B;&#x5317;&#x4EAC;](../../.gitbook/assets/091357dj7f2w2660w0t24m.jpg)
+![&#x4F5C;&#x8005;&#x73A9;&#x4E3B;&#x5317;&#x4EAC;](../.gitbook/assets/091357dj7f2w2660w0t24m.jpg)
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -23,7 +25,7 @@
 
 #### 食蝠隼 _Falco rufigularis_
 
-![&#x4F5C;&#x8005;Christian Sanchez](../../.gitbook/assets/christian-sanchez.jpg)
+![&#x4F5C;&#x8005;Christian Sanchez](../.gitbook/assets/christian-sanchez.jpg)
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -40,17 +42,15 @@
 {% endtab %}
 {% endtabs %}
 
-
-
 #### 燕隼 _Falco subbuteo_
 
 {% tabs %}
 {% tab title="成鸟" %}
-![&#x4F5C;&#x8005;Imran Shah](../../.gitbook/assets/eurasian_hobby_-falco_subbuteo-_-22427388580.jpg)
+![&#x4F5C;&#x8005;Imran Shah](../.gitbook/assets/eurasian_hobby_-falco_subbuteo-_-22427388580.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
-![&#x4F5C;&#x8005;Mark Sisson](../../.gitbook/assets/mark-sisson.jpg)
+![&#x4F5C;&#x8005;Mark Sisson](../.gitbook/assets/mark-sisson.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -81,8 +81,6 @@ wip
 {% endtab %}
 {% endtabs %}
 
-
-
 #### 游隼 _Falco peregrinus_
 
 {% hint style="warning" %}
@@ -91,15 +89,15 @@ wip
 
 {% tabs %}
 {% tab title="成鸟与雏鸟" %}
-![&#x81EA;Talk AEP](../../.gitbook/assets/talk_aep_-_peregrine_falcon_bang_the_table_gallery_widget_1080px_wide_1.jpg)
+![&#x81EA;Talk AEP](../.gitbook/assets/talk_aep_-_peregrine_falcon_bang_the_table_gallery_widget_1080px_wide_1.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
-![&#x4F5C;&#x8005;Dipendrasinh Zala](../../.gitbook/assets/img_2720.jpg)
+![&#x4F5C;&#x8005;Dipendrasinh Zala](../.gitbook/assets/img_2720.jpg)
 {% endtab %}
 
 {% tab title="\"kreyenborgi\"型" %}
-![&#x4F5C;&#x8005;Daniel Sziklai](../../.gitbook/assets/23646705482_eb8a09ff12_b.jpg)
+![&#x4F5C;&#x8005;Daniel Sziklai](../.gitbook/assets/23646705482_eb8a09ff12_b.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -114,7 +112,7 @@ wip
 
 #### 飞行
 
-飞行时可见隼典型的尖翼，相对其他隼略阔。WIP
+飞行时可见隼典型的尖翼，相对其他隼略阔。振翅快速、僵硬。
 
 #### 叫声
 
@@ -134,13 +132,22 @@ wip
 {% endtab %}
 {% endtabs %}
 
-
-
 #### 猎隼 _Falco cherrug_
 
 {% tabs %}
 {% tab title="生物学" %}
+* 体长： cm
+* 体重：
 
+中-大型隼，
+
+#### 飞行
+
+飞行时可见隼典型的尖翼，略长圆。WIP
+
+#### 叫声
+
+叫声描述：
 {% endtab %}
 
 {% tab title="生态学" %}
@@ -153,8 +160,6 @@ wip
 ### 1. 鸦科 CORVIDAE
 
 #### 红嘴蓝鹊 _Urocissa erythroryncha_
-
-
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -184,7 +189,7 @@ WIP
 您可以创建欧亚喜鹊复合种中的任何种/亚种，但不包括马格里布喜鹊 _P. mauritanica_和阿拉伯喜鹊 _P. asirensis_
 {% endhint %}
 
-![&#x4F5C;&#x8005;Pierre-Selim](../../.gitbook/assets/zhi-ming.jpg)
+![&#x4F5C;&#x8005;Pierre-Selim](../.gitbook/assets/zhi-ming.jpg)
 
 text
 
@@ -214,11 +219,9 @@ WIP
 {% endtab %}
 {% endtabs %}
 
-
-
 #### 小嘴乌鸦 _Corvus corone_
 
-![&#x4F5C;&#x8005;Paul](../../.gitbook/assets/33833793762_5f214f047f_b.jpg)
+![&#x4F5C;&#x8005;Paul](../.gitbook/assets/33833793762_5f214f047f_b.jpg)
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -230,17 +233,15 @@ WIP
 {% endtab %}
 {% endtabs %}
 
-
-
 #### 渡鸦 _Corvus corax_
 
 {% tabs %}
 {% tab title="栖止" %}
-![&#x4F5C;&#x8005;Pkspks](../../.gitbook/assets/corvus_corax_tibetanus.jpg)
+![&#x4F5C;&#x8005;Pkspks](../.gitbook/assets/corvus_corax_tibetanus.jpg)
 {% endtab %}
 
 {% tab title="飞行" %}
-![&#x4F5C;&#x8005;Rick &amp; Nora Bowers](../../.gitbook/assets/rick-and-nora-bowers-audubon.jpg)
+![&#x4F5C;&#x8005;Rick &amp; Nora Bowers](../.gitbook/assets/rick-and-nora-bowers-audubon.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -268,5 +269,4 @@ WIP
 
 {% endtab %}
 {% endtabs %}
-
 

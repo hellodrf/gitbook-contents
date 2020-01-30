@@ -1,17 +1,16 @@
-
-## 鹰形目 ACCIPITRIFORMES
+# 鹰形目
 
 鹰形目囊括了除隼以外的所有日行猛禽。鹰形目的成员形态多样，WIP
 
-### 1. 鹗科 PANDIONIDAE
+## 1. 鹗科 PANDIONIDAE
 
-#### 鹗 _Pandion haliaetus_ sensu lato
+### 鹗 _Pandion haliaetus_ sensu lato
 
 {% hint style="success" %}
 您可以创建东方鹗 _P. \(h.\) cristatus_
 {% endhint %}
 
-![&#x4F5C;&#x8005;Christopher Paparo](../../.gitbook/assets/tr0317_a_osprey2_cp.jpg)
+![&#x4F5C;&#x8005;Christopher Paparo](../.gitbook/assets/tr0317_a_osprey2_cp.jpg)
 
 text
 
@@ -23,11 +22,11 @@ text
 轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。  
 亚成鸟。裸部。
 
-#### 飞行
+### 飞行
 
 WIP
 
-#### 叫声
+### 叫声
 
 叫声描述：
 {% endtab %}
@@ -41,19 +40,17 @@ WIP
 {% endtab %}
 {% endtabs %}
 
+## 2. 鹰科 ACCIPTRIDAE
 
-
-### 2. 鹰科 ACCIPTRIDAE
-
-#### 黑翅鸢 _Elanus caeruleus_
+### 黑翅鸢 _Elanus caeruleus_
 
 {% tabs %}
 {% tab title="成鸟" %}
-![&#x4F5C;&#x8005;Bhaarat Vyas](../../.gitbook/assets/bhaarat-vyas.jpg)
+![&#x4F5C;&#x8005;Bhaarat Vyas](../.gitbook/assets/bhaarat-vyas.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
-![&#x4F5C;&#x8005;Rahul Singh](../../.gitbook/assets/rahul-singh.jpg)
+![&#x4F5C;&#x8005;Rahul Singh](../.gitbook/assets/rahul-singh.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -67,11 +64,11 @@ WIP
 轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。  
 亚成鸟。裸部。
 
-#### 飞行
+### 飞行
 
 WIP
 
-#### 叫声
+### 叫声
 
 叫声描述：
 {% endtab %}
@@ -89,11 +86,9 @@ WIP
 {% endtab %}
 {% endtabs %}
 
+### 蛇雕 _Spilornis cheela_
 
-
-#### 蛇雕 _Spilornis cheela_
-
-![&#x4F5C;&#x8005;Pete Oxford](../../.gitbook/assets/90200675.jpg)
+![&#x4F5C;&#x8005;Pete Oxford](../.gitbook/assets/90200675.jpg)
 
 text
 
@@ -105,11 +100,11 @@ text
 轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。  
 亚成鸟。裸部。
 
-#### 飞行
+### 飞行
 
 WIP
 
-#### 叫声
+### 叫声
 
 叫声描述：
 {% endtab %}
@@ -123,17 +118,15 @@ WIP
 {% endtab %}
 {% endtabs %}
 
-
-
-#### 白背兀鹫 _Gyps bengalensis_
+### 白背兀鹫 _Gyps bengalensis_
 
 {% tabs %}
 {% tab title="成鸟" %}
-![&#x4F5C;&#x8005; Krzysztof Blachowiak](../../.gitbook/assets/nd4_5723_900x600c_filtered_z_podpisem_white-rumped_vulture_-_sep_bengalski.jpg)
+![&#x4F5C;&#x8005; Krzysztof Blachowiak](../.gitbook/assets/nd4_5723_900x600c_filtered_z_podpisem_white-rumped_vulture_-_sep_bengalski.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
-![&#x4F5C;&#x8005;Dubi Shapiro](../../.gitbook/assets/indian_white-backed_vulture_3_for_web.jpg)
+![&#x4F5C;&#x8005;Dubi Shapiro](../.gitbook/assets/indian_white-backed_vulture_3_for_web.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -147,11 +140,11 @@ text
 轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。  
 亚成鸟。裸部。
 
-#### 飞行
+### 飞行
 
 WIP
 
-#### 叫声
+### 叫声
 
 叫声描述：
 {% endtab %}
@@ -163,11 +156,9 @@ WIP
 {% endtab %}
 {% endtabs %}
 
+### 黑冠鹃隼 _Aviceda leuphotes_
 
-
-#### 黑冠鹃隼 _Aviceda leuphotes_
-
-![&#x4F5C;&#x8005;wokoti](../../.gitbook/assets/wokoti.jpg)
+![&#x4F5C;&#x8005;wokoti](../.gitbook/assets/wokoti.jpg)
 
 text
 
@@ -179,11 +170,11 @@ text
 轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。  
 亚成鸟基本同成鸟，仅颜色略黯淡，且喉部有白色纵纹。
 
-#### 飞行
+### 飞行
 
 WIP
 
-#### 叫声
+### 叫声
 
 叫声描述：
 {% endtab %}
@@ -197,17 +188,15 @@ WIP
 {% endtab %}
 {% endtabs %}
 
-
-
-#### 丽鹰雕 _Spizaetus ornatus_
+### 丽鹰雕 _Spizaetus ornatus_
 
 {% tabs %}
 {% tab title="成鸟" %}
-![&#x4F5C;&#x8005;David McCauley](../../.gitbook/assets/david-mccauley.jpg)
+![&#x4F5C;&#x8005;David McCauley](../.gitbook/assets/david-mccauley.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
-![&#x4F5C;&#x8005;Ryan Andrews](../../.gitbook/assets/ryan-andrews.jpg)
+![&#x4F5C;&#x8005;Ryan Andrews](../.gitbook/assets/ryan-andrews.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -221,11 +210,11 @@ WIP
 轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。  
 亚成鸟。
 
-#### 飞行
+### 飞行
 
 WIP
 
-#### 叫声
+### 叫声
 
 叫声描述：
 {% endtab %}
@@ -239,13 +228,11 @@ WIP
 {% endtab %}
 {% endtabs %}
 
-
-
-#### 林雕 _Ictinaetus malaiensis_
+### 林雕 _Ictinaetus malaiensis_
 
 {% tabs %}
 {% tab title="成鸟" %}
-![&#x4F5C;&#x8005;Kalyan Varma](../../.gitbook/assets/black_eagle_dsc5485.jpg)
+![&#x4F5C;&#x8005;Kalyan Varma](../.gitbook/assets/black_eagle_dsc5485.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
@@ -262,11 +249,11 @@ WIP
 
 。
 
-#### 飞行
+### 飞行
 
 剪影似鸢。翼远端宽于近端。
 
-#### 叫声
+### 叫声
 
 叫声描述：
 {% endtab %}
@@ -280,13 +267,11 @@ WIP
 {% endtab %}
 {% endtabs %}
 
-
-
-#### 凤头鹰 _Accipiter trivirgatus_
+### 凤头鹰 _Accipiter trivirgatus_
 
 {% tabs %}
 {% tab title="成鸟" %}
-![&#x4F5C;&#x8005; Sujith Soori](../../.gitbook/assets/40526031.jpg)
+![&#x4F5C;&#x8005; Sujith Soori](../.gitbook/assets/40526031.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
@@ -303,11 +288,11 @@ WIP
 
 。
 
-#### 飞行
+### 飞行
 
 似鸢。WIP
 
-#### 叫声
+### 叫声
 
 叫声描述：
 {% endtab %}
@@ -321,21 +306,19 @@ WIP
 {% endtab %}
 {% endtabs %}
 
-
-
-#### 赤腹鹰 _Accipiter soloensis_
+### 赤腹鹰 _Accipiter soloensis_
 
 {% tabs %}
 {% tab title="雄" %}
-![&#x4F5C;&#x8005;Michelle &amp; Peter Wong](../../.gitbook/assets/wong.jpg)
+![&#x4F5C;&#x8005;Michelle &amp; Peter Wong](../.gitbook/assets/wong.jpg)
 {% endtab %}
 
 {% tab title="雌" %}
-![&#x4F5C;&#x8005;iherman](../../.gitbook/assets/herman.jpg)
+![&#x4F5C;&#x8005;iherman](../.gitbook/assets/herman.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
-![&#x4F5C;&#x8005; t02613](../../.gitbook/assets/t02613.jpg)
+![&#x4F5C;&#x8005; t02613](../.gitbook/assets/t02613.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -348,11 +331,11 @@ WIP
 
 。
 
-#### 飞行
+### 飞行
 
 WIP
 
-#### 叫声
+### 叫声
 
 叫声描述：
 {% endtab %}
@@ -366,9 +349,7 @@ WIP
 {% endtab %}
 {% endtabs %}
 
-
-
-#### 苍鹰 _Accipiter gentilis_
+### 苍鹰 _Accipiter gentilis_
 
 {% hint style="success" %}
 您可以创建美洲苍鹰 _A. \(g.\) atricapillus_
@@ -376,15 +357,15 @@ WIP
 
 {% tabs %}
 {% tab title="欧亚" %}
-![&#x4F5C;&#x8005;Andy Trowbridge](../../.gitbook/assets/andy-trowbridge-nuo-wei.jpg)
+![&#x4F5C;&#x8005;Andy Trowbridge](../.gitbook/assets/andy-trowbridge-nuo-wei.jpg)
 {% endtab %}
 
 {% tab title="美洲" %}
-![&#x4F5C;&#x8005;Frank King](../../.gitbook/assets/mei-zhou.jpg)
+![&#x4F5C;&#x8005;Frank King](../.gitbook/assets/mei-zhou.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
-![&#x4F5C;&#x8005;Walter Soestbergen](../../.gitbook/assets/12-agami-northern-goshawk-juv_utrecht-the-netherlands_27-02-15_walter-soestbergen-63561.jpg)
+![&#x4F5C;&#x8005;Walter Soestbergen](../.gitbook/assets/12-agami-northern-goshawk-juv_utrecht-the-netherlands_27-02-15_walter-soestbergen-63561.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -398,11 +379,11 @@ WIP
 大型鹰，体态粗壮，翅长圆，跗跖与足强壮。有白色眉纹，耳羽纯色或有细纹；背面灰褐色至灰白色至蓝黑色，腹面灰白色有深色细横纹，有时间杂深色羽轴形成的纵纹。美洲种群腹面横纹常细腻如蠕纹。眼浅黄色至暗红色。喙铅灰色，远端黑色；蜡膜中黄色。足中黄色，爪黑色。  
 亚成鸟wip。
 
-#### 飞行
+### 飞行
 
 飞行时可见森林猛禽典型的圆翼。WIP
 
-#### 叫声
+### 叫声
 
 叫声描述：
 {% endtab %}
@@ -425,21 +406,19 @@ WIP
 {% endtab %}
 {% endtabs %}
 
-
-
-#### 雀鹰 _Accipiter nisus_
+### 雀鹰 _Accipiter nisus_
 
 {% tabs %}
 {% tab title="雄" %}
-![&#x4F5C;&#x8005;Bohu&#x161; &#x10C;&#xED;&#x10D;el](../../.gitbook/assets/599px-accipiter_nisus_1_-bohus_cicel.jpg)
+![&#x4F5C;&#x8005;Bohu&#x161; &#x10C;&#xED;&#x10D;el](../.gitbook/assets/599px-accipiter_nisus_1_-bohus_cicel.jpg)
 {% endtab %}
 
 {% tab title="雌" %}
-![&#x4F5C;&#x8005;Eric Medard](../../.gitbook/assets/90805771.jpg)
+![&#x4F5C;&#x8005;Eric Medard](../.gitbook/assets/90805771.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
-![&#x4F5C;&#x8005;Jose B. Ruiz](../../.gitbook/assets/00409420.jpg)
+![&#x4F5C;&#x8005;Jose B. Ruiz](../.gitbook/assets/00409420.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -460,17 +439,15 @@ text
 {% endtab %}
 {% endtabs %}
 
-
-
-#### 白腹海雕
+### 白腹海雕
 
 {% tabs %}
 {% tab title="成鸟" %}
-![&#x4F5C;&#x8005;Dick Porter](../../.gitbook/assets/1200298_mg_5560cc.jpg)
+![&#x4F5C;&#x8005;Dick Porter](../.gitbook/assets/1200298_mg_5560cc.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
-![&#x4F5C;&#x8005;Les George](../../.gitbook/assets/les-george.jpg)
+![&#x4F5C;&#x8005;Les George](../.gitbook/assets/les-george.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -485,17 +462,15 @@ text
 {% endtab %}
 {% endtabs %}
 
-
-
-#### 玉带海雕 _Haliaeetus leucoryphus_
+### 玉带海雕 _Haliaeetus leucoryphus_
 
 {% tabs %}
 {% tab title="成鸟" %}
-![&#x4F5C;&#x8005;Fr&#xE9;d&#xE9;ric Pelsy](../../.gitbook/assets/haliaeetus_leucoryphus_-_pygargue_de_pallas_-_03.jpg)
+![&#x4F5C;&#x8005;Fr&#xE9;d&#xE9;ric Pelsy](../.gitbook/assets/haliaeetus_leucoryphus_-_pygargue_de_pallas_-_03.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
-![&#x4F5C;&#x8005;Fr&#xE9;d&#xE9;ric Pelsy](../../.gitbook/assets/e72f2553.jpg)
+![&#x4F5C;&#x8005;Fr&#xE9;d&#xE9;ric Pelsy](../.gitbook/assets/e72f2553.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -513,11 +488,11 @@ text
 大而纤细的海雕，喙相对其他海雕略短，颈部有披针形羽。常挺直站立。头颈米黄色，背面略沾黄棕色，向腹面逐渐过渡为深色。背中褐色，向翼侧逐渐变深；腹面棕色，向后逐渐变深。翼、尾黑褐色，尾近基部贯穿一条宽阔白色横带。眼褐色至黄灰色。喙铅灰色，远端灰黑色；蜡膜淡灰色，偶沾黄色。足灰白色至淡黄色，爪黑色。  
 第一年通体褐色，羽缘黄褐色。翼下大覆羽、腋羽米黄色，形成强烈的浅色对角线，初级飞羽近端有甚大的米黄色窗。尾无横带。眼暗褐色。其余似成鸟。随年龄增长，头颈颜色逐渐变浅（尤其喉部），与暗褐色的颊形成强烈反差，尾羽逐渐出现带杂色的白色横带。5-6年彻底换为成羽。
 
-#### 飞行
+### 飞行
 
 飞行时可见雕典型的“门板”翼，但相对略窄。飞行轻盈灵活；翱翔时双翼平举。尾扇形略长。
 
-#### 叫声
+### 叫声
 
 嘶哑尖锐的kyow-kyow-kyow或kok kok kok；似鸡的有节奏咯咯声。
 {% endtab %}
@@ -542,17 +517,15 @@ text
 {% endtab %}
 {% endtabs %}
 
-
-
-#### 灰脸鵟鹰 _Butastur indicus_
+### 灰脸鵟鹰 _Butastur indicus_
 
 {% tabs %}
 {% tab title="成鸟" %}
-![&#x5DE6;&#x96CC;&#x53F3;&#x96C4;&#xFF0C;&#x4F5C;&#x8005;&#x5E7D;&#x5DDE;&#x6444;&#x4F2F;](../../.gitbook/assets/you-zhou-she-bo.jpg)
+![&#x5DE6;&#x96CC;&#x53F3;&#x96C4;&#xFF0C;&#x4F5C;&#x8005;&#x5E7D;&#x5DDE;&#x6444;&#x4F2F;](../.gitbook/assets/you-zhou-she-bo.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
-![&#x4F5C;&#x8005;&#x5BF0;&#x5C18;](../../.gitbook/assets/timg.jpg)
+![&#x4F5C;&#x8005;&#x5BF0;&#x5C18;](../.gitbook/assets/timg.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -566,3 +539,4 @@ text
 
 {% endtab %}
 {% endtabs %}
+

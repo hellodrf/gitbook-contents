@@ -1,12 +1,12 @@
-## 鸮形目 STRIGIFORMES
+# 鸮形目
 
-鸮形目的成员统称“猫头鹰”，均为掠食性鸟类。猫头鹰的眼睛并列前视，且多半具有由羽毛构成的“脸蛋”，即面盘，许多猫头鹰的头顶有耳状簇羽。大部分猫头鹰为夜行性动物，但也有一些猫头鹰在晨昏甚至白昼活动。 猫头鹰的大小多变，但色彩一般为暗淡的保护色，雌雄色彩相近或相同。大部分猫头鹰的羽毛极其柔软，可以吸收飞行的噪声；飞羽边缘有梳齿状结构，可以将气流打碎，防止飞行时发出响声。夜行性猫头鹰往往具有非常明显的面盘，用于收集声音；一些夜行性猫头鹰的耳上下不对称，可以更好地定位声音的来源。猫头鹰的眼球为柱状，无法转动，作为补偿其颈部极为灵活，可以完成270°的旋转。 猫头鹰为单配制鸟类，一部分终生结对，一部分每年更换新配偶。所有的猫头鹰都不搭建复杂的鸟巢，而是利用石缝、树洞、草窠、人类建筑物或其他鸟类的旧巢繁殖。 
+鸮形目的成员统称“猫头鹰”，均为掠食性鸟类。猫头鹰的眼睛并列前视，且多半具有由羽毛构成的“脸蛋”，即面盘，许多猫头鹰的头顶有耳状簇羽。大部分猫头鹰为夜行性动物，但也有一些猫头鹰在晨昏甚至白昼活动。 猫头鹰的大小多变，但色彩一般为暗淡的保护色，雌雄色彩相近或相同。大部分猫头鹰的羽毛极其柔软，可以吸收飞行的噪声；飞羽边缘有梳齿状结构，可以将气流打碎，防止飞行时发出响声。夜行性猫头鹰往往具有非常明显的面盘，用于收集声音；一些夜行性猫头鹰的耳上下不对称，可以更好地定位声音的来源。猫头鹰的眼球为柱状，无法转动，作为补偿其颈部极为灵活，可以完成270°的旋转。 猫头鹰为单配制鸟类，一部分终生结对，一部分每年更换新配偶。所有的猫头鹰都不搭建复杂的鸟巢，而是利用石缝、树洞、草窠、人类建筑物或其他鸟类的旧巢繁殖。
 
-### 1. 草鸮科 TYTONIDAE
+## 1. 草鸮科 TYTONIDAE
 
-#### 乌草鸮 _Tyto tenebricosa_
+### 乌草鸮 _Tyto tenebricosa_
 
-![&#x4F5C;&#x8005;Richard Jackson](../../.gitbook/assets/greater_sooty_owl_richard_jackson-4.jpg)
+![&#x4F5C;&#x8005;Richard Jackson](../.gitbook/assets/greater_sooty_owl_richard_jackson-4.jpg)
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -15,11 +15,11 @@
 
 相较其他草鸮头和眼甚大而尾甚小。面盘灰色，眼周黑色有时扩散到整个面盘。通体极深的黑褐色，布有白色小斑点，下腹灰白色但站立时不显。眼黑色，喙粉灰色，足灰色，爪灰黑色。
 
-#### 飞行
+### 飞行
 
 WIP
 
-#### 叫声
+### 叫声
 
 发出“扔炸弹”般下降的鸣声，或是电流般的zrrrrrr声，以及类似仓鸮的嘶叫和咂嘴声等。
 {% endtab %}
@@ -37,9 +37,7 @@ WIP
 {% endtab %}
 {% endtabs %}
 
-
-
-#### 仓鸮 _Tyto alba_
+### 仓鸮 _Tyto alba_
 
 {% hint style="success" %}
 您可以创建仓鸮复合种中的任何种/亚种
@@ -47,15 +45,15 @@ WIP
 
 {% tabs %}
 {% tab title="浅色个体" %}
-![&#x4F5C;&#x8005;Mark Chambers](../../.gitbook/assets/barnowltytoalba.jpg)
+![&#x4F5C;&#x8005;Mark Chambers](../.gitbook/assets/barnowltytoalba.jpg)
 {% endtab %}
 
 {% tab title="过渡个体" %}
-![&#x4F5C;&#x8005;Steve Metz](../../.gitbook/assets/steve-metz-salt-plains-nwr-eke-la-he-ma-ebird.jpg)
+![&#x4F5C;&#x8005;Steve Metz](../.gitbook/assets/steve-metz-salt-plains-nwr-eke-la-he-ma-ebird.jpg)
 {% endtab %}
 
 {% tab title="深色个体" %}
-![&#x4F5C;&#x8005;Lars Petersson](../../.gitbook/assets/2671_20170917_1_1000.jpg)
+![&#x4F5C;&#x8005;Lars Petersson](../.gitbook/assets/2671_20170917_1_1000.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -66,11 +64,11 @@ WIP
 
 羽色多变；同一种群内部雌性往往颜色较深且斑点较多，可能与性选择有关。除面盘外常通体覆盖白色和黑色的小斑点。浅色类型面盘白色，背面浅黄褐色带灰色蠕纹，腹面白色；深色类型面盘灰褐色，背面暗橙色带褐灰色或灰黑色蠕纹，腹面灰白色或黄褐色。其间有各种中间类型，黑白小斑点的数量和密度也随种群不同而不同。眼周深色。眼黑色，喙粉色，足粉黄色至灰粉色，爪褐灰色。
 
-#### 飞行
+### 飞行
 
 WIP
 
-#### 叫声
+### 叫声
 
 叫声描述：
 {% endtab %}
@@ -88,9 +86,7 @@ WIP
 {% endtab %}
 {% endtabs %}
 
-
-
-#### 东方草鸮 _Tyto longimembris_
+### 东方草鸮 _Tyto longimembris_
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -99,11 +95,11 @@ WIP
 
 整体轮廓较长，翅和足特长。面盘略长，从纯白色到棕褐色不等，年轻的鸟颜色较深；眼相对小，眼周黑色。背面鲜艳皮黄色有黑色斑块，覆盖黑白小斑点，腹面皮黄色至黄白色，部分个体覆盖黑色小斑点。眼黑色，喙粉色，足粉色，常因泥土呈褐色，爪黑褐色。
 
-#### 飞行
+### 飞行
 
 飞行时足明显拖于尾后。常在草滩上空缓慢飞行、滑行或悬停。
 
-#### 叫声
+### 叫声
 
 叫声描述：
 {% endtab %}
@@ -121,11 +117,11 @@ WIP
 {% endtab %}
 {% endtabs %}
 
-#### 
+## 2. 鸱鸮科 STRIGIDAE
 
-### 2. 鸱鸮科 STRIGIDAE
+### 领角鸮 _Otus lettia_
 
-#### 东方角鸮 _Otus sunia_
+### 东方角鸮 _Otus sunia_
 
 {% tabs %}
 {% tab title="灰色型" %}
@@ -133,7 +129,7 @@ WIP
 {% endtab %}
 
 {% tab title="红色型" %}
-![&#x4F5C;&#x8005;&#x5B50;&#x745C;](../../.gitbook/assets/24142933_24142933_1375652827415_mthumb.jpg)
+![&#x4F5C;&#x8005;&#x5B50;&#x745C;](../.gitbook/assets/24142933_24142933_1375652827415_mthumb.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -144,11 +140,11 @@ WIP
 
 小型猫头鹰，外貌符合经典的“猫头鹰”形象，耳状簇羽明显。有灰色型和红色型。灰色型遍布棕灰色均匀蠕纹，部分羽轴黑色，其腹部羽轴尤粗大，眉纹、肩羽远端和下腹白色。红色型以鲜艳砖红色取代棕灰色，背部羽轴略浅，其余同灰色型。眼浅黄色，喙黑灰色，足粉灰色被羽，爪灰色。
 
-#### 飞行
+### 飞行
 
 1
 
-#### 叫声
+### 叫声
 
 反复发出有节奏的空洞kru-krukru或kro-krokro三声（部分种群为四声），有时带颤音。
 {% endtab %}
@@ -158,11 +154,9 @@ WIP
 {% endtab %}
 {% endtabs %}
 
+### 雕鸮 _Bubo bubo_
 
-
-#### 雕鸮 _Bubo bubo_
-
-#### 黄脚渔鸮 _Ketupa flavipes_
+### 黄脚渔鸮 _Ketupa flavipes_
 
 {% tabs %}
 {% tab title="First Tab" %}
@@ -174,9 +168,9 @@ WIP
 {% endtab %}
 {% endtabs %}
 
-#### 花头鸺鹠 _Glaucidium passerinum_
+### 花头鸺鹠 _Glaucidium passerinum_
 
-![&#x4F5C;&#x8005;Helge Sorensen](../../.gitbook/assets/20190217_0400.jpg)
+![&#x4F5C;&#x8005;Helge Sorensen](../.gitbook/assets/20190217_0400.jpg)
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -186,11 +180,11 @@ WIP
 轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。  
 亚成鸟。裸部。
 
-#### 飞行
+### 飞行
 
 WIP
 
-#### 叫声
+### 叫声
 
 叫声描述：
 {% endtab %}
@@ -204,9 +198,9 @@ text
 {% endtab %}
 {% endtabs %}
 
-#### 斑头鸺鹠 _Glaucidium cuculoides_
+### 斑头鸺鹠 _Glaucidium cuculoides_
 
-![&#x4F5C;&#x8005;Ambika](../../.gitbook/assets/asian-barred-owlet-ddc86a71-6a98-4586-9903-8dc3361c26f-resize-750.jpeg)
+![&#x4F5C;&#x8005;Ambika](../.gitbook/assets/asian-barred-owlet-ddc86a71-6a98-4586-9903-8dc3361c26f-resize-750.jpeg)
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -216,11 +210,11 @@ text
 轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。  
 亚成鸟。裸部。
 
-#### 飞行
+### 飞行
 
 WIP
 
-#### 叫声
+### 叫声
 
 叫声描述：
 {% endtab %}
@@ -234,11 +228,9 @@ WIP
 {% endtab %}
 {% endtabs %}
 
+### 纵纹腹小鸮 _Athene noctua_
 
-
-#### 纵纹腹小鸮 _Athene noctua_
-
-![&#x4F5C;&#x8005;Mustafa Sozen](../../.gitbook/assets/mustafa-sozen.jpg)
+![&#x4F5C;&#x8005;Mustafa Sozen](../.gitbook/assets/mustafa-sozen.jpg)
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -248,11 +240,11 @@ WIP
 轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。  
 亚成鸟。裸部。
 
-#### 飞行
+### 飞行
 
 WIP
 
-#### 叫声
+### 叫声
 
 叫声描述：
 {% endtab %}
@@ -264,37 +256,9 @@ WIP
 
 
 
-#### 北鹰鸮 _Ninox japonica_
+### 短耳鸮 _Asio flammeus_
 
-![&#x4F5C;&#x8005;yann muzika](../../.gitbook/assets/yann-muzika.jpg)
-
-{% tabs %}
-{% tab title="生物学" %}
-* 体长：29-33 cm
-* 体重：♂平均167.5 g；♀平均168.2 g
-
-轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。  
-亚成鸟。裸部。
-
-#### 飞行
-
-WIP
-
-#### 叫声
-
-叫声描述：
-{% endtab %}
-
-{% tab title="生态学" %}
-* 生境：偏好有高大树木的低地阔叶落叶或常绿林，常在林缘活动。海平面至海拔1700米。
-* 食物：几乎完全为无脊椎动物，尤其是甲虫、蝗虫和蛾。有时捕食蛙类、蜥蜴、鼠类、小型蝙蝠等。
-* 天敌：wip
-{% endtab %}
-{% endtabs %}
-
-#### 短耳鸮 _Asio flammeus_
-
-#### 长耳鸮 _Asio otus_
+### 长耳鸮 _Asio otus_
 
 {% tabs %}
 {% tab title="First Tab" %}
@@ -305,3 +269,4 @@ WIP
 
 {% endtab %}
 {% endtabs %}
+
