@@ -1,13 +1,20 @@
 ---
-description: >-
-  VOLAMUS的鸟类除了具备人类智能，拥有相当于冷兵器时代的文明外均与现实中的鸟类严格一致。本页面及其子页面下的所有内容，除特别说明外，均为现实中鸟类的科学描述。
+description: 本手册所利用的所有摄影作品均为未经编辑的原始图片，仅作为非商业科教用途。若您不希望您的作品出现在此处，请您联系工作人员，我们将立即移除。
 ---
 
 # 鸟类手册
 
-{% hint style="info" %}
-本手册所利用的所有摄影作品均为未经编辑的原始图片，仅作为非商业科教用途。若您不希望您的作品出现在此处，请您联系工作人员，我们将立即移除。
-{% endhint %}
+VOLAMUS的鸟类除了具备人类智能、能运用复杂的语言交流等为满足奇幻设定而虚构的拟人特征，以及成长与寿命（详见下文）外，其生物学特征均与现实中的鸟类严格一致。本页面及其子页面下的所有内容，除特别说明外，均为现实中鸟类的科学描述。
+
+## 年龄计算
+
+众所周知，不同动物的成长、衰老速度不同。
+
+为便于所有玩家的操作，我们将VOLAMUS世界中
+
+## 鸟种一览
+
+### 鹰形目
 
 * 鹗 Pandion haliaetus
 * 黑翅鸢 Elanus caeruleus
@@ -29,7 +36,7 @@ description: >-
 * 灰脸鵟鹰 Butastur indicus
 * 大鵟 Buteo hemilasius
 
-
+### 鸮形目
 
 * 乌草鸮 Tyto tenebricosa
 * 仓鸮 Tyto alba sensu lato
@@ -45,7 +52,7 @@ description: >-
 * 短耳鸮 Asio flammeus
 * 长耳鸮 Asio otus
 
-
+### 隼形目
 
 * 白腿小隼 Microhierax melanoleucos
 * 红隼 Falco tinnunculus
@@ -54,7 +61,7 @@ description: >-
 * 游隼 Falco peregrinus
 * 猎隼 Falco cherrug
 
-
+### 雀形目
 
 * 黑喉鹊鸦 Calocitta colliei
 * 灰喜鹊 Cyanopica cyanus

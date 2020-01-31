@@ -1,6 +1,6 @@
 # 鹰形目
 
-鹰形目囊括了除隼以外的所有日行猛禽。鹰形目的成员形态多样，WIP
+鹰形目囊括了除[隼](otherbirds.md#sun-xing-mu-falconiformes)以外的所有日行猛禽。鹰形目的成员形态多样，WIP
 
 ## 1. 鹗科 PANDIONIDAE
 

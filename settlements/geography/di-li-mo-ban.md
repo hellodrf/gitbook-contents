@@ -31,7 +31,6 @@ description: 简介
 * 黑冠鹃隼 _Aviceda leuphotes_
 * 凤头鹰 _Accipiter trivirgatus_
 * 赤腹鹰 _Accipiter soloensis_
-* 赤肩鵟 _Buteo lineatus_
 * 领角鸮 _Otus lettia_
 * 斑头鸺鹠 _Glaucidium cuculoides_
 * 红嘴蓝鹊 _Urocissa erythroryncha_
