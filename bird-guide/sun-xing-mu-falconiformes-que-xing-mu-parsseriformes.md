@@ -23,28 +23,6 @@
 {% endtab %}
 {% endtabs %}
 
-#### 红隼
-
-{% tabs %}
-{% tab title="First Tab" %}
-
-{% endtab %}
-
-{% tab title="Second Tab" %}
-
-{% endtab %}
-{% endtabs %}
-
-{% tabs %}
-{% tab title="生物学" %}
-
-{% endtab %}
-
-{% tab title="生态学" %}
-
-{% endtab %}
-{% endtabs %}
-
 #### 食蝠隼 _Falco rufigularis_
 
 ![&#x4F5C;&#x8005;Christian Sanchez](../.gitbook/assets/christian-sanchez.jpg)
@@ -122,8 +100,6 @@ wip
 ![&#x4F5C;&#x8005;Daniel Sziklai](../.gitbook/assets/23646705482_eb8a09ff12_b.jpg)
 {% endtab %}
 {% endtabs %}
-
-每1年相当于2人类年，y=2x+13
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -207,9 +183,7 @@ WIP
 {% endtab %}
 {% endtabs %}
 
-
-
-#### 喜鹊 _Pica pica_
+#### 喜鹊 _Pica pica sensu latiore_
 
 {% hint style="success" %}
 您可以创建欧亚喜鹊复合种中的任何种/亚种，但不包括马格里布喜鹊 _P. mauritanica_和阿拉伯喜鹊 _P. asirensis_

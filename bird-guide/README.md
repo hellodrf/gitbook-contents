@@ -28,7 +28,6 @@ VOLAMUS的鸟类除了具备人类智能、能运用复杂的语言交流等为�
 * 苍鹰 Accipiter gentilis
 * 雀鹰 Accipiter nisus
 * 白尾鹞 Circus cyaneus
-* 长翅鹞 Circus buffoni
 * 赤鸢 Milvus milvus
 * 白腹海雕 Haliaeetus leucogaster
 * 玉带海雕 Haliaeetus leucoryphus
@@ -39,7 +38,7 @@ VOLAMUS的鸟类除了具备人类智能、能运用复杂的语言交流等为�
 ### 鸮形目
 
 * 乌草鸮 Tyto tenebricosa
-* 仓鸮 Tyto alba sensu lato
+* 仓鸮 Tyto alba
 * 东方草鸮 Tyto longimembris
 * 领角鸮 Otus lettia
 * 东方角鸮 Otus sunia
@@ -67,7 +66,7 @@ VOLAMUS的鸟类除了具备人类智能、能运用复杂的语言交流等为�
 * 灰喜鹊 Cyanopica cyanus
 * 红嘴蓝鹊 Urocissa erythroryncha
 * 蓝绿鹊 Cissa chinensis
-* 喜鹊 Pica pica sensu lato
+* 喜鹊 Pica pica
 * 寒鸦 Coloeus monedula
 * 小嘴乌鸦 Corvus corone
 * 白颈鸦 Corvus torquatus

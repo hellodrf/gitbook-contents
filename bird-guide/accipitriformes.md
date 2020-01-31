@@ -455,6 +455,52 @@ WIP
 {% endtab %}
 {% endtabs %}
 
+
+
+### 白尾鹞 _Circus cyaneus_
+
+{% hint style="danger" %}
+您不可以创建北美鹞 _C. \(c.\) hudsonius_
+{% endhint %}
+
+{% tabs %}
+{% tab title="雄" %}
+
+{% endtab %}
+
+{% tab title="雌" %}
+
+{% endtab %}
+
+{% tab title="亚成" %}
+
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="生物学" %}
+
+{% endtab %}
+
+{% tab title="生态学" %}
+
+{% endtab %}
+{% endtabs %}
+
+
+
+### 赤鸢 _Milvus milvus_
+
+{% tabs %}
+{% tab title="生物学" %}
+
+{% endtab %}
+
+{% tab title="生态学" %}
+
+{% endtab %}
+{% endtabs %}
+
 ### 白腹海雕
 
 {% tabs %}
