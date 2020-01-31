@@ -17,7 +17,7 @@
 
 ### 飞行
 
-WIP
+典型森林猛禽的短圆翼。飞行时足常拖下，长于尾。
 
 ### 叫声
 
@@ -57,6 +57,8 @@ WIP
 {% endtab %}
 {% endtabs %}
 
+每1年相当于2人类年，y=2x+13
+
 {% tabs %}
 {% tab title="生物学" %}
 * 体长：22-44 cm
@@ -66,7 +68,7 @@ WIP
 
 ### 飞行
 
-WIP
+翼长圆。飞行轻盈，有时不规律。飞行时足常拖下，不长于尾。
 
 ### 叫声
 
@@ -88,6 +90,8 @@ WIP
 
 ### 东方草鸮 _Tyto longimembris_
 
+每1年相当于2人类年，y=2x+13
+
 {% tabs %}
 {% tab title="生物学" %}
 * 体长：♂32-36 cm；♀35-42 cm
@@ -97,7 +101,7 @@ WIP
 
 ### 飞行
 
-飞行时足明显拖于尾后。常在草滩上空缓慢飞行、滑行或悬停。
+飞行时足常拖下，明显长于尾。常在草滩上空缓慢飞行、滑行或悬停。
 
 ### 叫声
 
@@ -121,7 +125,21 @@ WIP
 
 ### 领角鸮 _Otus lettia_
 
+每1年相当于4人类年，y=4x+11
+
+{% tabs %}
+{% tab title="First Tab" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
 ### 东方角鸮 _Otus sunia_
+
+每1年相当于4人类年，y=4x+11
 
 {% tabs %}
 {% tab title="灰色型" %}
@@ -172,6 +190,8 @@ WIP
 
 ![&#x4F5C;&#x8005;Helge Sorensen](../.gitbook/assets/20190217_0400.jpg)
 
+每1年相当于4人类年，y=4x+11
+
 {% tabs %}
 {% tab title="生物学" %}
 * 体长：15-19 cm
@@ -191,7 +211,7 @@ WIP
 
 {% tab title="生态学" %}
 * 生境：开阔针叶林、混交林。
-* 食物：以 田鼠为主的小型哺乳类、小型鸟类。
+* 食物：以田鼠为主的小型哺乳类、小型鸟类。
 * 天敌：WIP
 
 text
@@ -201,6 +221,8 @@ text
 ### 斑头鸺鹠 _Glaucidium cuculoides_
 
 ![&#x4F5C;&#x8005;Ambika](../.gitbook/assets/asian-barred-owlet-ddc86a71-6a98-4586-9903-8dc3361c26f-resize-750.jpeg)
+
+每1年相当于4人类年，y=4x+11
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -232,6 +254,8 @@ WIP
 
 ![&#x4F5C;&#x8005;Mustafa Sozen](../.gitbook/assets/mustafa-sozen.jpg)
 
+每1年相当于4人类年，y=4x+11
+
 {% tabs %}
 {% tab title="生物学" %}
 * 体长：22-25 cm
@@ -257,6 +281,18 @@ WIP
 
 
 ### 短耳鸮 _Asio flammeus_
+
+
+
+{% tabs %}
+{% tab title="First Tab" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
 
 ### 长耳鸮 _Asio otus_
 

@@ -4,7 +4,7 @@
 
 ## 1. 鹗科 PANDIONIDAE
 
-### 鹗 _Pandion haliaetus_ sensu lato
+### 鹗 _Pandion haliaetus_
 
 {% hint style="success" %}
 您可以创建东方鹗 _P. \(h.\) cristatus_
@@ -13,6 +13,8 @@
 ![&#x4F5C;&#x8005;Christopher Paparo](../.gitbook/assets/tr0317_a_osprey2_cp.jpg)
 
 text
+
+每1年相当于1.5人类年，y=1.5x+13.5
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -90,7 +92,7 @@ WIP
 
 ![&#x4F5C;&#x8005;Pete Oxford](../.gitbook/assets/90200675.jpg)
 
-text
+每1年相当于1.5人类年，y=1.5x+13.5
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -118,6 +120,8 @@ WIP
 {% endtab %}
 {% endtabs %}
 
+
+
 ### 白背兀鹫 _Gyps bengalensis_
 
 {% tabs %}
@@ -131,6 +135,8 @@ WIP
 {% endtabs %}
 
 text
+
+每1年相当于1人类年，y=x+14
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -160,7 +166,7 @@ WIP
 
 ![&#x4F5C;&#x8005;wokoti](../.gitbook/assets/wokoti.jpg)
 
-text
+每1年相当于2人类年，y=2x+13
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -202,6 +208,8 @@ WIP
 
 丽鹰雕一度生活在哈兰那的西南一隅，WIP
 
+每1年相当于1人类年，y=x+14
+
 {% tabs %}
 {% tab title="生物学" %}
 * 体长：56-67 cm
@@ -242,6 +250,8 @@ WIP
 
 林雕是哈兰那王国古老的统治者，可考的历史就长达数百年——甚至有传言说他们是这片土地千年前就命定的君主。然而，命定的君主并非仁慈的君主。WIP
 
+每1年相当于1人类年，y=x+14
+
 {% tabs %}
 {% tab title="生物学" %}
 * 体长：65-80 cm
@@ -280,6 +290,8 @@ WIP
 {% endtabs %}
 
 哈兰那……
+
+每1年相当于2人类年，y=2x+13
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -323,6 +335,8 @@ WIP
 {% endtabs %}
 
 赤腹鹰体型娇小，text
+
+每1年相当于2人类年，y=2x+13
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -370,6 +384,8 @@ WIP
 {% endtabs %}
 
 WIP
+
+每1年相当于2人类年，y=2x+13
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -422,7 +438,7 @@ WIP
 {% endtab %}
 {% endtabs %}
 
-text
+每1年相当于2人类年，y=2x+13
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -451,6 +467,8 @@ text
 {% endtab %}
 {% endtabs %}
 
+每1年相当于1人类年，y=x+14
+
 {% tabs %}
 {% tab title="生物学" %}
 * 体长：70-85 cm
@@ -461,6 +479,8 @@ text
 
 {% endtab %}
 {% endtabs %}
+
+
 
 ### 玉带海雕 _Haliaeetus leucoryphus_
 
@@ -478,7 +498,7 @@ text
 
 伊苏尔的玉带海雕WIP
 
-年龄和计算公式。
+每1年相当于1人类年，y=x+14
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -516,6 +536,8 @@ text
 留鸟、候鸟均有，冬季水域冻结时则向南迁徙，无游荡性。幼鸟离巢后扩散。
 {% endtab %}
 {% endtabs %}
+
+### 白尾海雕
 
 ### 灰脸鵟鹰 _Butastur indicus_
 
