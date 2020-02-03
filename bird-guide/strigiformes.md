@@ -127,6 +127,8 @@
 
 ### 领角鸮 _Otus lettia_
 
+![&#x4F5C;&#x8005;&#x9648;&#x9648;](../.gitbook/assets/chen-chen.jpg)
+
 每1年相当于4人类年，y=4x+11
 
 {% tabs %}
@@ -139,13 +141,15 @@
 {% endtab %}
 {% endtabs %}
 
+
+
 ### 东方角鸮 _Otus sunia_
 
 每1年相当于4人类年，y=4x+11
 
 {% tabs %}
 {% tab title="灰色型" %}
-![&#x4F5C;&#x8005;Govind Vijayakumar](../.gitbook/assets/govind-vijayakumar.-bhitarkanika-odisha-india.jpg)
+![&#x4F5C;&#x8005;Kai Pflug](../.gitbook/assets/70158861.jpg)
 {% endtab %}
 
 {% tab title="红色型" %}
@@ -174,6 +178,8 @@
 {% endtab %}
 {% endtabs %}
 
+
+
 ### 雕鸮 _Bubo bubo_
 
 {% tabs %}
@@ -185,6 +191,8 @@
 
 {% endtab %}
 {% endtabs %}
+
+
 
 ### 黄脚渔鸮 _Ketupa flavipes_
 
@@ -200,6 +208,8 @@
 
 {% endtab %}
 {% endtabs %}
+
+
 
 ### 花头鸺鹠 _Glaucidium passerinum_
 
@@ -233,6 +243,8 @@ text
 {% endtab %}
 {% endtabs %}
 
+
+
 ### 斑头鸺鹠 _Glaucidium cuculoides_
 
 ![&#x4F5C;&#x8005;Ambika](../.gitbook/assets/asian-barred-owlet-ddc86a71-6a98-4586-9903-8dc3361c26f-resize-750.jpeg)
@@ -264,6 +276,8 @@ WIP
 基本为日行动物。
 {% endtab %}
 {% endtabs %}
+
+
 
 ### 纵纹腹小鸮 _Athene noctua_
 
@@ -297,17 +311,19 @@ WIP
 
 ### 短耳鸮 _Asio flammeus_
 
-
+![&#x4F5C;&#x8005;Jeff Dyck](../.gitbook/assets/jeff-dyck-qiao-zhi-wang-zi-cheng-ji-chang.jpg)
 
 {% tabs %}
-{% tab title="First Tab" %}
+{% tab title="生物学" %}
 
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="生态学" %}
 
 {% endtab %}
 {% endtabs %}
+
+
 
 ### 长耳鸮 _Asio otus_
 

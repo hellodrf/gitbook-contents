@@ -200,6 +200,8 @@ WIP
 {% endtab %}
 {% endtabs %}
 
+
+
 ### 丽鹰雕 _Spizaetus ornatus_
 
 {% tabs %}
@@ -242,6 +244,8 @@ WIP
 {% endtab %}
 {% endtabs %}
 
+
+
 ### 林雕 _Ictinaetus malaiensis_
 
 {% tabs %}
@@ -283,6 +287,8 @@ WIP
 {% endtab %}
 {% endtabs %}
 
+
+
 ### 凤头鹰 _Accipiter trivirgatus_
 
 {% tabs %}
@@ -323,6 +329,8 @@ WIP
 从隐蔽的栖枝上守株待兔，俯冲至地面或树枝捕猎，或在空中追逐。有时袭击洞穴蝙蝠。
 {% endtab %}
 {% endtabs %}
+
+
 
 ### 赤腹鹰 _Accipiter soloensis_
 
@@ -369,6 +377,8 @@ WIP
 {% endtab %}
 {% endtabs %}
 
+
+
 ### 苍鹰 _Accipiter gentilis_
 
 {% hint style="success" %}
@@ -389,7 +399,7 @@ WIP
 {% endtab %}
 {% endtabs %}
 
-WIP
+苍鹰是……
 
 每1年相当于2人类年，y=2x+13
 
@@ -427,6 +437,8 @@ WIP
 * 丰羽期：
 {% endtab %}
 {% endtabs %}
+
+
 
 ### 雀鹰 _Accipiter nisus_
 
@@ -475,7 +487,7 @@ WIP
 {% endtab %}
 
 {% tab title="雌" %}
-
+![&#x81EA;ALAMY](../.gitbook/assets/fe.jpg)
 {% endtab %}
 
 {% tab title="亚成" %}
@@ -497,6 +509,8 @@ WIP
 
 ### 赤鸢 _Milvus milvus_
 
+![&#x4F5C;&#x8005;Paddys](../.gitbook/assets/paddys.jpg)
+
 {% tabs %}
 {% tab title="生物学" %}
 
@@ -507,7 +521,9 @@ WIP
 {% endtab %}
 {% endtabs %}
 
-### 白腹海雕
+
+
+### 白腹海雕 _Haliaeetus leucogaster_
 
 {% tabs %}
 {% tab title="成鸟" %}
@@ -589,7 +605,7 @@ WIP
 {% endtab %}
 {% endtabs %}
 
-### 白尾海雕
+### 白尾海雕 _Haliaeetus albicilla_
 
 ### 灰脸鵟鹰 _Butastur indicus_
 

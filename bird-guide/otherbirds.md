@@ -245,6 +245,18 @@ WIP
 {% endtab %}
 {% endtabs %}
 
+#### 寒鸦 _Coloeus monedula_
+
+{% tabs %}
+{% tab title="生物学" %}
+
+{% endtab %}
+
+{% tab title="生态学" %}
+
+{% endtab %}
+{% endtabs %}
+
 #### 小嘴乌鸦 _Corvus corone_
 
 ![&#x4F5C;&#x8005;Paul](../.gitbook/assets/33833793762_5f214f047f_b.jpg)
@@ -258,6 +270,22 @@ WIP
 
 {% endtab %}
 {% endtabs %}
+
+
+
+#### 白颈鸦 _Corvus torquatus_
+
+{% tabs %}
+{% tab title="生物学" %}
+
+{% endtab %}
+
+{% tab title="生态学" %}
+
+{% endtab %}
+{% endtabs %}
+
+
 
 #### 渡鸦 _Corvus corax_
 
