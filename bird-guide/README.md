@@ -10,7 +10,7 @@ VOLAMUS的鸟类除了具备人类智能、能运用复杂的语言交流等为�
 
 不同动物的成长、衰老速度不同，尤其是对于体型差异悬殊的动物。此外，鸟类是一个幼年成长速度极快，且先达到体成熟（即不再长大）再达到性成熟的类群。为保留动物奇幻的独特性，我们认为不能将人类的成长过程和自然寿命生搬硬套在所有鸟类身上。
 
-为操作简便，我们将VOLAMUS世界中所有鸟……所有鸟种在1周岁时统一定为15岁人类年。在1周岁后，每增长一年，相当于增加1个对应的人类年。
+为操作简便，我们使用虚构的公式计算VOLAMUS世界中所有鸟的成长与人类成长的对应关系：所有鸟种在1周岁时统一定为15岁人类年。在1周岁后，每增长一年，相当于增加x个对应的人类年。
 
 ## 鸟种一览
 
@@ -33,7 +33,6 @@ VOLAMUS的鸟类除了具备人类智能、能运用复杂的语言交流等为�
 * 玉带海雕 Haliaeetus leucoryphus
 * 白尾海雕 Haliaeetus albicilla
 * 灰脸鵟鹰 Butastur indicus
-* 大鵟 Buteo hemilasius
 
 ### 鸮形目
 
@@ -62,10 +61,8 @@ VOLAMUS的鸟类除了具备人类智能、能运用复杂的语言交流等为�
 
 ### 雀形目
 
-* 黑喉鹊鸦 Calocitta colliei
 * 灰喜鹊 Cyanopica cyanus
 * 红嘴蓝鹊 Urocissa erythroryncha
-* 蓝绿鹊 Cissa chinensis
 * 喜鹊 Pica pica
 * 寒鸦 Coloeus monedula
 * 小嘴乌鸦 Corvus corone

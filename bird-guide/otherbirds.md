@@ -26,12 +26,12 @@
 #### 红隼
 
 {% tabs %}
-{% tab title="First Tab" %}
-
+{% tab title="雄" %}
+![&#x4F5C;&#x8005;Heinz Rothacher](../.gitbook/assets/1498289792124.jpg)
 {% endtab %}
 
-{% tab title="Second Tab" %}
-
+{% tab title="雌" %}
+![&#x4F5C;&#x8005;&#x9648;&#x9648;](../.gitbook/assets/chen-chen-k.jpg)
 {% endtab %}
 {% endtabs %}
 
