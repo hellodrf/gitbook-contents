@@ -43,7 +43,7 @@ VOLAMUS的鸟类除了具备人类智能等为满足奇幻设定而虚构的拟�
 * 东方角鸮 Otus sunia
 * 雕鸮 Bubo bubo
 * 黄脚渔鸮 Ketupa flavipes
-* 褐林鸮 Strix leptogrammica
+* 灰林鸮 Strix nivicolum
 * 花头鸺鹠 Glaucidium passerinum
 * 斑头鸺鹠 Glaucidium cuculoides
 * 纵纹腹小鸮 Athene noctua

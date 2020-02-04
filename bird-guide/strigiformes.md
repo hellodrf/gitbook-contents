@@ -184,7 +184,19 @@
 
 {% tabs %}
 {% tab title="生物学" %}
+* 体长：
+* 体重：
 
+轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。  
+亚成鸟。裸部。
+
+### 飞行
+
+WIP
+
+### 叫声
+
+叫声描述：
 {% endtab %}
 
 {% tab title="生态学" %}
@@ -192,16 +204,57 @@
 {% endtab %}
 {% endtabs %}
 
-
-
 ### 黄脚渔鸮 _Ketupa flavipes_
 
-![&#x4F5C;&#x8005;Markus Lilje](../.gitbook/assets/owl_fish_tawny_-022.jpg)
+![&#x4F5C;&#x8005;Markus  Lilje](../.gitbook/assets/owl_fish_tawny_-022.jpg)
+
+![&#x4F5C;&#x8005;Markus  Lilje](../.gitbook/assets/owl_fish_tawny_-022.jpg)
 
 {% tabs %}
 {% tab title="生物学" %}
 * 体长：48-58 cm
-* 体重：不详
+* 体重：1800-2200 g
+
+轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。  
+亚成鸟。裸部。
+
+### 飞行
+
+WIP
+
+### 叫声
+
+叫声描述：
+{% endtab %}
+
+{% tab title="生态学" %}
+
+{% endtab %}
+{% endtabs %}
+
+![&#x7070;&#x8272;&#x578B;&#xFF0C;&#x4F5C;&#x8005;Robin Newlin](../.gitbook/assets/unnamed.jpg)
+
+![&#x7070;&#x8272;&#x578B;&#xFF0C;&#x4F5C;&#x8005;Robin Newlin](../.gitbook/assets/unnamed.jpg)
+
+
+
+### 灰林鸮 _Strix nivicolum_
+
+{% tabs %}
+{% tab title="生物学" %}
+* 体长：35-40 cm
+* 体重：375-392 g
+
+轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。  
+亚成鸟。裸部。
+
+### 飞行
+
+WIP
+
+### 叫声
+
+叫声描述：
 {% endtab %}
 
 {% tab title="生态学" %}
