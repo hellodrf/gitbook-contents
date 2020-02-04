@@ -208,8 +208,6 @@ WIP
 
 ![&#x4F5C;&#x8005;Markus  Lilje](../.gitbook/assets/owl_fish_tawny_-022.jpg)
 
-![&#x4F5C;&#x8005;Markus  Lilje](../.gitbook/assets/owl_fish_tawny_-022.jpg)
-
 {% tabs %}
 {% tab title="生物学" %}
 * 体长：48-58 cm
@@ -232,13 +230,13 @@ WIP
 {% endtab %}
 {% endtabs %}
 
-![&#x7070;&#x8272;&#x578B;&#xFF0C;&#x4F5C;&#x8005;Robin Newlin](../.gitbook/assets/unnamed.jpg)
-
-![&#x7070;&#x8272;&#x578B;&#xFF0C;&#x4F5C;&#x8005;Robin Newlin](../.gitbook/assets/unnamed.jpg)
-
 
 
 ### 灰林鸮 _Strix nivicolum_
+
+![&#x7070;&#x8272;&#x578B;&#xFF0C;&#x4F5C;&#x8005;Robin Newlin](../.gitbook/assets/unnamed.jpg)
+
+text
 
 {% tabs %}
 {% tab title="生物学" %}
