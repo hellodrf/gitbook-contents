@@ -8,10 +8,13 @@
   * [主线剧情](guide/plot.md)
   * [常见问题](guide/faq.md)
 * [鸟类手册](bird-guide/README.md)
-  * [鹰形目](bird-guide/accipitriformes.md)
-  * [鸮形目](bird-guide/strigiformes.md)
-  * [其他鸟类](bird-guide/otherbirds.md)
-  * [杂交一览](bird-guide/hybrids.md)
+  * [开放鸟种](bird-guide/species/README.md)
+    * [鹰形目](bird-guide/species/accipiter.md)
+    * [鸮形目](bird-guide/species/owls.md)
+    * [隼形目](bird-guide/species/falcons.md)
+    * [雀形目](bird-guide/species/songbirds.md)
+    * [杂交一览](bird-guide/species/hybrids.md)
+  * [鸟类术语](bird-guide/terminology.md)
 * [世界设定](settlements/README.md)
   * [历史](settlements/history.md)
   * [地理](settlements/geography/README.md)
@@ -21,6 +24,7 @@
     * [伊苏尔联盟](settlements/factions/alliance.md)
   * [家族](settlements/bloodlines.md)
   * [文化](settlements/cultures/README.md)
+    * [哈兰那](settlements/cultures/harana.md)
     * [伊苏尔](settlements/cultures/issur.md)
   * [技术](settlements/technology.md)
 * [角色创建](character/README.md)
@@ -30,5 +34,5 @@
 ## 敬请期待 <a id="under-construction"></a>
 
 * [鸟类概论](under-construction/ornithology.md)
-* [鸟类术语](under-construction/terminology.md)
+* [异能](under-construction/magic.md)
 

@@ -28,7 +28,6 @@ description: 简介
 
 {% tabs %}
 {% tab title="常见" %}
-* 黑冠鹃隼 _Aviceda leuphotes_
 * 凤头鹰 _Accipiter trivirgatus_
 * 赤腹鹰 _Accipiter soloensis_
 * 领角鸮 _Otus lettia_
@@ -37,6 +36,7 @@ description: 简介
 {% endtab %}
 
 {% tab title="少见" %}
+* 黑冠鹃隼 _Aviceda leuphotes_
 * 蛇雕 _Spilornis cheela_
 * 林雕 _Ictinaetus malaiensis_
 {% endtab %}

@@ -1,20 +1,27 @@
-# 其他鸟类
+# 隼形目
 
-## 隼形目 FALCONIFORMES
+隼形目是猛禽的主要类群之一，具有钩状的喙和敏锐的双目视觉；眉骨突出，能够遮挡强光。掠食性较强的隼形目鸟类还有强健的足、较长的II趾和高度弯曲的爪，用于攫取、制伏、杀死猎物。其中，隼形目隼科的成员为中小型掠食性鸟类，雌大于雄，色彩多变，且某些类群的雌雄色彩显著不同。其中，隼属是一个变异较小的属，其成员通称“隼”，喙下缘有齿状结构，用于快速杀死猎物；绝大多数隼具有尖形翼，擅长高速、灵活飞行。隼形目鸟类大多为日行性动物，部分晨昏和夜晚亦活跃。
 
-### 1. 隼科 FALCONIDAE
+## 1. 隼科
 
-#### 白腿小隼 _Microhierax melanoleucos_
+### 白腿小隼 _Microhierax melanoleucos_
 
-![&#x4F5C;&#x8005;&#x73A9;&#x4E3B;&#x5317;&#x4EAC;](../.gitbook/assets/091357dj7f2w2660w0t24m.jpg)
+![&#x4F5C;&#x8005;&#x73A9;&#x4E3B;&#x5317;&#x4EAC;](../../.gitbook/assets/091357dj7f2w2660w0t24m.jpg)
 
 {% tabs %}
 {% tab title="生物学" %}
 * 体长：16-18 cm
 * 体重：55-75 g
 
-轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。  
-亚成鸟。
+极小的猛禽，体态短圆。喙短小。冠、后颈、眼周、颊黑色，眉纹、喉白色。背面、胁蓝黑色，翼、尾羽有白点；腹面白色。眼黑色。蜡膜灰绿色；喙铅灰色，远端黑灰色。足暗灰色，爪黑色。
+
+### 飞行
+
+飞行时可见短三角形的翼。飞行有力、振翅迅速，有时长距离滑翔。
+
+### 叫声
+
+略带颤音的吱吱尖叫，以及低音调的喳喳声。激怒时发出嘶声。
 {% endtab %}
 
 {% tab title="生态学" %}
@@ -26,15 +33,15 @@
 {% endtab %}
 {% endtabs %}
 
-#### 红隼 _Falco tinnunculus_
+### 红隼 _Falco tinnunculus_
 
 {% tabs %}
 {% tab title="雄" %}
-![&#x4F5C;&#x8005;Heinz Rothacher](../.gitbook/assets/1498289792124.jpg)
+![&#x4F5C;&#x8005;Heinz Rothacher](../../.gitbook/assets/1498289792124.jpg)
 {% endtab %}
 
 {% tab title="雌" %}
-![&#x4F5C;&#x8005;&#x9648;&#x9648;](../.gitbook/assets/chen-chen-k.jpg)
+![&#x4F5C;&#x8005;&#x9648;&#x9648;](../../.gitbook/assets/chen-chen-k.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -43,8 +50,16 @@
 * 体长：27-35 cm
 * 体重：♂ 136-252 g，♀ 154-314 g
 
-轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。  
-亚成鸟。
+小而纤细的猛禽。雄鸟头部蓝灰色。背面赤褐色被黑色斑点，尾羽蓝灰色，部分种群有淡横纹；胸腹浅橙色至橙红色布黑色斑点，翼下白色被黑斑。雌鸟冠赤褐色密布黑色纵纹。冠与背面赤褐色密布黑色粗横纹；胸腹浅橙色至橙红色布粗大黑色纵纹，翼下白色被黑斑。雌雄皆具黑色髭纹、黑色飞羽，尾羽次端皆具宽阔黑带。眼周裸皮与蜡膜黄色，眼暗褐色。喙铅灰色，远端黑灰色。足明黄色，爪黑灰色。  
+亚成鸟似雌鸟，但黑色纵纹更粗大，雄亚成鸟头尾常泛灰色；蜡膜绿色。
+
+### 飞行
+
+WIP
+
+### 叫声
+
+WIP
 {% endtab %}
 
 {% tab title="生态学" %}
@@ -56,9 +71,9 @@
 {% endtab %}
 {% endtabs %}
 
-#### 食蝠隼 _Falco rufigularis_
+### 食蝠隼 _Falco rufigularis_
 
-![&#x4F5C;&#x8005;Christian Sanchez](../.gitbook/assets/christian-sanchez.jpg)
+![&#x4F5C;&#x8005;Christian Sanchez](../../.gitbook/assets/christian-sanchez.jpg)
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -78,15 +93,15 @@
 {% endtab %}
 {% endtabs %}
 
-#### 燕隼 _Falco subbuteo_
+### 燕隼 _Falco subbuteo_
 
 {% tabs %}
 {% tab title="成鸟" %}
-![&#x4F5C;&#x8005;Imran Shah](../.gitbook/assets/eurasian_hobby_-falco_subbuteo-_-22427388580.jpg)
+![&#x4F5C;&#x8005;Imran Shah](../../.gitbook/assets/eurasian_hobby_-falco_subbuteo-_-22427388580.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
-![&#x4F5C;&#x8005;Mark Sisson](../.gitbook/assets/mark-sisson.jpg)
+![&#x4F5C;&#x8005;Mark Sisson](../../.gitbook/assets/mark-sisson.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -118,7 +133,9 @@ text
 {% endtab %}
 {% endtabs %}
 
-#### 游隼 _Falco peregrinus_
+
+
+### 游隼 _Falco peregrinus_
 
 {% hint style="warning" %}
 您不可以创建拟游隼 _F. \(p.\) pelegrinoides_
@@ -126,15 +143,15 @@ text
 
 {% tabs %}
 {% tab title="成鸟与雏鸟" %}
-![&#x81EA;Talk AEP](../.gitbook/assets/talk_aep_-_peregrine_falcon_bang_the_table_gallery_widget_1080px_wide_1.jpg)
+![&#x81EA;Talk AEP](../../.gitbook/assets/talk_aep_-_peregrine_falcon_bang_the_table_gallery_widget_1080px_wide_1.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
-![&#x4F5C;&#x8005;Dipendrasinh Zala](../.gitbook/assets/img_2720.jpg)
+![&#x4F5C;&#x8005;Dipendrasinh Zala](../../.gitbook/assets/img_2720.jpg)
 {% endtab %}
 
 {% tab title="\"kreyenborgi\"型" %}
-![&#x4F5C;&#x8005;Daniel Sziklai](../.gitbook/assets/23646705482_eb8a09ff12_b.jpg)
+![&#x4F5C;&#x8005;Daniel Sziklai](../../.gitbook/assets/23646705482_eb8a09ff12_b.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -173,7 +190,7 @@ text
 
 
 
-#### 猎隼 _Falco cherrug_
+### 猎隼 _Falco cherrug_
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -198,191 +215,6 @@ text
 * 天敌：
 
 在高处停栖，寻找猎物，直接低空突袭；或在低空巡航，发现空中的猎物后加速追逐。有时在空中悬停、盘旋，然后俯冲攻击。一般在地面或近地面捕捉猎物，但鸟类也会在低空中捕捉。在空中食用小型猎物，将大型猎物带回栖枝食用。偶尔徒步捕捉甲虫，但较少。
-{% endtab %}
-{% endtabs %}
-
-## 雀形目 PARSSERIFORMES
-
-### 1. 鸦科 CORVIDAE
-
-#### 红嘴蓝鹊 _Urocissa erythroryncha_
-
-![&#x4F5C;&#x8005;&#x843D;&#x65E5;&#x7194;&#x91D1;](../.gitbook/assets/h.jpg)
-
-{% tabs %}
-{% tab title="生物学" %}
-* 体长：53-68 cm
-* 体重：♂145-192 g；♀106-155 g
-
-轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。  
-亚成鸟。裸部。
-
-#### 飞行
-
-WIP
-
-#### 叫声
-
-叫声描述：
-{% endtab %}
-
-{% tab title="生态学" %}
-* 生境：
-* 食物：
-* 天敌：
-{% endtab %}
-{% endtabs %}
-
-
-
-#### 喜鹊 _Pica pica_
-
-{% hint style="success" %}
-您可以创建欧亚喜鹊复合种中的任何种/亚种，但不包括马格里布喜鹊 _P. mauritanica_和阿拉伯喜鹊 _P. asirensis_
-{% endhint %}
-
-![&#x4F5C;&#x8005;Pierre-Selim](../.gitbook/assets/zhi-ming.jpg)
-
-text
-
-{% tabs %}
-{% tab title="生物学" %}
-* 体长：45-50 cm
-* 体重：185-268 g
-
-轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。  
-亚成鸟。裸部。
-
-#### 飞行
-
-WIP
-
-#### 叫声
-
-典型鸣叫为沙哑的“喳喳”。
-{% endtab %}
-
-{% tab title="生态学" %}
-* 生境：
-* 食物：
-* 天敌：
-{% endtab %}
-
-{% tab title="生活史" %}
-
-{% endtab %}
-{% endtabs %}
-
-
-
-#### 寒鸦 _Coloeus monedula_
-
-{% tabs %}
-{% tab title="生物学" %}
-* 体长： cm
-* 体重： g
-
-轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。  
-亚成鸟。裸部。
-
-#### 飞行
-
-WIP
-
-#### 叫声
-
-典型鸣叫为
-{% endtab %}
-
-{% tab title="生态学" %}
-
-{% endtab %}
-{% endtabs %}
-
-
-
-#### 小嘴乌鸦 _Corvus corone_
-
-![&#x4F5C;&#x8005;Paul](../.gitbook/assets/33833793762_5f214f047f_b.jpg)
-
-{% tabs %}
-{% tab title="生物学" %}
-* 体长： cm
-* 体重： g
-
-大型鸟类。整体轮廓平庸。通体黑色有金属光泽。眼黑色，喙黑色，足灰黑色，爪黑色。
-
-  
-亚成鸟。裸部。
-
-#### 飞行
-
-翅圆钝，有翼指；尾扇形。
-
-#### 叫声
-
-典型鸣叫为沙哑凄厉的“啊、啊”。
-{% endtab %}
-
-{% tab title="生态学" %}
-
-{% endtab %}
-{% endtabs %}
-
-
-
-#### 白颈鸦 _Corvus torquatus_
-
-{% tabs %}
-{% tab title="生物学" %}
-* 体长：
-* 体重：
-
-轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。  
-亚成鸟。
-{% endtab %}
-
-{% tab title="生态学" %}
-
-{% endtab %}
-{% endtabs %}
-
-
-
-#### 渡鸦 _Corvus corax_
-
-{% tabs %}
-{% tab title="栖止" %}
-![&#x4F5C;&#x8005;Pkspks](../.gitbook/assets/corvus_corax_tibetanus.jpg)
-{% endtab %}
-
-{% tab title="飞行" %}
-![&#x4F5C;&#x8005;Rick &amp; Nora Bowers](../.gitbook/assets/rick-and-nora-bowers-audubon.jpg)
-{% endtab %}
-{% endtabs %}
-
-{% tabs %}
-{% tab title="生物学" %}
-* 体长：58-69 cm
-* 体重：585-2000 g
-
-最大的鸦科鸟类。喙粗而长，喉部有披针状羽毛，头顶略成三角形。通体黑色有金属光泽。眼黑色，喙黑色，足灰黑色，爪黑色。
-
-#### 飞行
-
-翅明显长于其他鸦鹊而略成长三角形，有翼指；尾楔形。常翱翔飞行。
-
-#### 叫声
-
-多变。典型鸣叫粗粝沉闷，与乌鸦的嘹亮鸣叫有差异。
-{% endtab %}
-
-{% tab title="生态学" %}
-
-{% endtab %}
-
-{% tab title="生活史" %}
-
 {% endtab %}
 {% endtabs %}
 

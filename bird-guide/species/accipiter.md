@@ -1,8 +1,8 @@
 # 鹰形目
 
-鹰形目是猛禽的主要类群之一，俗称“鹰”，绝大多数为掠食性鸟类。鹰形目的成员形态多样，但都具有钩状的喙和较好的双目视觉；大多数成员的的眉骨突出，能够遮挡强光。绝大多数鹰形目鸟类为日行性动物，部分晨昏活跃，极少数夜行。鹰形目的大小、形态、色彩多变，绝大多数雌大于雄，且某些类群的雌雄色彩显著不同。许多鹰形目鸟类的外侧初级飞羽末端收缩，飞行时可见“手指”样缺刻，称为“翼指”。不少鹰形目鸟类，尤其是大型成员，擅长利用上升热气流翱翔飞行，可以几个小时不落地、不振翅。掠食性较强的鹰形目鸟类还有强健的足、较长的II趾和高度弯曲的爪，用于攫取、制伏、杀死猎物。
+鹰形目是日行猛禽的主要类群，俗称“鹰”，绝大多数为掠食性鸟类。鹰形目的成员形态多样，但都具有钩状的喙和敏锐的双目视觉；大多数成员的的眉骨突出，能够遮挡强光。掠食性较强的鹰形目鸟类还有强健的足、较长的II趾和高度弯曲的爪，用于攫取、制伏、杀死猎物。鹰形目的大小、形态、色彩多变，绝大多数雌大于雄，且某些类群的雌雄色彩显著不同。许多鹰形目鸟类的外侧初级飞羽末端收缩，飞行时可见“手指”样缺刻，称为“翼指”。不少鹰形目鸟类，尤其是大型成员，擅长利用上升热气流翱翔飞行，可以几个小时不落地、不振翅。绝大多数鹰形目鸟类为日行性动物，部分晨昏活跃，极少数夜行。
 
-## 1. 鹗科 PANDIONIDAE
+## 1. 鹗科
 
 ### 鹗 _Pandion haliaetus_
 
@@ -10,7 +10,7 @@
 您可以创建东方鹗 _P. \(h.\) cristatus_
 {% endhint %}
 
-![&#x4F5C;&#x8005;Christopher Paparo](../.gitbook/assets/tr0317_a_osprey2_cp.jpg)
+![&#x4F5C;&#x8005;Christopher Paparo](../../.gitbook/assets/tr0317_a_osprey2_cp.jpg)
 
 text
 
@@ -42,17 +42,17 @@ WIP
 {% endtab %}
 {% endtabs %}
 
-## 2. 鹰科 ACCIPTRIDAE
+## 2. 鹰科
 
 ### 黑翅鸢 _Elanus caeruleus_
 
 {% tabs %}
 {% tab title="成鸟" %}
-![&#x4F5C;&#x8005;Bhaarat Vyas](../.gitbook/assets/bhaarat-vyas.jpg)
+![&#x4F5C;&#x8005;Bhaarat Vyas](../../.gitbook/assets/bhaarat-vyas.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
-![&#x4F5C;&#x8005;Rahul Singh](../.gitbook/assets/rahul-singh.jpg)
+![&#x4F5C;&#x8005;Rahul Singh](../../.gitbook/assets/rahul-singh.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -94,7 +94,7 @@ WIP
 
 ### 蛇雕 _Spilornis cheela_
 
-![&#x4F5C;&#x8005;Pete Oxford](../.gitbook/assets/90200675.jpg)
+![&#x4F5C;&#x8005;Pete Oxford](../../.gitbook/assets/90200675.jpg)
 
 每1年相当于1.5人类年，y=1.5x+13.5
 
@@ -130,11 +130,11 @@ WIP
 
 {% tabs %}
 {% tab title="成鸟" %}
-![&#x4F5C;&#x8005; Krzysztof Blachowiak](../.gitbook/assets/nd4_5723_900x600c_filtered_z_podpisem_white-rumped_vulture_-_sep_bengalski.jpg)
+![&#x4F5C;&#x8005; Krzysztof Blachowiak](../../.gitbook/assets/nd4_5723_900x600c_filtered_z_podpisem_white-rumped_vulture_-_sep_bengalski.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
-![&#x4F5C;&#x8005;Dubi Shapiro](../.gitbook/assets/indian_white-backed_vulture_3_for_web.jpg)
+![&#x4F5C;&#x8005;Dubi Shapiro](../../.gitbook/assets/indian_white-backed_vulture_3_for_web.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -170,7 +170,7 @@ WIP
 
 ### 黑冠鹃隼 _Aviceda leuphotes_
 
-![&#x4F5C;&#x8005;wokoti](../.gitbook/assets/wokoti.jpg)
+![&#x4F5C;&#x8005;wokoti](../../.gitbook/assets/wokoti.jpg)
 
 每1年相当于2人类年，y=2x+13
 
@@ -206,11 +206,11 @@ WIP
 
 {% tabs %}
 {% tab title="成鸟" %}
-![&#x4F5C;&#x8005;David McCauley](../.gitbook/assets/david-mccauley.jpg)
+![&#x4F5C;&#x8005;David McCauley](../../.gitbook/assets/david-mccauley.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
-![&#x4F5C;&#x8005;Ryan Andrews](../.gitbook/assets/ryan-andrews.jpg)
+![&#x4F5C;&#x8005;Ryan Andrews](../../.gitbook/assets/ryan-andrews.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -250,7 +250,7 @@ WIP
 
 {% tabs %}
 {% tab title="成鸟" %}
-![&#x4F5C;&#x8005;Kalyan Varma](../.gitbook/assets/black_eagle_dsc5485.jpg)
+![&#x4F5C;&#x8005;Kalyan Varma](../../.gitbook/assets/black_eagle_dsc5485.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
@@ -294,11 +294,11 @@ WIP
 
 {% tabs %}
 {% tab title="成鸟" %}
-![&#x4F5C;&#x8005;Aditya Roy](../.gitbook/assets/bai-jian.jpg)
+![&#x4F5C;&#x8005;Aditya Roy](../../.gitbook/assets/bai-jian.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
-![&#x4F5C;&#x8005;Will Nicholls](../.gitbook/assets/bai-jian-ya-cheng.jpg)
+![&#x4F5C;&#x8005;Will Nicholls](../../.gitbook/assets/bai-jian-ya-cheng.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -336,7 +336,7 @@ text
 
 {% tabs %}
 {% tab title="成鸟" %}
-![&#x4F5C;&#x8005; Sujith Soori](../.gitbook/assets/40526031.jpg)
+![&#x4F5C;&#x8005; Sujith Soori](../../.gitbook/assets/40526031.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
@@ -380,15 +380,15 @@ text
 
 {% tabs %}
 {% tab title="雄" %}
-![&#x4F5C;&#x8005;Michelle &amp; Peter Wong](../.gitbook/assets/wong.jpg)
+![&#x4F5C;&#x8005;Michelle &amp; Peter Wong](../../.gitbook/assets/wong.jpg)
 {% endtab %}
 
 {% tab title="雌" %}
-![&#x4F5C;&#x8005;iherman](../.gitbook/assets/herman.jpg)
+![&#x4F5C;&#x8005;iherman](../../.gitbook/assets/herman.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
-![&#x4F5C;&#x8005; t02613](../.gitbook/assets/t02613.jpg)
+![&#x4F5C;&#x8005; t02613](../../.gitbook/assets/t02613.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -432,15 +432,15 @@ WIP
 
 {% tabs %}
 {% tab title="欧亚" %}
-![&#x4F5C;&#x8005;Andy Trowbridge](../.gitbook/assets/andy-trowbridge-nuo-wei.jpg)
+![&#x4F5C;&#x8005;Andy Trowbridge](../../.gitbook/assets/andy-trowbridge-nuo-wei.jpg)
 {% endtab %}
 
 {% tab title="美洲" %}
-![&#x4F5C;&#x8005;Frank King](../.gitbook/assets/mei-zhou.jpg)
+![&#x4F5C;&#x8005;Frank King](../../.gitbook/assets/mei-zhou.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
-![&#x4F5C;&#x8005;Walter Soestbergen](../.gitbook/assets/12-agami-northern-goshawk-juv_utrecht-the-netherlands_27-02-15_walter-soestbergen-63561.jpg)
+![&#x4F5C;&#x8005;Walter Soestbergen](../../.gitbook/assets/12-agami-northern-goshawk-juv_utrecht-the-netherlands_27-02-15_walter-soestbergen-63561.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -489,15 +489,15 @@ WIP
 
 {% tabs %}
 {% tab title="雄" %}
-![&#x4F5C;&#x8005;Bohu&#x161; &#x10C;&#xED;&#x10D;el](../.gitbook/assets/599px-accipiter_nisus_1_-bohus_cicel.jpg)
+![&#x4F5C;&#x8005;Bohu&#x161; &#x10C;&#xED;&#x10D;el](../../.gitbook/assets/599px-accipiter_nisus_1_-bohus_cicel.jpg)
 {% endtab %}
 
 {% tab title="雌" %}
-![&#x4F5C;&#x8005;Eric Medard](../.gitbook/assets/90805771.jpg)
+![&#x4F5C;&#x8005;Eric Medard](../../.gitbook/assets/90805771.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
-![&#x4F5C;&#x8005;Jose B. Ruiz](../.gitbook/assets/00409420.jpg)
+![&#x4F5C;&#x8005;Jose B. Ruiz](../../.gitbook/assets/00409420.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -537,11 +537,11 @@ WIP
 
 {% tabs %}
 {% tab title="雄" %}
-![&#x4F5C;&#x8005;Per Michelsen](../.gitbook/assets/henharrier18.jpg)
+![&#x4F5C;&#x8005;Per Michelsen](../../.gitbook/assets/henharrier18.jpg)
 {% endtab %}
 
 {% tab title="雌" %}
-![&#x4F5C;&#x8005;Per Michelsen](../.gitbook/assets/henharrier39.jpg)
+![&#x4F5C;&#x8005;Per Michelsen](../../.gitbook/assets/henharrier39.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -565,7 +565,7 @@ WIP
 
 ### 赤鸢 _Milvus milvus_
 
-![&#x4F5C;&#x8005;Paddys](../.gitbook/assets/paddys.jpg)
+![&#x4F5C;&#x8005;Paddys](../../.gitbook/assets/paddys.jpg)
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -591,11 +591,11 @@ WIP
 
 {% tabs %}
 {% tab title="成鸟" %}
-![&#x4F5C;&#x8005;Dick Porter](../.gitbook/assets/1200298_mg_5560cc.jpg)
+![&#x4F5C;&#x8005;Dick Porter](../../.gitbook/assets/1200298_mg_5560cc.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
-![&#x4F5C;&#x8005;Les George](../.gitbook/assets/les-george.jpg)
+![&#x4F5C;&#x8005;Les George](../../.gitbook/assets/les-george.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -621,11 +621,11 @@ WIP
 
 {% tabs %}
 {% tab title="成鸟" %}
-![&#x4F5C;&#x8005;Fr&#xE9;d&#xE9;ric Pelsy](../.gitbook/assets/haliaeetus_leucoryphus_-_pygargue_de_pallas_-_03.jpg)
+![&#x4F5C;&#x8005;Fr&#xE9;d&#xE9;ric Pelsy](../../.gitbook/assets/haliaeetus_leucoryphus_-_pygargue_de_pallas_-_03.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
-![&#x4F5C;&#x8005;Fr&#xE9;d&#xE9;ric Pelsy](../.gitbook/assets/e72f2553.jpg)
+![&#x4F5C;&#x8005;Fr&#xE9;d&#xE9;ric Pelsy](../../.gitbook/assets/e72f2553.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -678,11 +678,11 @@ WIP
 
 {% tabs %}
 {% tab title="成鸟" %}
-![&#x4F5C;&#x8005;&#x4F50;&#x3005;&#x6728;&#x30BC;&#x30F3;](../.gitbook/assets/2019-2-1-1.jpg)
+![&#x4F5C;&#x8005;&#x4F50;&#x3005;&#x6728;&#x30BC;&#x30F3;](../../.gitbook/assets/2019-2-1-1.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
-![&#x4F5C;&#x8005;Christoph Moning](../.gitbook/assets/christoph-moning.jpg)
+![&#x4F5C;&#x8005;Christoph Moning](../../.gitbook/assets/christoph-moning.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -717,11 +717,11 @@ WIP
 
 {% tabs %}
 {% tab title="成鸟" %}
-![&#x5DE6;&#x96CC;&#x53F3;&#x96C4;&#xFF0C;&#x4F5C;&#x8005;&#x5E7D;&#x5DDE;&#x6444;&#x4F2F;](../.gitbook/assets/you-zhou-she-bo.jpg)
+![&#x5DE6;&#x96CC;&#x53F3;&#x96C4;&#xFF0C;&#x4F5C;&#x8005;&#x5E7D;&#x5DDE;&#x6444;&#x4F2F;](../../.gitbook/assets/you-zhou-she-bo.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
-![&#x4F5C;&#x8005;&#x5BF0;&#x5C18;](../.gitbook/assets/timg.jpg)
+![&#x4F5C;&#x8005;&#x5BF0;&#x5C18;](../../.gitbook/assets/timg.jpg)
 {% endtab %}
 {% endtabs %}
 

@@ -1,12 +1,12 @@
 # 鸮形目
 
-鸮形目的成员统称“猫头鹰”，均为掠食性鸟类。猫头鹰的眼睛并列前视，且多半具有由羽毛构成的“脸蛋”，即面盘，许多猫头鹰的头顶有耳状簇羽。大部分猫头鹰为夜行性动物，但也有一些猫头鹰在晨昏甚至白昼活动。 猫头鹰的大小多变，雌大于雄，色彩一般为暗淡的保护色，雌雄色彩相近或相同。大部分猫头鹰的羽毛极其柔软，可以吸收飞行的噪声；飞羽边缘有梳齿状结构，可以将气流打碎，防止飞行时发出响声。夜行性猫头鹰往往具有非常明显的面盘，用于收集声音；一些夜行性猫头鹰的耳上下不对称，可以更好地定位声音的来源。猫头鹰的眼球为柱状，无法转动，作为补偿其颈部极为灵活，可以完成270°的旋转。 猫头鹰为单配制鸟类，一部分终生结对，一部分每年更换新配偶。
+鸮形目的成员通称“猫头鹰”，均为掠食性鸟类。猫头鹰的眼睛并列前视，且多半具有由羽毛构成的“脸蛋”，即面盘，许多猫头鹰的头顶有耳状簇羽。大部分猫头鹰为夜行性动物，但也有一些在晨昏甚至白昼活动。 猫头鹰的大小多变，雌大于雄，色彩一般为暗淡的保护色，雌雄色彩相近或相同。大部分猫头鹰的羽毛极其柔软，可以吸收飞行的噪声；飞羽边缘有梳齿状结构，可以将气流打碎，防止飞行时发出响声。夜行性猫头鹰往往具有非常明显的面盘，用于收集声音；一些夜行性猫头鹰的耳上下不对称，可以更好地定位声音的来源。猫头鹰的眼球为柱状，无法转动，作为补偿其颈部极为灵活，可以完成270°的旋转。 猫头鹰为单配制鸟类，一部分终生结对，一部分每年更换新配偶。
 
-## 1. 草鸮科 TYTONIDAE
+## 1. 草鸮科
 
 ### 乌草鸮 _Tyto tenebricosa_
 
-![&#x4F5C;&#x8005;Richard Jackson](../.gitbook/assets/greater_sooty_owl_richard_jackson-4.jpg)
+![&#x4F5C;&#x8005;Richard Jackson](../../.gitbook/assets/greater_sooty_owl_richard_jackson-4.jpg)
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -47,15 +47,15 @@
 
 {% tabs %}
 {% tab title="浅色个体" %}
-![&#x4F5C;&#x8005;Mark Chambers](../.gitbook/assets/barnowltytoalba.jpg)
+![&#x4F5C;&#x8005;Mark Chambers](../../.gitbook/assets/barnowltytoalba.jpg)
 {% endtab %}
 
 {% tab title="过渡个体" %}
-![&#x4F5C;&#x8005;Steve Metz](../.gitbook/assets/steve-metz-salt-plains-nwr-eke-la-he-ma-ebird.jpg)
+![&#x4F5C;&#x8005;Steve Metz](../../.gitbook/assets/steve-metz-salt-plains-nwr-eke-la-he-ma-ebird.jpg)
 {% endtab %}
 
 {% tab title="深色个体" %}
-![&#x4F5C;&#x8005;Lars Petersson](../.gitbook/assets/2671_20170917_1_1000.jpg)
+![&#x4F5C;&#x8005;Lars Petersson](../../.gitbook/assets/2671_20170917_1_1000.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -94,7 +94,7 @@
 
 ### 东方草鸮 _Tyto longimembris_
 
-![&#x4F5C;&#x8005;Leila Jeffreys](../.gitbook/assets/duke-grass-owl-by-lila-jeffreys-yellowtrace-031.jpg)
+![&#x4F5C;&#x8005;Leila Jeffreys](../../.gitbook/assets/duke-grass-owl-by-lila-jeffreys-yellowtrace-031.jpg)
 
 每1年相当于3人类年，y=3x+12
 
@@ -127,11 +127,11 @@
 {% endtab %}
 {% endtabs %}
 
-## 2. 鸱鸮科 STRIGIDAE
+## 2. 鸱鸮科
 
 ### 领角鸮 _Otus lettia_
 
-![&#x4F5C;&#x8005;&#x9648;&#x9648;](../.gitbook/assets/chen-chen.jpg)
+![&#x4F5C;&#x8005;&#x9648;&#x9648;](../../.gitbook/assets/chen-chen.jpg)
 
 每1年相当于4人类年，y=4x+11
 
@@ -157,11 +157,11 @@
 
 {% tabs %}
 {% tab title="灰色型" %}
-![&#x4F5C;&#x8005;Kai Pflug](../.gitbook/assets/70158861.jpg)
+![&#x4F5C;&#x8005;Kai Pflug](../../.gitbook/assets/70158861.jpg)
 {% endtab %}
 
 {% tab title="红色型" %}
-![&#x4F5C;&#x8005;&#x5B50;&#x745C;](../.gitbook/assets/24142933_24142933_1375652827415_mthumb.jpg)
+![&#x4F5C;&#x8005;&#x5B50;&#x745C;](../../.gitbook/assets/24142933_24142933_1375652827415_mthumb.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -214,7 +214,7 @@ WIP
 
 ### 黄脚渔鸮 _Ketupa flavipes_
 
-![&#x4F5C;&#x8005;Markus  Lilje](../.gitbook/assets/owl_fish_tawny_-022.jpg)
+![&#x4F5C;&#x8005;Markus  Lilje](../../.gitbook/assets/owl_fish_tawny_-022.jpg)
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -242,7 +242,7 @@ WIP
 
 ### 灰林鸮 _Strix nivicolum_
 
-![&#x7070;&#x8272;&#x578B;&#xFF0C;&#x4F5C;&#x8005;Robin Newlin](../.gitbook/assets/unnamed.jpg)
+![&#x7070;&#x8272;&#x578B;&#xFF0C;&#x4F5C;&#x8005;Robin Newlin](../../.gitbook/assets/unnamed.jpg)
 
 text
 
@@ -272,7 +272,7 @@ WIP
 
 ### 花头鸺鹠 _Glaucidium passerinum_
 
-![&#x4F5C;&#x8005;Helge Sorensen](../.gitbook/assets/20190217_0400.jpg)
+![&#x4F5C;&#x8005;Helge Sorensen](../../.gitbook/assets/20190217_0400.jpg)
 
 每1年相当于4人类年，y=4x+11
 
@@ -306,7 +306,7 @@ text
 
 ### 斑头鸺鹠 _Glaucidium cuculoides_
 
-![&#x4F5C;&#x8005;Ambika](../.gitbook/assets/asian-barred-owlet-ddc86a71-6a98-4586-9903-8dc3361c26f-resize-750.jpeg)
+![&#x4F5C;&#x8005;Ambika](../../.gitbook/assets/asian-barred-owlet-ddc86a71-6a98-4586-9903-8dc3361c26f-resize-750.jpeg)
 
 每1年相当于4人类年，y=4x+11
 
@@ -340,7 +340,7 @@ WIP
 
 ### 纵纹腹小鸮 _Athene noctua_
 
-![&#x4F5C;&#x8005;Mustafa Sozen](../.gitbook/assets/mustafa-sozen.jpg)
+![&#x4F5C;&#x8005;Mustafa Sozen](../../.gitbook/assets/mustafa-sozen.jpg)
 
 每1年相当于4人类年，y=4x+11
 
@@ -370,7 +370,7 @@ WIP
 
 ### 短耳鸮 _Asio flammeus_
 
-![&#x4F5C;&#x8005;Jeff Dyck](../.gitbook/assets/jeff-dyck-qiao-zhi-wang-zi-cheng-ji-chang.jpg)
+![&#x4F5C;&#x8005;Jeff Dyck](../../.gitbook/assets/jeff-dyck-qiao-zhi-wang-zi-cheng-ji-chang.jpg)
 
 {% tabs %}
 {% tab title="生物学" %}
