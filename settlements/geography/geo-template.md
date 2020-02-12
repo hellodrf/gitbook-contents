@@ -1,5 +1,5 @@
 ---
-description: 简介
+description: 参照：天目山
 ---
 
 # 地理模板
@@ -58,7 +58,7 @@ description: 简介
 
 {% endtab %}
 
-{% tab title="两栖爬行类" %}
+{% tab title="两爬" %}
 
 {% endtab %}
 
