@@ -1,8 +1,8 @@
 ---
-description: 参照：厦门
+description: 参照：海南、印度、中南半岛
 ---
 
-# 亚热带季雨林
+# 弗洛西亚
 
 文字文字‌
 
@@ -27,12 +27,37 @@ description: 参照：厦门
 ### 可扮演鸟类 <a id="ke-ban-yan-niao-lei"></a>
 
 {% tabs %}
-{% tab title="First Tab" %}
+{% tab title="常见" %}
+* 鹗
+* 黑翅鸢
+* 蛇雕
+* 白背兀鹫
+* 林雕
+* 凤头鹰
+* 赤腹鹰
+* 赤鸢
+* 白腹海雕
+* 乌草鸮
+* 仓鸮
+* 东方草鸮
+* 领角鸮
+* 黄脚渔鸮
+* 斑头鸺鹠
+* 白腿小隼
+* 红隼
+* 食蝠隼
+* 游隼
+* 白颈鸦
+* 渡鸦
+{% endtab %}
+
+{% tab title="少见" %}
 
 {% endtab %}
 
-{% tab title="Second Tab" %}
-
+{% tab title="罕见" %}
+* 丽鹰雕
+* 玉带海雕
 {% endtab %}
 {% endtabs %}
 
