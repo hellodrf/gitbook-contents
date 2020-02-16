@@ -31,8 +31,6 @@ WIP
 * 白尾鹞
 * 赤鸢
 * 草鸮
-* 雕鸮
-* 灰林鸮
 * 纵纹腹小鸮
 * 短耳鸮
 * 长耳鸮
@@ -44,6 +42,8 @@ WIP
 {% endtab %}
 
 {% tab title="少见" %}
+* 雕鸮
+* 灰林鸮
 * 寒鸦
 {% endtab %}
 
@@ -53,4 +53,22 @@ WIP
 {% endtabs %}
 
 ### 其他动物
+
+{% tabs %}
+{% tab title="鸟类" %}
+大鸨
+{% endtab %}
+
+{% tab title="兽类" %}
+
+{% endtab %}
+
+{% tab title="两爬" %}
+
+{% endtab %}
+
+{% tab title="昆虫" %}
+
+{% endtab %}
+{% endtabs %}
 
