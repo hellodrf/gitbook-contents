@@ -26,7 +26,7 @@
     * [伊苏里亚](settlements/geography/issur.md)
     * [萨芬](settlements/geography/tsafon.md)
   * [势力](settlements/factions/README.md)
-    * [哈兰那王国](settlements/factions/kingdom.md)
+    * [阿尔忒弥斯帝国](settlements/factions/kingdom.md)
     * [伊苏尔联盟](settlements/factions/alliance.md)
   * [家族](settlements/bloodlines.md)
 * [角色创建](character/README.md)
