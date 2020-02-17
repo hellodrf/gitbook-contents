@@ -6,17 +6,19 @@ description: 参照：海南、印度、中南半岛
 
 文字文字‌
 
+![&#x81EA;&#x89C6;&#x89C9;&#x4E2D;&#x56FD;](../../.gitbook/assets/hai-nan.jpg)
+
 ## 气候 <a id="qi-hou"></a>
 
 热带季风
 
 ## 地形 <a id="di-xing"></a>
 
-‌山地、高原。
+‌山地、高原。岩岸。
 
 ## 植被 <a id="zhi-bei"></a>
 
-
+母生
 
 ## 居民 <a id="ju-min"></a>
 
@@ -27,7 +29,6 @@ description: 参照：海南、印度、中南半岛
 * 鹗
 * 黑翅鸢
 * 蛇雕
-* 白背兀鹫
 * 林雕
 * 凤头鹰
 * 赤腹鹰
