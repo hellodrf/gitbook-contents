@@ -32,7 +32,7 @@
   * [弗洛西亚](under-construction/geography/vroxia.md)
   * [塞维那](under-construction/geography/saewena.md)
   * [盆地](under-construction/geography/anka.md)
-  * [sample](under-construction/geography/sample.md)
+  * [阿克那](under-construction/geography/akna.md)
   * [安纳荷拉](under-construction/geography/anakhora.md)
   * [萨芬](under-construction/geography/tsafon.md)
   * [伊苏里亚](under-construction/geography/issur.md)
