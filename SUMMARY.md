@@ -16,7 +16,7 @@
     * [杂交一览](bird-guide/species/hybrids.md)
   * [鸟类术语](bird-guide/terminology.md)
 * [两大对立势力](liang-da-dui-li-shi-li/README.md)
-  * [阿尔忒弥斯帝国](liang-da-dui-li-shi-li/kingdom.md)
+  * [阿尔忒弥斯帝国](settlements/factions/kingdom.md)
   * [伊苏尔联盟](liang-da-dui-li-shi-li/alliance.md)
 * [世界设定](settlements/README.md)
   * [历史](settlements/history.md)
