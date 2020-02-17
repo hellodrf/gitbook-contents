@@ -6,6 +6,10 @@ description: 江南丘陵、婺源
 
 文字文字
 
+![](../../.gitbook/assets/img_20180708_101357.jpg)
+
+![](../../.gitbook/assets/img_20180708_101357%20%281%29.jpg)
+
 ## 气候
 
 季风控制下的亚热带落叶林、亚高山气候。夏季多雨，平均高温25℃；冬季平均低温-3℃。WIP
@@ -16,15 +20,17 @@ description: 江南丘陵、婺源
 
 ## 植被
 
-阿克那全境被森林所覆盖，主要为针阔混交林，海拔较高的地区则分布着针叶林。柳杉 _Cryptomeria japonica_、杉木 _Cunninghamia lanceolata_、臭椿 _Ailanthus altissima_是最主要的树种。林下生长着茂密的中低层植被，如茜草、悬铃叶苎麻。
+阿克那全境被森林所覆盖，主要为针阔混交林，海拔较高的地区则分布着针叶林。柳杉 _Cryptomeria japonica_、杉木 _Cunninghamia lanceolata_、臭椿 _Ailanthus altissima_是这里的优势树种。深山之中有不少胸径超过两米的巨型柳杉，当地居民称为“树王”，视其为守护神。银杏 _Ginkgo biloba_和杜仲 _Eucommia ulmoides_可以制作草药。大树的树干上常常盖满了地衣和苔藓，还附着着瓦韦 _Lepisorus thunbergianus_之类的附生植物。
+
+![](../../.gitbook/assets/liu-shan.jpg)
+
+林下生长着茂密的中低层植被，如两型豆 Amphicarpaea edgeworthii、鸭儿芹 _Cryptotaenia japonica_、野桐 _Mallotus tenuifolius_等等。蕺菜 _Houttuynia cordata_散发出浓烈的鱼腥味，九头狮子草 _Peristrophe japonica_仿佛是将花朵吐出，南赤瓟 _Thladiantha nudiflora_结出有趣的红色圆瓜。秋海棠 _Begonia grandis_的花朵粉嫩可爱，反瓣虾脊兰 _Calanthe reflexa_的紫花姿态妖娆。山莓 _Rubus corchorifolius_、蓬蘽 _Rubus hirsutus_、鹰爪枫 _Holboellia coriacea_的果实可以食用，虽然说不上有多么美味。大蝎子草 _Girardinia diversifolia_浑身披着毒刺，被它蜇到要疼好几天。最惹人注目的是林荫里的翠云草 _Selaginella uncinata_，泛着不真实的金属蓝色，仿佛是异世界的造物。
+
+![](../../.gitbook/assets/selaginella_uncinata_photo_by_gordon_k_a_dickson_cc-by-nc-sa-2.0.jpg)
 
 不过，说到阿克那最著名的植被类型，一定是一望无际的竹海。原生阿克那的毛竹 _Phyllostachys edulis_被当地居民广泛栽种，是当地居民生活中不可或缺的一部分：可以搭建建筑、可以制作工具，还能用作竹鼠、竹象的饲料。
 
-除了树林和竹林外，山崖、草地。
-
-![&#x7FE0;&#x4E91;&#x8349;&#xFF0C;&#x4F5C;&#x8005;Gordon K A Dickson](../../.gitbook/assets/selaginella_uncinata_photo_by_gordon_k_a_dickson_cc-by-nc-sa-2.0.jpg)
-
-柳杉、臭椿。瓦韦，翠云草。银杏 南方红豆杉
+在树林和竹林间，零星地分布着裸露的断崖和开阔的草地，生长着香薷 _Elsholtzia ciliata_和野胡萝卜 _Daucus carota_.
 
 ## 居民
 

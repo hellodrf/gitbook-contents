@@ -6,7 +6,7 @@ description: 参照：海南、印度、中南半岛
 
 文字文字‌
 
-![&#x81EA;&#x89C6;&#x89C9;&#x4E2D;&#x56FD;](../../.gitbook/assets/hai-nan.jpg)
+![](../../.gitbook/assets/hai-nan.jpg)
 
 ## 气候 <a id="qi-hou"></a>
 
