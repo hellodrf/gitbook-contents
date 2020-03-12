@@ -18,7 +18,7 @@ WIP
 
 ![](../../.gitbook/assets/liu-shan.jpg)
 
-林下生长着茂密的中低层植被，如两型豆 Amphicarpaea edgeworthii、鸭儿芹 _Cryptotaenia japonica_、野桐 _Mallotus tenuifolius_等等。蕺菜 _Houttuynia cordata_散发出浓烈的鱼腥味，九头狮子草 _Peristrophe japonica_仿佛是将花朵吐出，南赤瓟 _Thladiantha nudiflora_结出有趣的红色圆瓜。秋海棠 _Begonia grandis_的花朵粉嫩可爱，反瓣虾脊兰 _Calanthe reflexa_的紫花姿态妖娆。山莓 _Rubus corchorifolius_、蓬蘽 _Rubus hirsutus_、鹰爪枫 _Holboellia coriacea_的果实可以食用，虽然说不上有多么美味。大蝎子草 _Girardinia diversifolia_浑身披着毒刺，被它蜇到要疼好几天。最惹人注目的是林荫里的翠云草 _Selaginella uncinata_，泛着不真实的金属蓝色，仿佛是异世界的造物。
+林下生长着茂密的中低层植被，如两型豆 Amphicarpaea edgeworthii、鸭儿芹 _Cryptotaenia japonica_、野桐 _Mallotus tenuifolius_等等。蕺菜 _Houttuynia cordata_散发出浓烈的鱼腥味，九头狮子草 _Peristrophe japonica_吐出紫色的花朵，南赤瓟 _Thladiantha nudiflora_结出有趣的红色圆瓜。秋海棠 _Begonia grandis_粉嫩可爱，反瓣虾脊兰 _Calanthe reflexa_姿态妖娆。山莓 _Rubus corchorifolius_、蓬蘽 _Rubus hirsutus_、鹰爪枫 _Holboellia coriacea_的果实可以食用，虽然说不上有多么美味。大蝎子草 _Girardinia diversifolia_浑身披着毒刺，被它蜇到要疼好几天。最惹人注目的是林荫里的翠云草 _Selaginella uncinata_，泛着不真实的金属蓝色，仿佛是异世界的造物。
 
 ![](../../.gitbook/assets/selaginella_uncinata_photo_by_gordon_k_a_dickson_cc-by-nc-sa-2.0.jpg)
 
@@ -47,7 +47,6 @@ WIP
 * 黑翅鸢 _Elanus caeruleus_
 * 蛇雕 _Spilornis cheela_
 * 林雕 _Ictinaetus malaiensis_
-* 短耳鸮 _Asio flammeus_
 * 游隼 _Falco peregrinus_
 {% endtab %}
 

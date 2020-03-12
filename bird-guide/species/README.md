@@ -61,7 +61,6 @@
 
 ### 鸦科 CORVIDAE
 
-* 灰喜鹊 _Cyanopica cyanus_
 * 红嘴蓝鹊 _Urocissa erythroryncha_
 * 喜鹊 _Pica pica_
 * 寒鸦 _Coloeus monedula_
