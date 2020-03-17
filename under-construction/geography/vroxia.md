@@ -4,7 +4,7 @@ description: 参照：海南、印度、中南半岛
 
 # 弗洛西亚
 
-文字文字‌
+伸入大海的弗洛西亚半岛气候炎热潮湿，
 
 ![](../../.gitbook/assets/hai-nan.jpg)
 
