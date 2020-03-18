@@ -157,8 +157,6 @@
 
 ### 东方角鸮 _Otus sunia_
 
-每1年相当于4人类年，y=4x+11
-
 {% tabs %}
 {% tab title="灰色型" %}
 ![&#x4F5C;&#x8005;Kai Pflug](../../.gitbook/assets/70158861.jpg)
@@ -168,6 +166,8 @@
 ![&#x4F5C;&#x8005;&#x5B50;&#x745C;](../../.gitbook/assets/24142933_24142933_1375652827415_mthumb.jpg)
 {% endtab %}
 {% endtabs %}
+
+每1年相当于4人类年，y=4x+11
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -193,16 +193,6 @@
 
 
 ### 雕鸮 _Bubo bubo_
-
-{% tabs %}
-{% tab title="极端浅色" %}
-
-{% endtab %}
-
-{% tab title="Second Tab" %}
-
-{% endtab %}
-{% endtabs %}
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -326,7 +316,7 @@ text
 
 ![&#x4F5C;&#x8005;Ambika](../../.gitbook/assets/asian-barred-owlet-ddc86a71-6a98-4586-9903-8dc3361c26f-resize-750.jpeg)
 
-斑头鸺鹠是哈兰那的森林最常见的居民之一。
+斑头鸺鹠是哈兰那的森林里最常见的居民之一。
 
 每1年相当于4人类年，y=4x+11
 
