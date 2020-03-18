@@ -12,7 +12,7 @@ WIP
 
 ## 植被
 
-阿克那全境被森林所覆盖，主要为针阔混交林，海拔较高的地区则分布着针叶林。柳杉 _Cryptomeria japonica_、杉木 _Cunninghamia lanceolata_、臭椿 _Ailanthus altissima_是这里的优势树种。深山之中有不少胸径超过两米的巨型柳杉，当地居民称为“树王”，视其为守护神。银杏 _Ginkgo biloba_和杜仲 _Eucommia ulmoides_可以制作草药。大树的树干上常常盖满了地衣和苔藓，还附着着瓦韦 _Lepisorus thunbergianus_之类的附生植物。
+阿克那遍布茂密的森林，主要为针阔混交林，海拔较高的地区则分布着针叶林。柳杉 _Cryptomeria japonica_、杉木 _Cunninghamia lanceolata_、臭椿 _Ailanthus altissima_是这里的优势树种。深山之中有不少胸径超过两米的巨型柳杉，当地居民称为“树王”，视其为守护神。银杏 _Ginkgo biloba_和杜仲 _Eucommia ulmoides_可以制作草药。大树的树干上常常盖满了地衣和苔藓，还附着着瓦韦 _Lepisorus thunbergianus_之类的附生植物。
 
 ![](../../.gitbook/assets/liu-shan.jpg)
 
