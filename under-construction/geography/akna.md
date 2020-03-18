@@ -2,6 +2,8 @@
 
 WIP
 
+![](../../.gitbook/assets/img_20180708_101357.jpg)
+
 ## 气候
 
 季风控制下的亚热带落叶林、亚高山气候。夏季湿热，均温约27-30℃，山上则凉爽许多；冬季均温约5℃。在夏季，阿克那偶尔会受到沿海台风的影响，但相对海边受影响较小。
@@ -12,7 +14,7 @@ WIP
 
 ## 植被
 
-阿克那遍布茂密的森林，主要为针阔混交林，海拔较高的地区则分布着针叶林。柳杉 _Cryptomeria japonica_、杉木 _Cunninghamia lanceolata_、臭椿 _Ailanthus altissima_是这里的优势树种。深山之中有不少胸径超过两米的巨型柳杉，当地居民称为“树王”，视其为守护神。银杏 _Ginkgo biloba_和杜仲 _Eucommia ulmoides_可以制作草药。大树的树干上常常盖满了地衣和苔藓，还附着着瓦韦 _Lepisorus thunbergianus_之类的附生植物。
+阿克那遍布茂密的森林，主要为针阔混交林，海拔较高的地区则分布着针叶林。森林树种繁多，使得森林冠层呈现出深浅不一的绿色。柳杉 _Cryptomeria japonica_、杉木 _Cunninghamia lanceolata_、臭椿 _Ailanthus altissima_是这里的优势树种。山中有不少胸径超过两米的巨型柳杉，当地居民视其为守护神。银杏 _Ginkgo biloba_和杜仲 _Eucommia ulmoides_是不少草药的重要来源。大树的树干上常常盖满了地衣和苔藓，还附着着瓦韦 _Lepisorus thunbergianus_、薜荔 _Ficus pumila_等附生植物。
 
 ![](../../.gitbook/assets/liu-shan.jpg)
 
@@ -44,15 +46,15 @@ WIP
 {% tab title="少见" %}
 * 黑翅鸢 _Elanus caeruleus_
 * 蛇雕 _Spilornis cheela_
-* 林雕 _Ictinaetus malaiensis_
 * 短耳鸮 _Asio flammeus_
 * 游隼 _Falco peregrinus_
 {% endtab %}
 
 {% tab title="罕见" %}
-* 白腿小隼 _Microhierax melanoleucos_
+* 林雕 _Ictinaetus malaiensis_
 * 雕鸮 _Bubo bubo_
 * 黄脚渔鸮 _Ketupa flavipes_
+* 白腿小隼 _Microhierax melanoleucos_
 {% endtab %}
 {% endtabs %}
 
