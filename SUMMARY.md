@@ -16,7 +16,7 @@
     * [杂交一览](bird-guide/species/hybrids.md)
   * [鸟类术语](bird-guide/terminology.md)
 * [主要势力](factions/README.md)
-  * [哈兰那王国](factions/kingdom.md)
+  * [法兰拿帝国](factions/kingdom.md)
   * [伊苏尔联盟](factions/alliance.md)
 * [世界设定](settlements/README.md)
   * [历史](settlements/history.md)
