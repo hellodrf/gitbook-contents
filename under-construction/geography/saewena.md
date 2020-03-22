@@ -6,11 +6,7 @@ description: 浙闽丘陵
 
 
 
-## 气候 <a id="qi-hou"></a>
-
-WIP
-
-## 地形 <a id="di-xing"></a>
+## 气候与地理 <a id="qi-hou"></a>
 
 ‌WIP
 

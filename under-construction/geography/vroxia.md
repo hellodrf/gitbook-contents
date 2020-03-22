@@ -8,11 +8,9 @@ description: 参照：海南、印度、中南半岛
 
 ![](../../.gitbook/assets/hai-nan.jpg)
 
-## 气候 <a id="qi-hou"></a>
+## 气候与地理 <a id="qi-hou"></a>
 
 热带季风
-
-## 地形 <a id="di-xing"></a>
 
 ‌山地、高原。岩岸、沙岸、红树林。
 
