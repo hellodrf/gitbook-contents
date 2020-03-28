@@ -16,7 +16,7 @@ description: 您需要满足特定条件（如提交特定申请，详见内文�
 * 【暂不开放】[蛇雕](accipiter.md#she-diao-spilornis-cheela) _Spilornis cheela_
 * 【暂不开放】[白背兀鹫](accipiter.md#bai-bei-wu-jiu-gyps-bengalensis) _Gyps bengalensis_
 * 【暂不开放】[黑冠鹃隼](accipiter.md#hei-guan-juan-sun-aviceda-leuphotes) _Aviceda leuphotes_
-* 【暂不开放】[丽鹰雕](accipiter.md#li-ying-diao-spizaetus-ornatus) _Spizaetus ornatus_
+* \*【暂不开放】[丽鹰雕](accipiter.md#li-ying-diao-spizaetus-ornatus) _Spizaetus ornatus_
 * 【暂不开放】[林雕](accipiter.md#lin-diao-ictinaetus-malaiensis) _Ictinaetus malaiensis_
 * 【暂不开放】[凤头鹰](accipiter.md#feng-tou-ying-accipiter-trivirgatus) _Accipiter trivirgatus_
 * 【暂不开放】[赤腹鹰](accipiter.md#chi-fu-ying-accipiter-soloensis) _Accipiter soloensis_
@@ -25,7 +25,7 @@ description: 您需要满足特定条件（如提交特定申请，详见内文�
 * 【暂不开放】[白尾鹞](accipiter.md#bai-wei-yao-circus-cyaneus) _Circus cyaneus_
 * 【暂不开放】[赤鸢](accipiter.md#chi-yuan-milvus-milvus) _Milvus milvus_
 * 【暂不开放】[白腹海雕](accipiter.md#bai-fu-hai-diao-haliaeetus-leucogaster) _Haliaeetus leucogaster_
-* 【暂不开放】[玉带海雕](accipiter.md#yu-dai-hai-diao-haliaeetus-leucoryphus) _Haliaeetus leucoryphus_
+* \*【暂不开放】[玉带海雕](accipiter.md#yu-dai-hai-diao-haliaeetus-leucoryphus) _Haliaeetus leucoryphus_
 * 【暂不开放】[白尾海雕](accipiter.md#bai-wei-hai-diao-haliaeetus-albicilla) _Haliaeetus albicilla_
 * 【暂不开放】[灰脸鵟鹰](accipiter.md#hui-lian-kuang-ying-butastur-indicus) _Butastur indicus_
 

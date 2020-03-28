@@ -20,7 +20,7 @@ WIP
 
 ![](../../.gitbook/assets/selaginella_uncinata_photo_by_gordon_k_a_dickson_cc-by-nc-sa-2.0.jpg)
 
-不过，说到阿克那最著名的植被类型，一定是一望无际的竹海。原生阿克那的毛竹 _Phyllostachys edulis_被当地居民广泛栽种，是当地居民生活中不可或缺的一部分：可以搭建建筑、可以制作工具，还能用作竹鼠、竹象的饲料。
+不过，说到阿克那最著名的植被类型，一定是一望无际的竹海。原生的毛竹 _Phyllostachys edulis_被当地居民广泛栽种，已经成为了当地居民生活中不可或缺的一部分：可以搭建建筑、可以制作工具，还能用作竹鼠、竹象的饲料。
 
 在树林和竹林间，零星地分布着裸露的断崖和开阔的草地，生长着香薷 _Elsholtzia ciliata_和野胡萝卜 _Daucus carota_.
 
@@ -38,18 +38,18 @@ WIP
 * 长耳鸮 _Asio otus_
 * 红隼 _Falco tinnunculus_
 * 红嘴蓝鹊 _Urocissa erythroryncha_
-* 白颈鸦 _Corvus torquatus_
 {% endtab %}
 
 {% tab title="少见" %}
 * 黑翅鸢 _Elanus caeruleus_
 * 蛇雕 _Spilornis cheela_
+* 林雕 _Ictinaetus malaiensis_
+* 仓鸮 _Tyto alba_
 * 短耳鸮 _Asio flammeus_
-* 游隼 _Falco peregrinus_
+* 喜鹊 _Pica pica_
 {% endtab %}
 
 {% tab title="罕见" %}
-* 林雕 _Ictinaetus malaiensis_
 * 雕鸮 _Bubo bubo_
 * 黄脚渔鸮 _Ketupa flavipes_
 * 白腿小隼 _Microhierax melanoleucos_
@@ -60,7 +60,35 @@ WIP
 
 {% tabs %}
 {% tab title="鸟类" %}
+鳞胁秋沙鸭 Mergus squamatus
 
+三宝鸟 Eurystomus orientalis
+
+斑鱼狗 Ceryle rudis
+
+灰喉山椒鸟 Pericrocotus solaris
+
+虎纹伯劳 Lanius tigrinus
+
+黑短脚鹎 Hypsipetes leucocephalus
+
+烟腹毛脚燕 Delichon dasypus
+
+棕脸鹟莺 Abroscopus albogularis
+
+靛冠噪鹛 Pterorhinus courtoisi
+
+棕噪鹛 Pterorhinus berthemyi
+
+短尾鸦雀 Neosuthora davidiana
+
+丝光椋鸟 Spodiopsar sericeus
+
+白额燕尾 Enicurus leschenaulti
+
+红尾水鸲 Rhyacornis fuliginosa
+
+山麻雀 Passer rutilans
 {% endtab %}
 
 {% tab title="兽类" %}
