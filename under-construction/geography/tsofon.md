@@ -1,5 +1,5 @@
 ---
-description: 参照：北京；乌梁素海
+description: 参照：北京
 ---
 
 # 索芬
@@ -25,7 +25,6 @@ description: 参照：北京；乌梁素海
 {% tabs %}
 {% tab title="常见" %}
 * 雀鹰
-* 白尾鹞
 * 赤鸢
 * 东方角鸮
 * 长耳鸮
@@ -48,8 +47,8 @@ description: 参照：北京；乌梁素海
 {% endtab %}
 
 {% tab title="罕见" %}
+* 白尾鹞
 * 苍鹰
-* 玉带海雕
 * 游隼
 * 红嘴蓝鹊
 {% endtab %}
