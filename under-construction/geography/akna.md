@@ -24,6 +24,10 @@ WIP
 
 在树林和竹林间，零星地分布着裸露的断崖和开阔的草地，生长着香薷 _Elsholtzia ciliata_和野胡萝卜 _Daucus carota_.
 
+## 地标？
+
+## 城市？
+
 ## 居民
 
 ### 可扮演鸟类
@@ -60,35 +64,49 @@ WIP
 
 {% tabs %}
 {% tab title="鸟类" %}
-鳞胁秋沙鸭 Mergus squamatus
+**鸳鸯** _**Aix galericulata**_  
+冬候鸟。极为醒目的鸭类，雄鸟的色彩和形态极为夸张华丽，雌鸟则大体为褐灰色。也善于攀援树木，或是在林间飞行穿梭。【分布】
 
-三宝鸟 Eurystomus orientalis
+**鳞胁秋沙鸭** _**Mergus squamatus**_  
+冬候鸟。大型潜水鸭类，喙如鸬鹚，边缘有齿状结构。两胁有黑白鳞状斑纹。【分布】
 
-斑鱼狗 Ceryle rudis
+**噪鹃** _**Eudynamys scolopaceus**_  
+夏候鸟。大型林鸟，雄鸟通体金属黑，雌鸟通体灰褐斑驳。求偶时昼夜发出穿透力极强的“苦啊哦”鸣唱。山区森林四处可闻。
 
-灰喉山椒鸟 Pericrocotus solaris
+**三宝鸟** _**Eurystomus orientalis**_  
+夏候鸟。通体不同色调的青色，有醒目的宽大红喙，飞行时可见一对天蓝色翅斑。常在视野开阔的高处栖止，飞捕大型昆虫。在林缘空地和开阔的村落附近活动。
 
-虎纹伯劳 Lanius tigrinus
+**斑鱼狗** _**Ceryle rudis**_  
+留鸟。通体黑白分明的翠鸟，十分醒目。【分布】
 
-黑短脚鹎 Hypsipetes leucocephalus
+**灰喉山椒鸟** _**Pericrocotus solaris**_  
+留鸟。色彩艳丽的林鸟，雄鸟橘红与灰黑色驳杂，雌鸟则是柠檬黄与灰黑色。一般成群活动。【分布】
 
-烟腹毛脚燕 Delichon dasypus
+**黑短脚鹎** _**Hypsipetes leucocephalus**_  
+留鸟。极为常见的林鸟。阿克那的黑短脚鹎头颈白色，其余通体黑色，喙、脚橘色。山区森林随处可见松散的小群。
 
-棕脸鹟莺 Abroscopus albogularis
+烟腹毛脚燕 Delichon dasypus  
+【】
 
-靛冠噪鹛 Pterorhinus courtoisi
+**棕脸鹟莺** _**Abroscopus albogularis**_  
+留鸟。体型极小。
 
-棕噪鹛 Pterorhinus berthemyi
+**画眉** _**Garrulax canorus**_  
+留鸟。眼周有一圈醒目的白色，并向眼尾延长，因此得名。鸣声极为嘹亮，华丽多变。常在隐蔽的林下灌丛或草丛中活动。
 
-短尾鸦雀 Neosuthora davidiana
+**靛冠噪鹛** _**Pterorhinus courtoisi**_  
+留鸟。【分布】
 
-丝光椋鸟 Spodiopsar sericeus
+**短尾鸦雀** _**Neosuthora davidiana**_  
+留鸟。体型极小，体态浑圆。成群活动。【分布】
 
 白额燕尾 Enicurus leschenaulti
 
-红尾水鸲 Rhyacornis fuliginosa
+**红尾水鸲** _**Phoenicurus fuliginosus**_  
+留鸟。溪流附近极为常见。雄鸟通体蓝黑色，尾部赭红色；雌鸟斑驳蓝灰色，尾黑白色。在水边或水中的岩石上奔走，并不断上下抖尾。
 
-山麻雀 Passer rutilans
+**山麻雀** _**Passer rutilans**_  
+留鸟。山区开阔地常见。
 {% endtab %}
 
 {% tab title="兽类" %}
