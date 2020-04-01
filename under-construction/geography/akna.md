@@ -1,6 +1,6 @@
 # 阿克那（模板）
 
-WIP
+阿克那得名于南北两座阿克那湖。
 
 ![](../../.gitbook/assets/img_20180708_101357.jpg)
 
@@ -26,6 +26,10 @@ WIP
 
 ## 地标？
 
+### 阿克那湖
+
+坐落于阿克那南部的南北两座湖泊。湖泊面积不算大，但绿树成荫、风景秀丽。每年冬季，许多色彩绚丽的野鸭来到阿克那湖越冬。
+
 ## 城市？
 
 ## 居民
@@ -36,6 +40,7 @@ WIP
 {% tab title="常见" %}
 * 凤头鹰 _Accipiter trivirgatus_
 * 赤腹鹰 _Accipiter soloensis_
+* 仓鸮 _Tyto alba_
 * 领角鸮 _Otus lettia_
 * 斑头鸺鹠 _Glaucidium cuculoides_
 * 长耳鸮 _Asio otus_
@@ -44,11 +49,11 @@ WIP
 {% endtab %}
 
 {% tab title="少见" %}
+* 鹗 _Pandion haliaetus_
 * 黑翅鸢 _Elanus caeruleus_
 * 黑冠鹃隼 _Aviceda leuphotes_
 * 蛇雕 _Spilornis cheela_
 * 林雕 _Ictinaetus malaiensis_
-* 仓鸮 _Tyto alba_
 * 短耳鸮 _Asio flammeus_
 * 喜鹊 _Pica pica_
 {% endtab %}
