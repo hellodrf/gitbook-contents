@@ -8,13 +8,16 @@ description: 拼音字母顺。
 
 * 翱翔（soar）：
 
+## B
+
+* 
 ## C
 
 * 叉骨（furcula, wishbone）：鸟类由左右胸骨愈合而成的V形骨，位于前胸。
 * 巢址（nest site）：筑巢的地点。
 * 初级飞羽（primary remiges）：着生于手骨的飞羽。
 * 雏绒羽（natal down）：雏鸟的绒羽。
-* 垂直迁徙：在不同海拔间季节性迁徙。
+* 垂直迁徙（altitudinal migration）：在不同海拔间季节性迁徙。
 * 次级飞羽（secondary remiges）：着生于尺骨（小臂）的飞羽。
 
 ## D
@@ -25,7 +28,7 @@ description: 拼音字母顺。
 ## F
 
 * 繁殖羽（breeding plumage）：同替换羽。
-* 飞羽（flight feathers, remiges）：鸟类前肢的粗大羽毛，构成翅膀的翼面。
+* 飞羽（flight feathers, remiges）：鸟类前肢的粗大羽毛，构成翅膀的主要翼面。
 * 粉羽：部分鸟类特化的绒羽，不断生长，末端变为粉末状。
 * 孵卵斑（brood patch）：部分鸟类孵卵期间，胸腹部一块羽毛脱落、充血肿胀的皮肤，用于更高效地向卵传热。
 
@@ -54,7 +57,7 @@ description: 拼音字母顺。
 ## M
 
 * 鸣叫（call）：鸟类短促简单的鸣声。
-* 鸣唱（song）：鸟类复杂的鸣声。
+* 鸣唱（song）：鸟类复杂的鸣声，一般与繁殖有关，如领域标记、求偶。
 
 ## Q
 
