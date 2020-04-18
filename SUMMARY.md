@@ -23,7 +23,7 @@
   * [地理](settlements/geography/README.md)
     * [弗洛西亚](settlements/geography/vroxia.md)
     * [塞维那](settlements/geography/saewena.md)
-    * [盆地](settlements/geography/anka.md)
+    * [那萨达](settlements/geography/nasaada.md)
     * [阿克那（模板）](settlements/geography/akna.md)
     * [安纳荷拉](settlements/geography/anakhora.md)
     * [伊苏里亚](settlements/geography/issur.md)
