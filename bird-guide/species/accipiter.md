@@ -623,7 +623,9 @@ WIP
 
 
 
-### 玉带海雕 _Haliaeetus leucoryphus_
+### \*玉带海雕 _Haliaeetus leucoryphus_
+
+> 您需要……才能扮演该鸟种！
 
 {% tabs %}
 {% tab title="成鸟" %}
