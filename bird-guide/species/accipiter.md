@@ -625,8 +625,6 @@ WIP
 
 ### \*玉带海雕 _Haliaeetus leucoryphus_
 
-> 您需要……才能扮演该鸟种！
-
 {% tabs %}
 {% tab title="成鸟" %}
 ![&#x4F5C;&#x8005;Fr&#xE9;d&#xE9;ric Pelsy](../../.gitbook/assets/haliaeetus_leucoryphus_-_pygargue_de_pallas_-_03.jpg)

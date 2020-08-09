@@ -7,8 +7,8 @@ description: 本项目主要利用的学术资源，以及任何对鸟类学感�
 ## 线上资源
 
 * [All About Birds](https://www.allaboutbirds.org/)
+* [Birds of the World](https://birdsoftheworld.org/bow/home)
 * [eBird](https://ebird.org/home)
-* [Handbook of the Birds of the World Alive](https://www.hbw.com/)
 * [IOC World Bird List](https://www.worldbirdnames.org/)
 * [Serge Dumont Bird Hybrids Database](http://www.bird-hybrids.com/)
 
