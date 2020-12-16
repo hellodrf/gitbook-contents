@@ -72,7 +72,7 @@
 {% tabs %}
 {% tab title="鸟类" %}
 **鸳鸯** _**Aix galericulata**_  
-冬候鸟。极为醒目的鸭类，雄鸟的色彩和形态极为夸张华丽，雌鸟则大体为褐灰色。也善于攀援树木，或是在林间飞行穿梭。分布于阿克那湖。
+冬候鸟。极为醒目的鸭类，雄鸟的色彩和形态极为夸张华丽，雌鸟则大体为褐灰色。善于攀援树木，或是在林间飞行穿梭。分布于阿克那湖。
 
 **斑嘴鸭** _**Anas zonorhyncha**_  
 冬候鸟。大型鸭类，通体被麻斑，得名于喙末端的醒目黄斑。分布于阿克那湖，数量巨大。
@@ -118,11 +118,72 @@
 {% endtab %}
 
 {% tab title="兽类" %}
+**刺猬（**_**Erinaceus amurensis**_**）**
 
+**穿山甲（**_**Manis pentadactyla**_**）**
+
+**小麂** _**Muntiacus reevesi**_
+
+**鬣羚（**_**Capricornis milneedwardsii**_**）**
+
+**赤腹松鼠** _**Callosciurus erythraeus**_
+
+**黑腹绒鼠** _**Eothenomys melanogaster**_
+
+**北社鼠** _**Niviventer confucianus**_  
+腹部白色的树栖鼠。极为常见。
+
+**针毛鼠** _**Niviventer fulvescens**_
+
+**野兔（**_**Lepus sinensis**_**）**  
+十分常见。
 {% endtab %}
 
 {% tab title="其他" %}
+**大树蛙** _**Zhangixalus dennysi**_
 
+**臭蛙（**_**Odorrana tianmuii**_**）**
+
+**铜蜓蜥** _**Sphenomorphus indicus**_
+
+**北草蜥** _**Takydromus septentrionalis**_
+
+**烙铁头（**_**Ovophis makazayazaya**_**）**
+
+**竹叶青（**_**Trimeresurus stejnegeri**_**）**  
+常见毒蛇。
+
+**黑异色灰蜻** _**Orthetrum melania**_  
+林下常见蜻蜓，雄性浅蓝灰色，雌性黄色。 
+
+**广斧螳** _**Hierodula patellifera**_  
+常见的浅绿色大型螳螂。
+
+**斑透翅蝉** _**Hyalessa maculaticollis**_  
+夏季发出独特的“呜英呜英呜英哇——”的鸣声。
+
+**幸运深山锹甲** _**Lucanida fortunei**_  
+常见甲虫，雄性有一对大钳状的上颚。昆虫收藏家寻觅的对象之一。
+
+**双叉犀金龟** _**Trypoxylus dichotomus**_  
+“独角仙”，雄性的头顶伸出一只分为两叉的独角。昆虫收藏家寻觅的对象之一。
+
+**金裳凤蝶** _**Troides aeacus**_  
+哈兰那最大的蝴蝶，前翅黑色，后翅金色。飞行很高，常在树顶盘旋。昆虫收藏家寻觅的对象之一。
+
+**箭环蝶** _**Stichophthalma howqua**_  
+非常巨大的蝴蝶。在竹林间活动，飞行灵巧迅速。
+
+**二尾蛱蝶** _**Polyura narcaea**_  
+极为常见的中型蝴蝶。
+
+**绿弄蝶** _**Choaspes benjaminii**_  
+小型蝴蝶。
+
+**南樗蚕（**_**Samia wangi**_**）**   
+大型飞蛾。
+
+**（**_**Luehdorfia chinensis**_**）**
 {% endtab %}
 {% endtabs %}
 
