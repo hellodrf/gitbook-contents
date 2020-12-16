@@ -8,6 +8,8 @@
 
 ![&#x4F5C;&#x8005;Richard Jackson](../../.gitbook/assets/greater_sooty_owl_richard_jackson-4.jpg)
 
+每1年相当于2人类年，y=2x+13
+
 {% tabs %}
 {% tab title="生物学" %}
 * 体长：37-43 cm
@@ -251,7 +253,7 @@ WIP
 
 ![&#x7070;&#x8272;&#x578B;&#xFF0C;&#x4F5C;&#x8005;Robin Newlin](../../.gitbook/assets/unnamed.jpg)
 
-text
+每1年相当于2人类年，y=2x+13
 
 {% tabs %}
 {% tab title="生物学" %}

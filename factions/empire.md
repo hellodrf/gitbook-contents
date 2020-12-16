@@ -14,35 +14,25 @@
 
 ### [弗洛西亚 VROXIA](../under-construction/geography/vroxia.md)
 
-
-
 ### [塞维纳塔 SAEWENATA](../under-construction/geography/saewenata.md)
 
+### [那萨达 NASAADA](../under-construction/geography/nasaada.md)
 
+### [阿克那 AKNA](../under-construction/geography/akna.md)
 
-### 那萨达 NASAADA
-
-
-
-### 阿克那 AKNA
-
-
-
-### 安纳荷拉 ANAKHORA
+### [安纳荷拉 ANAKHORA](../under-construction/geography/anakhora.md)
 
 ### 伊苏里亚 ISSURIA
 
-伊苏里亚也被北方原住民称为“伊苏尔”。
-
 ## 历史
 
-根据哈兰那朝廷官方修订、颁布的历史，
+
 
 ## 生活
 
 ### 职业
 
-wip
+WIP
 
 ### 军事
 

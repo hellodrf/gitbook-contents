@@ -17,7 +17,7 @@ description: 您需要满足特定条件（如提交特定申请，详见内文�
 * 【暂不开放】[白背兀鹫](accipiter.md#bai-bei-wu-jiu-gyps-bengalensis) _Gyps bengalensis_
 * 【暂不开放】[黑冠鹃隼](accipiter.md#hei-guan-juan-sun-aviceda-leuphotes) _Aviceda leuphotes_
 * 【暂不开放】[丽鹰雕](accipiter.md#li-ying-diao-spizaetus-ornatus) _Spizaetus ornatus_
-* 【暂不开放】[林雕](accipiter.md#lin-diao-ictinaetus-malaiensis) _Ictinaetus malaiensis_
+* \*[林雕](accipiter.md#lin-diao-ictinaetus-malaiensis) _Ictinaetus malaiensis_
 * 【暂不开放】[凤头鹰](accipiter.md#feng-tou-ying-accipiter-trivirgatus) _Accipiter trivirgatus_
 * 【暂不开放】[赤腹鹰](accipiter.md#chi-fu-ying-accipiter-soloensis) _Accipiter soloensis_
 * 【暂不开放】[苍鹰](accipiter.md#cang-ying-accipiter-gentilis) _Accipiter gentilis_

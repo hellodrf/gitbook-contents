@@ -39,18 +39,17 @@ description: 参照：北京
 {% endtab %}
 
 {% tab title="少见" %}
-* 白肩雕
 * 白尾海雕
-* 雕鸮
 * 灰林鸮
 * 短耳鸮
 * 猎隼
+* 红嘴蓝鹊
 * 渡鸦
 {% endtab %}
 
 {% tab title="罕见" %}
-* 白尾鹞
-* 红嘴蓝鹊
+* 白肩雕
+* 雕鸮
 {% endtab %}
 {% endtabs %}
 

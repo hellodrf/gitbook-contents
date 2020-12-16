@@ -31,7 +31,7 @@
 * [鸟类概论](under-construction/ornithology.md)
 * [地理](under-construction/geography/README.md)
   * [弗洛西亚](under-construction/geography/vroxia.md)
-  * [赛维纳塔](under-construction/geography/saewenata.md)
+  * [塞维纳塔](under-construction/geography/saewenata.md)
   * [那萨达](under-construction/geography/nasaada.md)
   * [阿克那（模板）](under-construction/geography/akna.md)
   * [安纳荷拉](under-construction/geography/anakhora.md)

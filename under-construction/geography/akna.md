@@ -107,7 +107,7 @@
 **短尾鸦雀** _**Neosuthora davidiana**_  
 留鸟。体型极小，体态浑圆。成群活动。【分布】
 
-**白额燕尾 Enicurus leschenaulti**  
+**白额燕尾** _**Enicurus leschenaulti**_  
 留鸟。黑白分明，尾甚长。溪流附近常见。
 
 **红尾水鸲** _**Phoenicurus fuliginosus**_  
