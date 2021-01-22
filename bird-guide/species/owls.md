@@ -8,6 +8,8 @@
 
 ![&#x4F5C;&#x8005;Richard Jackson](../../.gitbook/assets/greater_sooty_owl_richard_jackson-4.jpg)
 
+
+
 每1年相当于2人类年，y=2x+13
 
 {% tabs %}
@@ -61,7 +63,7 @@
 {% endtab %}
 {% endtabs %}
 
-哈兰那……
+
 
 每1年相当于3人类年，y=3x+12
 
@@ -100,6 +102,8 @@
 
 ![&#x4F5C;&#x8005;Tony Ashton](../../.gitbook/assets/tony-ashton-xin-nan-wei-er-shi-gan-zhe-tian.jpg)
 
+
+
 每1年相当于3人类年，y=3x+12
 
 {% tabs %}
@@ -137,6 +141,8 @@
 
 ![&#x4F5C;&#x8005;&#x9648;&#x9648;](../../.gitbook/assets/chen-chen.jpg)
 
+
+
 每1年相当于4人类年，y=4x+11
 
 {% tabs %}
@@ -169,6 +175,8 @@
 {% endtab %}
 {% endtabs %}
 
+
+
 每1年相当于4人类年，y=4x+11
 
 {% tabs %}
@@ -196,6 +204,8 @@
 
 ### 雕鸮 _Bubo bubo_
 
+每1年相当于1.5人类年，y=1.5x+13.5
+
 {% tabs %}
 {% tab title="生物学" %}
 * 体长：58-71 cm
@@ -222,6 +232,8 @@
 ### 黄脚渔鸮 _Ketupa flavipes_
 
 ![&#x4F5C;&#x8005;Markus  Lilje](../../.gitbook/assets/owl_fish_tawny_-022.jpg)
+
+每1年相当于1.5人类年，y=1.5x+13.5
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -252,6 +264,8 @@ WIP
 ### 灰林鸮 _Strix nivicolum_
 
 ![&#x7070;&#x8272;&#x578B;&#xFF0C;&#x4F5C;&#x8005;Robin Newlin](../../.gitbook/assets/unnamed.jpg)
+
+
 
 每1年相当于2人类年，y=2x+13
 
@@ -284,6 +298,8 @@ WIP
 ### 花头鸺鹠 _Glaucidium passerinum_
 
 ![&#x4F5C;&#x8005;Helge Sorensen](../../.gitbook/assets/20190217_0400.jpg)
+
+
 
 每1年相当于4人类年，y=4x+11
 
@@ -348,11 +364,11 @@ WIP
 {% endtab %}
 {% endtabs %}
 
-
-
 ### 纵纹腹小鸮 _Athene noctua_
 
 ![&#x4F5C;&#x8005;Mustafa Sozen](../../.gitbook/assets/mustafa-sozen.jpg)
+
+
 
 每1年相当于4人类年，y=4x+11
 
