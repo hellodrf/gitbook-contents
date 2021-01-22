@@ -22,8 +22,6 @@
 
 ### [安纳荷拉 ANAKHORA](../under-construction/geography/anakhora.md)
 
-### 伊苏里亚 ISSURIA
-
 ## 历史
 
 

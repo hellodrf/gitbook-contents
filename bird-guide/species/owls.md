@@ -204,6 +204,8 @@
 
 ### 雕鸮 _Bubo bubo_
 
+![&#x4F5C;&#x8005;Yeray Seminario](../../.gitbook/assets/276736741.jpg)
+
 每1年相当于1.5人类年，y=1.5x+13.5
 
 {% tabs %}
@@ -399,6 +401,8 @@ WIP
 
 ![&#x4F5C;&#x8005;Jeff Dyck](../../.gitbook/assets/jeff-dyck-qiao-zhi-wang-zi-cheng-ji-chang.jpg)
 
+
+
 {% tabs %}
 {% tab title="生物学" %}
 * 体长：
@@ -416,6 +420,8 @@ WIP
 
 
 ### 长耳鸮 _Asio otus_
+
+![&#x4F5C;&#x8005;H. Heerklotz](../../.gitbook/assets/75486701.jpg)
 
 {% tabs %}
 {% tab title="生物学" %}

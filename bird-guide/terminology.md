@@ -38,7 +38,6 @@ description: 拼音字母顺。WIP
 * 覆羽（covert feathers）：
 * 换羽（moult/molt）：鸟类脱落旧羽毛，换上新羽毛的过程。
 * 喙（beak, bill）：鸟的上下颚，包括外层的角质鞘。
-* 混交制：
 * 婚后羽（post-nuptial plumage）：同基本羽。
 * 婚羽（nuptial plumage）：同替换羽。
 
@@ -57,7 +56,7 @@ description: 拼音字母顺。WIP
 ## M
 
 * 鸣叫（call）：鸟类短促简单的鸣声。
-* 鸣唱（song）：鸟类复杂的鸣声，一般与繁殖有关，如领域标记、求偶。
+* 鸣啭（song）：鸟类复杂的鸣声，一般与繁殖有关，如领域标记、求偶。
 
 ## Q
 

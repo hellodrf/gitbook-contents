@@ -8,7 +8,7 @@
 
 ![&#x4F5C;&#x8005;&#x843D;&#x65E5;&#x7194;&#x91D1;](../../.gitbook/assets/h.jpg)
 
-红嘴蓝鹊是一类偏好山地丘陵的鸟类。
+
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -44,7 +44,7 @@ WIP
 
 ![&#x4F5C;&#x8005;Pierre-Selim](../../.gitbook/assets/zhi-ming.jpg)
 
-喜鹊生活在几乎任何地方。
+
 
 {% tabs %}
 {% tab title="生物学" %}
