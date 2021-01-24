@@ -1,10 +1,8 @@
----
-description: 浙闽丘陵
----
-
 # 塞维纳塔
 
 
+
+![](../../.gitbook/assets/src-http___5b0988e595225.cdn.sohucs.com_images_20190822_ec2ad7e5f2e343b4b83bf7175b0ef056.jpeg-and-refer-http___5b0988e595225.cdn.sohucs.jpg)
 
 ## 气候与地理 <a id="qi-hou"></a>
 
@@ -17,37 +15,6 @@ WIP
 ## 居民 <a id="ju-min"></a>
 
 ### 可扮演鸟类 <a id="ke-ban-yan-niao-lei"></a>
-
-{% tabs %}
-{% tab title="常见" %}
-* 鹗
-* 黑翅鸢
-* 蛇雕
-* 凤头鹰
-* 赤腹鹰
-* 赤鸢
-* 仓鸮
-* 领角鸮
-* 斑头鸺鹠
-* 红隼
-* 红嘴蓝鹊
-* 喜鹊
-* 白颈鸦
-{% endtab %}
-
-{% tab title="少见" %}
-* 林雕
-* 食蝠隼
-* 游隼
-{% endtab %}
-
-{% tab title="罕见" %}
-* 黑冠鹃隼
-* 白腹海雕
-* 东方草鸮
-* 小嘴乌鸦
-{% endtab %}
-{% endtabs %}
 
 ### 其他动物
 

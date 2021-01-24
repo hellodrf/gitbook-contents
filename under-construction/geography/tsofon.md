@@ -1,10 +1,8 @@
----
-description: 参照：北京
----
-
 # 索芬
 
 文字文字‌
+
+![](../../.gitbook/assets/cii-s1vtfxeiab-7aa2jsal4deeaapr0gfmk9kadapi270_w800_h0_c0_t0.jpg)
 
 ## 气候与地理 <a id="qi-hou"></a>
 
@@ -18,38 +16,9 @@ description: 参照：北京
 
 槭叶铁线莲
 
+![](../../.gitbook/assets/8ae86de8cc2f45188e00839443391518_th.jpeg)
+
 ## 居民 <a id="ju-min"></a>
 
 ### 可扮演鸟类 <a id="ke-ban-yan-niao-lei"></a>
-
-{% tabs %}
-{% tab title="常见" %}
-* 苍鹰
-* 雀鹰
-* 赤鸢
-* 东方角鸮
-* 纵纹腹小鸮
-* 长耳鸮
-* 红隼
-* 燕隼
-* 游隼
-* 喜鹊
-* 寒鸦
-* 小嘴乌鸦
-{% endtab %}
-
-{% tab title="少见" %}
-* 白尾海雕
-* 灰林鸮
-* 短耳鸮
-* 猎隼
-* 红嘴蓝鹊
-* 渡鸦
-{% endtab %}
-
-{% tab title="罕见" %}
-* 白肩雕
-* 雕鸮
-{% endtab %}
-{% endtabs %}
 

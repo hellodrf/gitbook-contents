@@ -1,6 +1,6 @@
 # 阿克那（模板）
 
-阿克那得名于南北两座阿克那湖。
+阿克那得名于南北两座阿克那湖。阿克那山地平缓，绿树成荫。阿克那的居民与周围行省的居民都有所往来，生活富裕，思想开放。
 
 ![](../../.gitbook/assets/img_20180708_101357.jpg)
 
@@ -44,6 +44,7 @@
 * 赤腹鹰 _Accipiter soloensis_
 * 仓鸮 _Tyto alba_
 * 领角鸮 _Otus lettia_
+* 东方角鸮 _Otus sunia_
 * 斑头鸺鹠 _Glaucidium cuculoides_
 * 长耳鸮 _Asio otus_
 * 红隼 _Falco tinnunculus_
@@ -126,7 +127,8 @@
 
 **鬣羚（**_**Capricornis milneedwardsii**_**）**
 
-**赤腹松鼠** _**Callosciurus erythraeus**_
+**赤腹松鼠** _**Callosciurus erythraeus**_  
+常见松鼠。
 
 **黑腹绒鼠** _**Eothenomys melanogaster**_
 
@@ -136,7 +138,7 @@
 **针毛鼠** _**Niviventer fulvescens**_
 
 **野兔（**_**Lepus sinensis**_**）**  
-十分常见。
+十分常见。当地居民的主食之一。
 {% endtab %}
 
 {% tab title="其他" %}
