@@ -33,7 +33,7 @@
   * [弗洛西亚](under-construction/geography/vroxia.md)
   * [塞维纳塔](under-construction/geography/saewenata.md)
   * [那萨达](under-construction/geography/nasaada.md)
-  * [阿克那（模板）](under-construction/geography/akna.md)
+  * [阿克那](under-construction/geography/akna.md)
   * [安纳荷拉](under-construction/geography/anakhora.md)
   * [伊苏里亚](under-construction/geography/issur.md)
   * [索芬](under-construction/geography/tsofon.md)

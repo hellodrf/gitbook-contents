@@ -12,19 +12,33 @@
 
 ## 领土
 
+### [那萨达 NASAADA](../under-construction/geography/nasaada.md)
+
+哈兰那帝国的首府，位于帝国的西端，背倚群山。
+
 ### [弗洛西亚 VROXIA](../under-construction/geography/vroxia.md)
+
+帝国最南端的领土。
 
 ### [塞维纳塔 SAEWENATA](../under-construction/geography/saewenata.md)
 
-### [那萨达 NASAADA](../under-construction/geography/nasaada.md)
+帝国东南的领土。
 
 ### [阿克那 AKNA](../under-construction/geography/akna.md)
 
+帝国中部的领土。阿克那物产丰饶，居民热情好客、思想开放。
+
 ### [安纳荷拉 ANAKHORA](../under-construction/geography/anakhora.md)
+
+帝国北部的领土，与伊苏里亚接壤。
+
+### [伊苏里亚 ISSURIA](../under-construction/geography/issur.md)
+
+伊苏里亚原本是北方伊苏尔联盟的领土。
 
 ## 历史
 
-
+660年，哈兰那贵族\[TBA\]、\[TBA\]合谋叛乱。叛乱席卷了哈兰那王国大半个北部地区。为了镇压叛乱，当时的哈兰那国王与北方伊苏尔联盟签订和平协约：哈兰那承认伊苏尔联盟的地位，永远不与伊苏尔为敌。在两面夹攻下，叛军节节败退，主谋\[TBA\]自杀身亡。\[TBA\]和\[TBA\]家族被永远流放至哈兰那边境之外。
 
 ## 生活
 

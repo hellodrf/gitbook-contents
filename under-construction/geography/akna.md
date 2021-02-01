@@ -1,6 +1,6 @@
-# 阿克那（模板）
+# 阿克那
 
-阿克那得名于南北两座阿克那湖。阿克那山地平缓，绿树成荫。阿克那的居民与周围行省的居民都有所往来，生活富裕，思想开放。
+阿克那得名于南北两座阿克那湖。山地平缓，绿树成荫。阿克那的居民主要从事狩猎、养殖业、制造业，与周围各行省的居民都有所往来，生活富裕，思想开放。
 
 ![](../../.gitbook/assets/img_20180708_101357.jpg)
 
@@ -34,12 +34,17 @@
 
 阿克那的首府，也是最大最繁华的城市。
 
+### 卡利戈河
+
+阿克那南部的河流，流向自西向东。
+
 ## 居民
 
 ### 可扮演鸟类
 
 {% tabs %}
 {% tab title="常见" %}
+* 黑冠鹃隼 _Aviceda leuphotes_
 * 凤头鹰 _Accipiter trivirgatus_
 * 赤腹鹰 _Accipiter soloensis_
 * 仓鸮 _Tyto alba_
@@ -47,24 +52,23 @@
 * 东方角鸮 _Otus sunia_
 * 斑头鸺鹠 _Glaucidium cuculoides_
 * 长耳鸮 _Asio otus_
-* 红隼 _Falco tinnunculus_
 * 红嘴蓝鹊 _Urocissa erythroryncha_
 {% endtab %}
 
 {% tab title="少见" %}
 * 鹗 _Pandion haliaetus_
-* 黑翅鸢 _Elanus caeruleus_
-* 黑冠鹃隼 _Aviceda leuphotes_
 * 蛇雕 _Spilornis cheela_
-* 林雕 _Ictinaetus malaiensis_
-* 短耳鸮 _Asio flammeus_
+* 黄脚渔鸮 _Ketupa flavipes_
+* 白腿小隼 _Microhierax melanoleucos_
+* 红隼 _Falco tinnunculus_
+* 游隼 _Falco peregrinus_
 * 喜鹊 _Pica pica_
+* 大嘴乌鸦 _Corvus macrorhynchos_
 {% endtab %}
 
 {% tab title="罕见" %}
+* 林雕 _Ictinaetus malaiensis_
 * 雕鸮 _Bubo bubo_
-* 黄脚渔鸮 _Ketupa flavipes_
-* 白腿小隼 _Microhierax melanoleucos_
 {% endtab %}
 {% endtabs %}
 
@@ -103,10 +107,10 @@
 留鸟。眼周有一圈醒目的白色，并向眼尾延长，因此得名。鸣声极为嘹亮，华丽多变。常在隐蔽的林下灌丛或草丛中活动。
 
 **靛冠噪鹛** _**Pterorhinus courtoisi**_  
-留鸟。【分布】
+留鸟。分布于卡利戈河上游。
 
 **短尾鸦雀** _**Neosuthora davidiana**_  
-留鸟。体型极小，体态浑圆。成群活动。【分布】
+留鸟。体型极小，体态浑圆。成群活动。
 
 **白额燕尾** _**Enicurus leschenaulti**_  
 留鸟。黑白分明，尾甚长。溪流附近常见。
@@ -144,7 +148,8 @@
 {% tab title="其他" %}
 **大树蛙** _**Zhangixalus dennysi**_
 
-**臭蛙（**_**Odorrana tianmuii**_**）**
+**臭蛙（**_**Odorrana tianmuii**_**）**  
+常见蛙类。
 
 **铜蜓蜥** _**Sphenomorphus indicus**_
 
@@ -173,6 +178,9 @@
 **金裳凤蝶** _**Troides aeacus**_  
 哈兰那最大的蝴蝶，前翅黑色，后翅金色。飞行很高，常在树顶盘旋。昆虫收藏家寻觅的对象之一。
 
+**南虎凤蝶（**_**Luehdorfia chinensis**_**）**  
+罕见的蝴蝶，通体黑黄相间。只有每年初春才能见到。
+
 **箭环蝶** _**Stichophthalma howqua**_  
 非常巨大的蝴蝶。在竹林间活动，飞行灵巧迅速。
 
@@ -180,12 +188,13 @@
 极为常见的中型蝴蝶。
 
 **绿弄蝶** _**Choaspes benjaminii**_  
-小型蝴蝶。
+绿色的小型蝴蝶。
 
 **南樗蚕（**_**Samia wangi**_**）**   
 大型飞蛾。
 
-**（**_**Luehdorfia chinensis**_**）**
+**长尾天蚕蛾** _**Actias dubernardi**_  
+有着极长尾突的飞蛾。
 {% endtab %}
 {% endtabs %}
 
