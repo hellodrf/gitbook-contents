@@ -14,7 +14,7 @@ VOLAMUS的科技水平大致相当于人类的中世纪。详细情况请参考[
 
 ## [历史](history.md)
 
-## [地理](../under-construction/geography/)
+## [地理](geography/)
 
 ## 文化
 
