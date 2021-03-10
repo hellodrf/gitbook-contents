@@ -1,6 +1,6 @@
 # Table of contents
 
-* [欢迎来到VOLAMUS官方公示！](README.md)
+* [欢迎来到苍穹游玩手册！](README.md)
 * [导航](guide/README.md)
   * [关于我们](guide/about-us.md)
   * [规章管理](guide/rules.md)
