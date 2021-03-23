@@ -61,7 +61,8 @@ WIP
 {% endtab %}
 
 {% tab title="罕见" %}
-
+* 丽鹰雕
+* 白腹海雕
 {% endtab %}
 {% endtabs %}
 
