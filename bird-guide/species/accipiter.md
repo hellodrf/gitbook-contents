@@ -12,7 +12,7 @@
 
 ![&#x4F5C;&#x8005;Christopher Paparo](../../.gitbook/assets/tr0317_a_osprey2_cp.jpg)
 
-Lorem ipsum
+鹗逐水而居，不论是南方的哈兰那还是北方的伊苏尔，只要有江河湖海的地方就有他们的身影。他们绝大多数是不怎么受尊敬的渔民，常常在水滨聚居形成大型渔村。WIP
 
 每1年相当于1.5人类年，y=1.5x+13.5
 
@@ -261,7 +261,7 @@ whit, wheEEeuuu, whep whep whep whep
 {% endtab %}
 {% endtabs %}
 
-Lorem ipsum
+Lorem
 
 每1年相当于1人类年，y=x+14
 
