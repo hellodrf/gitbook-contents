@@ -10,7 +10,7 @@
 您可以创建东方鹗 _P. \(h.\) cristatus_
 {% endhint %}
 
-![&#x4F5C;&#x8005;Christopher Paparo](../../.gitbook/assets/tr0317_a_osprey2_cp.jpg)
+![&#x4F5C;&#x8005;Christopher Paparo](../../.gitbook/assets/e-.jpg)
 
 鹗逐水而居，不论是南方的哈兰那还是北方的伊苏尔，只要有江河湖海的地方就有他们的身影。他们绝大多数是不怎么受尊敬的渔民，常常在水滨聚居形成大型渔村。WIP
 
@@ -47,11 +47,11 @@
 
 {% tabs %}
 {% tab title="成鸟" %}
-![&#x4F5C;&#x8005;Bhaarat Vyas](../../.gitbook/assets/bhaarat-vyas.jpg)
+![&#x4F5C;&#x8005;Bhaarat Vyas](../../.gitbook/assets/hei-chi-yuan-.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
-![&#x4F5C;&#x8005;Rahul Singh](../../.gitbook/assets/rahul-singh.jpg)
+![&#x4F5C;&#x8005;Rahul Singh](../../.gitbook/assets/hei-chi-yuan-ya-cheng-.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -93,7 +93,7 @@ Lorem ipsum
 
 ### 蛇雕 _Spilornis cheela_
 
-![&#x4F5C;&#x8005;Pete Oxford](../../.gitbook/assets/90200675.jpg)
+![&#x4F5C;&#x8005;Pete Oxford](../../.gitbook/assets/she-diao-.jpg)
 
 Lorem ipsum
 
