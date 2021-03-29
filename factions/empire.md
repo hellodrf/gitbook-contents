@@ -48,29 +48,29 @@
 
 ## 领土
 
-### [那萨达 NASAADA](../settlements/geography/nasaada.md)
+### [那萨达](../settlements/geography/nasaada.md)
 
 哈兰那帝国的首府，位于帝国的西端，背倚群山。
 
-### 弗洛西亚 VROXIA
+### [弗洛西亚](../settlements/geography/vroxia.md)
 
 帝国西南端的领土。
 
-### [塞维纳塔 SAEWENATA](../settlements/geography/saewenata.md)
+### [塞维纳塔](../settlements/geography/saewenata.md)
 
 帝国东南的领土。
 
-### [阿克那 AKNA](../settlements/geography/akna.md)
+### [阿克那](../settlements/geography/akna.md)
 
 帝国中部的领土。
 
-### [安纳荷拉 ANAKHORA](../settlements/geography/anakhora.md)
+### [安纳荷拉](../settlements/geography/anakhora.md)
 
 帝国北部的领土，与伊苏里亚接壤。
 
-### [伊苏里亚 ISSURIA](../settlements/geography/issur.md)
+### [伊苏里亚](../settlements/geography/issur.md)
 
-伊苏里亚原本是北方伊苏尔联盟的领土。
+伊苏里亚原本是北方伊苏尔联盟的领土。760年，哈兰那攻陷伊苏里亚，将其纳入版图。
 
 ## 历史
 

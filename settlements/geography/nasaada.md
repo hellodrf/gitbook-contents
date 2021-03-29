@@ -54,15 +54,12 @@ WIP
 * 雕鸮 _Bubo bubo_
 * 黄脚渔鸮 _Ketupa flavipes_
 * 灰林鸮 _Strix nivicolum_ 
-* 白腿小隼 _Microhierax melanoleucos_
-* 小嘴乌鸦 _Corvus corone_ 
-
- 
 {% endtab %}
 
 {% tab title="罕见" %}
 * 丽鹰雕
 * 白腹海雕
+* 白腿小隼 _Microhierax melanoleucos_
 {% endtab %}
 {% endtabs %}
 

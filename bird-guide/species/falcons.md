@@ -8,6 +8,8 @@
 
 ![&#x4F5C;&#x8005;&#x73A9;&#x4E3B;&#x5317;&#x4EAC;](../../.gitbook/assets/091357dj7f2w2660w0t24m.jpg)
 
+Lorem ipsum
+
 每1年相当于4人类年，y=4x+11
 
 {% tabs %}
@@ -49,6 +51,10 @@
 {% endtab %}
 {% endtabs %}
 
+Lorem ipsum
+
+每1年相当于3人类年，y=3x+12
+
 {% tabs %}
 {% tab title="生物学" %}
 * 体长：27-35 cm
@@ -79,6 +85,10 @@ WIP
 
 ![&#x4F5C;&#x8005;Christian Sanchez](../../.gitbook/assets/christian-sanchez.jpg)
 
+Lorem ipsum
+
+每1年相当于3人类年，y=3x+12
+
 {% tabs %}
 {% tab title="生物学" %}
 * 体长：20-30 cm
@@ -97,6 +107,8 @@ WIP
 {% endtab %}
 {% endtabs %}
 
+
+
 ### 燕隼 _Falco subbuteo_
 
 {% tabs %}
@@ -110,6 +122,8 @@ WIP
 {% endtabs %}
 
 text
+
+每1年相当于3人类年，y=3x+12
 
 {% tabs %}
 {% tab title="生物学" %}
@@ -159,6 +173,8 @@ text
 {% endtab %}
 {% endtabs %}
 
+Lorem ipsum
+
 每1年相当于2人类年，y=2x+13
 
 {% tabs %}
@@ -205,6 +221,8 @@ text
 ![&#x4F5C;&#x8005;&#x4E09;&#x6C5F;&#x4E3B;&#x4EBA;](../../.gitbook/assets/491fe510g6d98f2d960d2-and-690.jpg)
 {% endtab %}
 {% endtabs %}
+
+Lorem ipsum
 
 每1年相当于2人类年，y=2x+13
 
