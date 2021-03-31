@@ -42,7 +42,6 @@
 * 红隼 Falco tinnunculus
 * 燕隼 Falco subbuteo
 * 游隼 Falco peregrinus
-* 猎隼 Falco cherrug
 * 红嘴蓝鹊 Urocissa erythroryncha
 * 喜鹊 Pica pica
 * 寒鸦 Coloeus monedula
