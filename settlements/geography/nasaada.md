@@ -1,12 +1,12 @@
 # 那萨达
 
-那萨达——哈兰那的首府就坐落于此。
+那萨达，亚威亚大陆的中心地带。哈兰那的首府就坐落于此。这里有不少大大小小的城市，也有成片的乡村牧场，居民从事各行各业。不少那萨达的居民是来自其他行省的移民，特地来大城市谋求更好的生活。
 
 ![](../../.gitbook/assets/v6ckbz.jpg)
 
 ## 气候与地理 <a id="qi-hou"></a>
 
-‌盆地，山地。
+‌那萨达四季分明，夏季炎热潮湿，冬季多雨而寒冷，但温度一般不低于0摄氏度。
 
 ## 植被 <a id="zhi-bei"></a>
 
@@ -16,7 +16,7 @@ WIP
 
 ### 哈兰那塔
 
-哈兰那帝国的首都，坐落于那萨达盆地中央，依山傍水。哈兰那塔也是整个哈兰那王国最繁华的城市。
+哈兰那帝国的首都，坐落于那萨达盆地中央，依山傍水。哈兰那塔也是整个哈兰那帝国最繁华的城市。
 
 ## 居民 <a id="ju-min"></a>
 
@@ -26,9 +26,7 @@ WIP
 {% tab title="常见" %}
 * 鹗 _Pandion haliaetus_
 * 黑翅鸢 _Elanus caeruleus_
-* 蛇雕 _Spilornis cheela_ 
 * 白背兀鹫 _Gyps bengalensis_
-* 黑冠鹃隼 _Aviceda leuphotes_ 
 * 凤头鹰 _Accipiter trivirgatus_ 
 * 赤腹鹰 _Accipiter soloensis_ 
 * 赤鸢 _Milvus milvus_ 
@@ -49,16 +47,20 @@ WIP
 {% endtab %}
 
 {% tab title="少见" %}
+* 蛇雕 _Spilornis cheela_ 
+* 黑冠鹃隼 _Aviceda leuphotes_ 
 * 林雕 _Ictinaetus malaiensis_ 
+* 白腹海雕
 * 乌草鸮 _Tyto tenebri_cosa
 * 雕鸮 _Bubo bubo_
-* 黄脚渔鸮 _Ketupa flavipes_
-* 灰林鸮 _Strix nivicolum_ 
+* 灰林鸮 _Strix nivicolum_
+* 渡鸦 _Corvus corax_
 {% endtab %}
 
 {% tab title="罕见" %}
-* 丽鹰雕
-* 白腹海雕
+* 丽鹰雕 _Spizaetus ornatus_
+* 玉带海雕 _Haliaeetus leucoryphus_
+* 黄脚渔鸮 _Ketupa flavipes_
 * 白腿小隼 _Microhierax melanoleucos_
 {% endtab %}
 {% endtabs %}

@@ -12,7 +12,7 @@
 
 ## 植被 <a id="zhi-bei"></a>
 
-母生
+母生 黑桫椤 
 
 ## 居民 <a id="ju-min"></a>
 
@@ -25,8 +25,6 @@
 * 蛇雕 Spilornis cheela
 * 白背兀鹫 Gyps bengalensis
 * 黑冠鹃隼 Aviceda leuphotes
-* 丽鹰雕 Spizaetus ornatus
-* 林雕 Ictinaetus malaiensis
 * 凤头鹰 Accipiter trivirgatus
 * 赤腹鹰 Accipiter soloensis
 * 赤鸢 Milvus milvus
@@ -41,8 +39,7 @@
 * 灰林鸮 Strix nivicolum
 * 斑头鸺鹠 Glaucidium cuculoides
 * 短耳鸮 Asio flammeus
-* 长耳鸮 Asio otus
-* 白腿小隼 Microhierax melanoleucos
+* 长耳鸮 Asio otu
 * 红隼 Falco tinnunculus
 * 食蝠隼 Falco rufigularis
 * 游隼 Falco peregrinus
@@ -59,7 +56,8 @@
 {% endtab %}
 
 {% tab title="罕见" %}
-
+* 丽鹰雕 Spizaetus ornatus
+* 林雕 Ictinaetus malaiensis
 {% endtab %}
 {% endtabs %}
 

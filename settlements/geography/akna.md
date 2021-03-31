@@ -1,6 +1,6 @@
 # 阿克那
 
-阿克那得名于南北两座阿克那湖。山地平缓，绿树成荫。阿克那的居民主要从事狩猎、养殖业、制造业，与周围各行省的居民都有所往来，生活富裕，思想开放。
+阿克那得名于南北两座阿克那湖。山地平缓，绿树成荫。在南部的卡利戈河沿岸，坐落着几座大城市。阿克那的居民主要从事狩猎、养殖业、制造业，与周围各行省的居民都有所往来，生活富裕。
 
 ![](../../.gitbook/assets/img_20180708_101357.jpg)
 
@@ -58,8 +58,6 @@
 {% tab title="少见" %}
 * 鹗 _Pandion haliaetus_
 * 蛇雕 _Spilornis cheela_
-* 黄脚渔鸮 _Ketupa flavipes_
-* 白腿小隼 _Microhierax melanoleucos_
 * 红隼 _Falco tinnunculus_
 * 游隼 _Falco peregrinus_
 * 喜鹊 _Pica pica_
@@ -67,8 +65,9 @@
 {% endtab %}
 
 {% tab title="罕见" %}
-* 林雕 _Ictinaetus malaiensis_
 * 雕鸮 _Bubo bubo_
+* 黄脚渔鸮 _Ketupa flavipes_
+* 白腿小隼 _Microhierax melanoleucos_
 {% endtab %}
 {% endtabs %}
 
