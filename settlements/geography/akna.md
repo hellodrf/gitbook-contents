@@ -2,11 +2,11 @@
 
 阿克那得名于南北两座阿克那湖。山地平缓，绿树成荫。在南部的卡利戈河沿岸，坐落着几座大城市。阿克那的居民主要从事狩猎、养殖业、制造业，与周围各行省的居民都有所往来，生活富裕。
 
-![](../../.gitbook/assets/img_20180708_101357.jpg)
+![](../../.gitbook/assets/a-ke-na-.jpg)
 
 ## 气候与地理
 
-季风控制下的亚热带落叶林。夏季湿热，均温约27-30℃，冬季均温约5℃；海拔较高的山地气温普遍更低一些。
+季风控制下的亚热带落叶林。夏季湿热，均温约25-27℃，冬季均温约5℃；海拔较高的山地气温普遍更低一些。
 
 阿克那境内遍布连绵起伏的平缓山峦和丘陵，约占全境的80%，海拔基本在1500米以下，仅有几座山峰约2000米。山间溪流纵横，形成大大小小的激流和瀑布，溪水清澈见底，当地居民修建的大小水库点缀其间。较大的河流在上游勾画出山谷，到了下游则被平原环抱。
 
@@ -18,7 +18,7 @@
 
 林下生长着茂密的中低层植被，如两型豆 Amphicarpaea edgeworthii、鸭儿芹 _Cryptotaenia japonica_、野桐 _Mallotus tenuifolius_等等。蕺菜 _Houttuynia cordata_ 散发出浓烈的鱼腥味，九头狮子草 _Peristrophe japonica_ 吐出紫色的花朵，南赤瓟 _Thladiantha nudiflora_ 结出有趣的红色圆瓜。秋海棠 _Begonia grandis_ 粉嫩可爱，反瓣虾脊兰 _Calanthe reflexa_ 与大花无柱兰 _Amitostigma pinguicula_ 姿态妖娆。山莓 _Rubus corchorifolius_、蓬蘽 _Rubus hirsutus_、鹰爪枫 _Holboellia coriacea_ 的果实可以食用，虽然说不上有多么美味。大蝎子草 _Girardinia diversifolia_ 浑身披着毒刺，被它蜇到要疼好几天。最惹人注目的是林荫里的翠云草 _Selaginella uncinata_，泛着不真实的金属蓝色，仿佛是异世界的造物。
 
-![](../../.gitbook/assets/selaginella_uncinata_photo_by_gordon_k_a_dickson_cc-by-nc-sa-2.0.jpg)
+![](../../.gitbook/assets/cui-yun-cao-.jpg)
 
 不过，阿克那最著名的植被类型，一定是一望无际的竹海。原生的毛竹 _Phyllostachys edulis_ 被当地居民广泛栽种，已经成为了当地居民生活中不可或缺的一部分：可以搭建建筑、可以制作工具，还能用作竹鼠、竹象的饲料。
 
@@ -83,12 +83,6 @@
 
 **鳞胁秋沙鸭** _**Mergus squamatus**_  
 冬候鸟。大型潜水鸭类，喙如鸬鹚，边缘有齿状结构。两胁有黑白鳞状斑纹。分布于阿克那湖。
-
-**噪鹃** _**Eudynamys scolopaceus**_  
-夏候鸟。大型林鸟，行踪隐秘不易见到。求偶时昼夜发出穿透力极强的“苦啊哦”鸣唱。山区森林四处可闻。
-
-**斑鱼狗** _**Ceryle rudis**_  
-留鸟。通体黑白分明的翠鸟，十分醒目。主要分布于阿克那湖。
 
 **灰喉山椒鸟** _**Pericrocotus solaris**_  
 留鸟。色彩艳丽的林鸟，雄鸟橘红与灰黑色驳杂，雌鸟则是柠檬黄与灰黑色。一般成群活动。海拔较高的山区偶见。

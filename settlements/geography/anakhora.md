@@ -2,7 +2,7 @@
 
 
 
-![](../../.gitbook/assets/38802932_38802932_1411216888821.jpg)
+![](../../.gitbook/assets/shao-zui-yu-.jpg)
 
 ## 气候与地理  <a id="qi-hou"></a>
 
@@ -14,13 +14,23 @@
 
 ## 植被 <a id="zhi-bei"></a>
 
-滩涂潮间带主要生长着海三棱藨草 _Scirpus_ × _mariqueter_，向陆地逐渐过渡为芦苇 _Phragmites australis_
+安纳荷拉的森林主要由枫香 _Liquidambar formosana_、朴 _Celtis sinensis_、樟 _Cinnamomum camphora_构成。
 
-森林：枫香 _Liquidambar formosana_、朴 _Celtis sinensis_、樟 _Cinnamomum camphora_
+滩涂潮间带生长着海三棱藨草 _Scirpus_ × _mariqueter_，向陆地逐渐过渡为芦苇 _Phragmites australis_
 
 ## 居民 <a id="ju-min"></a>
 
 ### 可扮演鸟类 <a id="ke-ban-yan-niao-lei"></a>
 
 ### 其他动物 <a id="qi-ta-dong-wu"></a>
+
+{% tabs %}
+{% tab title="First Tab" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
 

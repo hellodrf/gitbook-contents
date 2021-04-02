@@ -2,7 +2,7 @@
 
 文字文字‌
 
-![](../../.gitbook/assets/cii-s1vtfxeiab-7aa2jsal4deeaapr0gfmk9kadapi270_w800_h0_c0_t0.jpg)
+![](../../.gitbook/assets/suo-fen-.jpg)
 
 ## 气候与地理 <a id="qi-hou"></a>
 
@@ -16,9 +16,23 @@
 
 槭叶铁线莲
 
-![](../../.gitbook/assets/8ae86de8cc2f45188e00839443391518_th.jpeg)
+![](../../.gitbook/assets/qi-ye-tie-xian-lian-.jpeg)
 
 ## 居民 <a id="ju-min"></a>
 
 ### 可扮演鸟类 <a id="ke-ban-yan-niao-lei"></a>
+
+{% tabs %}
+{% tab title="常见" %}
+
+{% endtab %}
+
+{% tab title="少见" %}
+
+{% endtab %}
+
+{% tab title="罕见" %}
+
+{% endtab %}
+{% endtabs %}
 

@@ -6,7 +6,7 @@
 
 ### 乌草鸮 _Tyto tenebricosa_
 
-![&#x4F5C;&#x8005;Richard Jackson](../../.gitbook/assets/greater_sooty_owl_richard_jackson-4.jpg)
+![&#x4F5C;&#x8005;Michael Daley](../../.gitbook/assets/wu-cao-xiao-.jpg)
 
 Lorem ipsum
 
@@ -51,15 +51,15 @@ Lorem ipsum
 
 {% tabs %}
 {% tab title="浅色个体" %}
-![&#x4F5C;&#x8005;Mark Chambers](../../.gitbook/assets/barnowltytoalba.jpg)
+![&#x4F5C;&#x8005;Mark Chambers](../../.gitbook/assets/cang-xiao-qian-se-.jpg)
 {% endtab %}
 
 {% tab title="过渡个体" %}
-![&#x4F5C;&#x8005;Steve Metz](../../.gitbook/assets/steve-metz-salt-plains-nwr-eke-la-he-ma-ebird.jpg)
+![&#x4F5C;&#x8005;Steve Metz](../../.gitbook/assets/cang-xiao-guo-du-.jpg)
 {% endtab %}
 
 {% tab title="深色个体" %}
-![&#x4F5C;&#x8005;Lars Petersson](../../.gitbook/assets/2671_20170917_1_1000.jpg)
+![&#x4F5C;&#x8005;Fabio Olmos](../../.gitbook/assets/cang-xiao-shen-se-.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -100,7 +100,7 @@ Lorem ipsum
 
 ### 东方草鸮 _Tyto longimembris_
 
-![&#x4F5C;&#x8005;Tony Ashton](../../.gitbook/assets/tony-ashton-xin-nan-wei-er-shi-gan-zhe-tian.jpg)
+![&#x4F5C;&#x8005;Ged Tranter](../../.gitbook/assets/dong-fang-cao-xiao-.jpg)
 
 Lorem ipsum
 
@@ -139,7 +139,7 @@ Lorem ipsum
 
 ### 领角鸮 _Otus lettia_
 
-![&#x4F5C;&#x8005;&#x9648;&#x9648;](../../.gitbook/assets/chen-chen.jpg)
+![&#x4F5C;&#x8005;&#x9648;&#x9648;](../../.gitbook/assets/ling-jiao-xiao-.jpg)
 
 Lorem ipsum
 
@@ -167,11 +167,11 @@ Lorem ipsum
 
 {% tabs %}
 {% tab title="灰色型" %}
-![&#x4F5C;&#x8005;Kai Pflug](../../.gitbook/assets/70158861.jpg)
+![](../../.gitbook/assets/dong-fang-jiao-xiao-hui-se-xing-.jpg)
 {% endtab %}
 
 {% tab title="红色型" %}
-![&#x4F5C;&#x8005;&#x5B50;&#x745C;](../../.gitbook/assets/24142933_24142933_1375652827415_mthumb.jpg)
+![&#x4F5C;&#x8005;&#x5B50;&#x745C;](../../.gitbook/assets/dong-fang-jiao-xiao-hong-se-xing-.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -204,7 +204,7 @@ Lorem ipsum
 
 ### 雕鸮 _Bubo bubo_
 
-![&#x4F5C;&#x8005;Yeray Seminario](../../.gitbook/assets/276736741.jpg)
+![&#x4F5C;&#x8005;Yeray Seminario](../../.gitbook/assets/diao-xiao-.jpg)
 
 Lorem ipsum
 
@@ -235,7 +235,7 @@ Lorem ipsum
 
 ### 黄脚渔鸮 _Ketupa flavipes_
 
-![&#x4F5C;&#x8005;Markus  Lilje](../../.gitbook/assets/owl_fish_tawny_-022.jpg)
+![&#x4F5C;&#x8005;Markus  Lilje](../../.gitbook/assets/huang-jiao-yu-xiao-.jpg)
 
 Lorem ipsum
 
@@ -269,7 +269,7 @@ WIP
 
 ### 灰林鸮 _Strix nivicolum_
 
-![&#x7070;&#x8272;&#x578B;&#xFF0C;&#x4F5C;&#x8005;Robin Newlin](../../.gitbook/assets/unnamed.jpg)
+![&#x7070;&#x8272;&#x578B;&#xFF0C;&#x4F5C;&#x8005;Robin Newlin](../../.gitbook/assets/hui-lin-xiao-hui-se-xing-.jpg)
 
 Lorem ipsum
 
@@ -303,7 +303,7 @@ WIP
 
 ### 花头鸺鹠 _Glaucidium passerinum_
 
-![&#x4F5C;&#x8005;Helge Sorensen](../../.gitbook/assets/20190217_0400.jpg)
+![&#x4F5C;&#x8005;Helge Sorensen](../../.gitbook/assets/hua-tou-xiu-liu-.jpg)
 
 Lorem ipsum
 
@@ -338,7 +338,7 @@ text
 
 ### 斑头鸺鹠 _Glaucidium cuculoides_
 
-![&#x4F5C;&#x8005;Ambika](../../.gitbook/assets/asian-barred-owlet-ddc86a71-6a98-4586-9903-8dc3361c26f-resize-750.jpeg)
+![&#x4F5C;&#x8005;Ambika](../../.gitbook/assets/ban-tou-xiu-liu-.jpeg)
 
 斑头鸺鹠是哈兰那的森林里最常见的居民之一。
 
@@ -374,7 +374,7 @@ WIP
 
 ### 纵纹腹小鸮 _Athene noctua_
 
-![&#x4F5C;&#x8005;Mustafa Sozen](../../.gitbook/assets/mustafa-sozen.jpg)
+![&#x4F5C;&#x8005;Mustafa Sozen](../../.gitbook/assets/zong-wen-fu-xiao-xiao-.jpg)
 
 Lorem ipsum
 
@@ -405,7 +405,7 @@ WIP
 
 ### 短耳鸮 _Asio flammeus_
 
-![&#x4F5C;&#x8005;Jeff Dyck](../../.gitbook/assets/jeff-dyck-qiao-zhi-wang-zi-cheng-ji-chang.jpg)
+![&#x4F5C;&#x8005;Jeff Dyck](../../.gitbook/assets/duan-er-xiao-.jpg)
 
 Lorem ipsum
 
@@ -427,7 +427,7 @@ Lorem ipsum
 
 ### 长耳鸮 _Asio otus_
 
-![&#x4F5C;&#x8005;H. Heerklotz](../../.gitbook/assets/75486701.jpg)
+![&#x4F5C;&#x8005;H. Heerklotz](../../.gitbook/assets/chang-er-xiao-.jpg)
 
 Lorem ipsum
 

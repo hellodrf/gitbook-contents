@@ -18,8 +18,6 @@
 
 {% hint style="info" %}
 Lorem ipsum
-
-2021.a.a
 {% endhint %}
 
 ## 本月之星

@@ -6,7 +6,7 @@
 
 ### 红嘴蓝鹊 _Urocissa erythroryncha_
 
-![&#x4F5C;&#x8005;&#x843D;&#x65E5;&#x7194;&#x91D1;](../../.gitbook/assets/h.jpg)
+![&#x4F5C;&#x8005;&#x843D;&#x65E5;&#x7194;&#x91D1;](../../.gitbook/assets/hong-zui-lan-que-.jpg)
 
 Lorem ipsum
 
@@ -42,7 +42,7 @@ WIP
 您可以创建欧亚喜鹊复合种中的任何种/亚种，但不包括马格里布喜鹊 _P. mauritanica_和阿拉伯喜鹊 _P. asirensis_
 {% endhint %}
 
-![&#x4F5C;&#x8005;Pierre-Selim](../../.gitbook/assets/zhi-ming.jpg)
+![&#x4F5C;&#x8005;Pierre-Selim](../../.gitbook/assets/xi-que-pica.jpg)
 
 Lorem ipsum
 
@@ -77,7 +77,7 @@ Lorem ipsum
 
 ### 寒鸦 _Coloeus monedula_
 
-![&#x4F5C;&#x8005;NottsExMiner](../../.gitbook/assets/jackdaw_-7538518858.jpg)
+![&#x4F5C;&#x8005;NottsExMiner](../../.gitbook/assets/han-ya-.jpg)
 
 Lorem ipsum
 
@@ -107,7 +107,7 @@ WIP
 
 ### 小嘴乌鸦 _Corvus corone_
 
-![&#x4F5C;&#x8005;Paul](../../.gitbook/assets/33833793762_5f214f047f_b.jpg)
+![&#x4F5C;&#x8005;Paul](../../.gitbook/assets/xiao-zui-wu-ya-.jpg)
 
 Lorem ipsum
 
@@ -136,7 +136,7 @@ Lorem ipsum
 
 ### 白颈鸦 _Corvus torquatus_
 
-![&#x4F5C;&#x8005;&#x6D2A;&#x5EF7;&#x7EF4;](../../.gitbook/assets/75807211.jpg)
+![&#x4F5C;&#x8005;&#x6D2A;&#x5EF7;&#x7EF4;](../../.gitbook/assets/bai-jing-ya-.jpg)
 
 Lorem ipsum
 
@@ -195,7 +195,7 @@ WIP
 
 ### 渡鸦 _Corvus corax_
 
-![&#x4F5C;&#x8005;Pkspks](../../.gitbook/assets/corvus_corax_tibetanus.jpg)
+![&#x4F5C;&#x8005;Pkspks](../../.gitbook/assets/du-ya-tibetanus.jpg)
 
 Lorem ipsum
 

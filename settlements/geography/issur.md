@@ -2,7 +2,7 @@
 
 文字文字‌
 
-![](../../.gitbook/assets/red-beach-panjin-china02.jpg)
+![](../../.gitbook/assets/yan-di-jian-peng-.jpg)
 
 ## 气候与地理 <a id="qi-hou"></a>
 

@@ -6,7 +6,7 @@
 
 ### 白腿小隼 _Microhierax melanoleucos_
 
-![&#x4F5C;&#x8005;&#x73A9;&#x4E3B;&#x5317;&#x4EAC;](../../.gitbook/assets/091357dj7f2w2660w0t24m.jpg)
+![&#x4F5C;&#x8005;&#x73A9;&#x4E3B;&#x5317;&#x4EAC;](../../.gitbook/assets/bai-tui-xiao-sun-.jpg)
 
 Lorem ipsum
 
@@ -43,11 +43,11 @@ Lorem ipsum
 
 {% tabs %}
 {% tab title="雄" %}
-![&#x4F5C;&#x8005;Heinz Rothacher](../../.gitbook/assets/1498289792124.jpg)
+![&#x4F5C;&#x8005;Heinz Rothacher](../../.gitbook/assets/hong-sun-xiong-.jpg)
 {% endtab %}
 
 {% tab title="雌" %}
-![&#x4F5C;&#x8005;&#x9648;&#x9648;](../../.gitbook/assets/chen-chen-k.jpg)
+![&#x4F5C;&#x8005;&#x9648;&#x9648;](../../.gitbook/assets/hong-sun-ci-.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -83,7 +83,7 @@ WIP
 
 ### 食蝠隼 _Falco rufigularis_
 
-![&#x4F5C;&#x8005;Christian Sanchez](../../.gitbook/assets/christian-sanchez.jpg)
+![&#x4F5C;&#x8005;Christian Sanchez](../../.gitbook/assets/shi-fu-sun-.jpg)
 
 Lorem ipsum
 
@@ -113,11 +113,11 @@ Lorem ipsum
 
 {% tabs %}
 {% tab title="成鸟" %}
-![&#x4F5C;&#x8005;Imran Shah](../../.gitbook/assets/eurasian_hobby_-falco_subbuteo-_-22427388580.jpg)
+![&#x4F5C;&#x8005;Imran Shah](../../.gitbook/assets/yan-sun-.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
-![&#x4F5C;&#x8005;Mark Sisson](../../.gitbook/assets/mark-sisson.jpg)
+![&#x4F5C;&#x8005;Mark Sisson](../../.gitbook/assets/yan-sun-ya-cheng-.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -155,21 +155,17 @@ text
 
 ### 游隼 _Falco peregrinus_
 
-{% hint style="warning" %}
-您不可以创建拟游隼 _F. \(p.\) pelegrinoides_
-{% endhint %}
-
 {% tabs %}
-{% tab title="成鸟与雏鸟" %}
-![&#x81EA;Talk AEP](../../.gitbook/assets/talk_aep_-_peregrine_falcon_bang_the_table_gallery_widget_1080px_wide_1.jpg)
+{% tab title="成鸟" %}
+![&#x81EA;Talk AEP](../../.gitbook/assets/you-sun-.jpg)
 {% endtab %}
 
 {% tab title="亚成鸟" %}
-![&#x4F5C;&#x8005;Dipendrasinh Zala](../../.gitbook/assets/img_2720.jpg)
+![&#x4F5C;&#x8005;Dipendrasinh Zala](../../.gitbook/assets/you-sun-ya-cheng-.jpg)
 {% endtab %}
 
 {% tab title="\"kreyenborgi\"型" %}
-![&#x4F5C;&#x8005;Daniel Sziklai](../../.gitbook/assets/23646705482_eb8a09ff12_b.jpg)
+![&#x4F5C;&#x8005;Daniel Sziklai](../../.gitbook/assets/you-sun-kreyenborgi.jpg)
 {% endtab %}
 {% endtabs %}
 
@@ -214,11 +210,11 @@ Lorem ipsum
 
 {% tabs %}
 {% tab title="指名亚种" %}
-![&#x4F5C;&#x8005;Attila Szil&#xE1;gyi](../../.gitbook/assets/image.jpg)
+![&#x4F5C;&#x8005;Attila Szil&#xE1;gyi](../../.gitbook/assets/lie-sun-cherrug.jpg)
 {% endtab %}
 
 {% tab title="青藏亚种" %}
-![&#x4F5C;&#x8005;&#x4E09;&#x6C5F;&#x4E3B;&#x4EBA;](../../.gitbook/assets/491fe510g6d98f2d960d2-and-690.jpg)
+![&#x4F5C;&#x8005;&#x4E09;&#x6C5F;&#x4E3B;&#x4EBA;](../../.gitbook/assets/lie-sun-hendersoni.jpg)
 {% endtab %}
 {% endtabs %}
 
