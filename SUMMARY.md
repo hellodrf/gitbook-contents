@@ -16,7 +16,7 @@
     * [杂交一览](bird-guide/species/hybrids.md)
 * [主要势力](factions/README.md)
   * [哈兰那帝国](factions/empire.md)
-  * [伊苏尔联盟](factions/alliance.md)
+  * [伊苏尔复兴会](factions/alliance.md)
 * [世界设定](settlements/README.md)
   * [历史](settlements/history.md)
   * [地理](settlements/geography/README.md)
