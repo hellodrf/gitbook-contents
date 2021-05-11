@@ -30,7 +30,7 @@
 
 ### 鸣声
 
-叫声描述：
+Lorem ipsum
 {% endtab %}
 
 {% tab title="生态学" %}
@@ -73,7 +73,7 @@ Lorem ipsum
 
 ### 鸣声
 
-叫声描述：
+Lorem ipsum
 {% endtab %}
 
 {% tab title="生态学" %}
@@ -121,7 +121,7 @@ Lorem ipsum
 
 ### 鸣声
 
-叫声描述：
+Lorem ipsum
 {% endtab %}
 
 {% tab title="生态学" %}
@@ -165,7 +165,7 @@ WIP
 
 ### 鸣声
 
-叫声描述：
+Lorem ipsum
 {% endtab %}
 
 {% tab title="生态学" %}
@@ -199,7 +199,7 @@ WIP
 
 ### 鸣声
 
-叫声描述：
+Lorem ipsum
 {% endtab %}
 
 {% tab title="生态学" %}
@@ -287,7 +287,7 @@ Lorem
 
 ### 鸣声
 
-叫声描述：
+Lorem ipsum
 {% endtab %}
 
 {% tab title="生态学" %}
@@ -331,7 +331,7 @@ Lorem ipsum
 
 ### 鸣声
 
-text
+Lorem ipsum
 {% endtab %}
 
 {% tab title="生态学" %}
@@ -679,7 +679,7 @@ Lorem ipsum
 {% endtab %}
 {% endtabs %}
 
-玉带海雕是哈兰那帝国古老的贵族之一。他们与北方的伊苏尔联盟有着不少来往，乃至时常在夏季前往伊苏尔——这也使得哈兰那与伊苏尔的战争爆发后，他们遭到了许多的猜疑。
+玉带海雕是哈兰那帝国古老的贵族之一。他们与北方的伊苏尔联盟有着不少商业和政治来往，乃至时常在夏季前往伊苏尔——这也使得哈兰那与伊苏尔的战争爆发后，他们遭到了许多的猜疑。
 
 每1年相当于1人类年，y=x+14
 
