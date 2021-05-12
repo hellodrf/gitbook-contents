@@ -119,7 +119,8 @@
 
 **小麂** _**Muntiacus reevesi**_
 
-**鬣羚（**_**Capricornis milneedwardsii**_**）**
+**鬣羚（**_**Capricornis milneedwardsii**_**）**  
+长着马鬃般长鬣的奇特有蹄类。
 
 **赤腹松鼠** _**Callosciurus erythraeus**_  
 常见松鼠。
@@ -138,7 +139,7 @@
 {% tab title="其他" %}
 **大树蛙** _**Zhangixalus dennysi**_
 
-**臭蛙（**_**Odorrana tianmuii**_**）**  
+**阿克那臭蛙（**_**Odorrana tianmuii**_**）**  
 常见蛙类。
 
 **铜蜓蜥** _**Sphenomorphus indicus**_
@@ -164,9 +165,6 @@
 
 **双叉犀金龟** _**Trypoxylus dichotomus**_  
 “独角仙”，雄性的头顶伸出一只分为两叉的独角。昆虫收藏家寻觅的对象之一。
-
-**金裳凤蝶** _**Troides aeacus**_  
-哈兰那最大的蝴蝶，前翅黑色，后翅金色。飞行很高，常在树顶盘旋。昆虫收藏家寻觅的对象之一。
 
 **南虎凤蝶（**_**Luehdorfia chinensis**_**）**  
 罕见的蝴蝶，通体黑黄相间。只有每年初春才能见到。

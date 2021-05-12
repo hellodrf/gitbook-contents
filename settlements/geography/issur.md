@@ -23,19 +23,13 @@
 * 鹗 Pandion haliaetus
 * 黑翅鸢 Elanus caeruleus
 * 白背兀鹫 Gyps bengalensis
-* 苍鹰 Accipiter gentilis
 * 雀鹰 Accipiter nisus
 * 白尾鹞 Circus cyaneus
 * 赤鸢 Milvus milvus
-* 白尾海雕 Haliaeetus albicilla
 * 灰脸鵟鹰 Butastur indicus
-* 仓鸮 Tyto alba
 * 东方草鸮 Tyto longimembris
 * 领角鸮 Otus lettia
 * 东方角鸮 Otus sunia
-* 雕鸮 Bubo bubo
-* 灰林鸮 Strix nivicolum
-* 花头鸺鹠 Glaucidium passerinum
 * 纵纹腹小鸮 Athene noctua
 * 短耳鸮 Asio flammeus
 * 长耳鸮 Asio otus
@@ -47,15 +41,21 @@
 * 寒鸦 Coloeus monedula
 * 小嘴乌鸦 Corvus corone
 * 大嘴乌鸦 Corvus macrorhynchos
-* 渡鸦 Corvus corax
+* 
 {% endtab %}
 
 {% tab title="少见" %}
-
+* 苍鹰 Accipiter gentilis
+* 仓鸮 Tyto alba
+* 雕鸮 Bubo bubo
+* 灰林鸮 Strix nivicolum
+* 花头鸺鹠 Glaucidium passerinum
+* 渡鸦 Corvus corax
 {% endtab %}
 
 {% tab title="罕见" %}
-
+* 白尾海雕 Haliaeetus albicilla
+* 
 {% endtab %}
 {% endtabs %}
 

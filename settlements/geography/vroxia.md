@@ -8,13 +8,11 @@
 
 典型的热带季风气候。夏季高温多雨，均温25-29℃，冬季均温14-22℃，在高山上的气温则更凉爽。
 
-弗洛西亚境内遍布高大的山脉，覆盖着茂密的热带森林。在地势平缓的地区，可见星星点点的农牧用地。
-
-‌山地、高原。岩岸、沙岸、红树林。
+弗洛西亚境内遍布高大的山脉，覆盖着茂密的热带森林。在地势平缓的地区，可见星星点点的农牧用地。在漫长的海岸线上，生长着欣欣向荣的红树林。
 
 ## 植被 <a id="zhi-bei"></a>
 
-黑桫椤 Alsophila podophylla，白桫椤 Sphaeropteris brunoniana，黄杞 Engelhardia roxburghiana，米槠 Castanopsis carlesii，油丹 Alseodaphne hainanensis
+黑桫椤 _Alsophila podophylla_，白桫椤 _Sphaeropteris brunoniana_，黄杞 _Engelhardia roxburghiana_，米槠 _Castanopsis carlesii_，油丹 _Alseodaphne hainanensis_
 
 ## 居民 <a id="ju-min"></a>
 
