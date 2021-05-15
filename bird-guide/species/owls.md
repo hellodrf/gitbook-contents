@@ -137,9 +137,9 @@ Lorem ipsum
 
 ## 2. 鸱鸮科
 
-### 领角鸮 _Otus lettia_
+### 纵纹腹小鸮 _Athene noctua_
 
-![&#x4F5C;&#x8005;&#x9648;&#x9648;](../../.gitbook/assets/ling-jiao-xiao-.jpg)
+![&#x4F5C;&#x8005;Mustafa Sozen](../../.gitbook/assets/zong-wen-fu-xiao-xiao-.jpg)
 
 Lorem ipsum
 
@@ -147,17 +147,93 @@ Lorem ipsum
 
 {% tabs %}
 {% tab title="生物学" %}
-* 体长：23-25 cm
-* 体重：108-170 g
+* 体长：22-25 cm
+* 体重：♂150-176 g；♀约240 g
 
-小型猫头鹰，外貌符合经典的“猫头鹰”形象，耳状簇羽明显。
+轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。
 
-轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。  
-亚成鸟。
+### 飞行
+
+WIP
+
+### 鸣声
+
+叫声描述：
 {% endtab %}
 
 {% tab title="生态学" %}
 
+{% endtab %}
+{% endtabs %}
+
+
+
+### 花头鸺鹠 _Glaucidium passerinum_
+
+![&#x4F5C;&#x8005;Helge Sorensen](../../.gitbook/assets/hua-tou-xiu-liu-.jpg)
+
+Lorem ipsum
+
+每1年相当于4人类年，y=4x+11
+
+{% tabs %}
+{% tab title="生物学" %}
+* 体长：15-19 cm
+* 体重：♂47-72 g；♀67-83 g
+
+轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。
+
+### 飞行
+
+WIP
+
+### 鸣声
+
+叫声描述：
+{% endtab %}
+
+{% tab title="生态学" %}
+* 生境：开阔针叶林、混交林。
+* 食物：以田鼠为主的小型哺乳类、小型鸟类。
+* 天敌：WIP
+
+text
+{% endtab %}
+{% endtabs %}
+
+
+
+### 斑头鸺鹠 _Glaucidium cuculoides_
+
+![&#x4F5C;&#x8005;Ambika](../../.gitbook/assets/ban-tou-xiu-liu-.jpeg)
+
+斑头鸺鹠是哈兰那的森林里最常见的居民之一。
+
+每1年相当于4人类年，y=4x+11
+
+{% tabs %}
+{% tab title="生物学" %}
+* 体长：22-25 cm
+* 体重：♂150-176 g；♀约240 g
+
+轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。  
+亚成鸟。裸部。
+
+### 飞行
+
+WIP
+
+### 鸣声
+
+叫声描述：
+{% endtab %}
+
+{% tab title="生态学" %}
+* 生境：开阔的亚高山或高山松-栎林、低地亚热带常绿林。一般低于2100米，有时至2700米。
+* 食物：以甲虫、蝗虫等大型昆虫为主，有时捕食小型哺乳类、蛙类、蜥蜴和小型鸟类。
+* 天敌：
+
+基本为日行动物。
 {% endtab %}
 {% endtabs %}
 
@@ -193,6 +269,72 @@ Lorem ipsum
 ### 鸣声
 
 反复发出有节奏的空洞kru-krukru或kro-krokro三声（部分种群为四声），有时带颤音。
+{% endtab %}
+
+{% tab title="生态学" %}
+
+{% endtab %}
+{% endtabs %}
+
+
+
+### 领角鸮 _Otus lettia_
+
+![&#x4F5C;&#x8005;&#x9648;&#x9648;](../../.gitbook/assets/ling-jiao-xiao-.jpg)
+
+Lorem ipsum
+
+每1年相当于4人类年，y=4x+11
+
+{% tabs %}
+{% tab title="生物学" %}
+* 体长：23-25 cm
+* 体重：108-170 g
+
+小型猫头鹰，外貌符合经典的“猫头鹰”形象，耳状簇羽明显。
+
+轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。  
+亚成鸟。
+{% endtab %}
+
+{% tab title="生态学" %}
+
+{% endtab %}
+{% endtabs %}
+
+
+
+### 长耳鸮 _Asio otus_
+
+![&#x4F5C;&#x8005;H. Heerklotz](../../.gitbook/assets/chang-er-xiao-.jpg)
+
+Lorem ipsum
+
+{% tabs %}
+{% tab title="生物学" %}
+* 体长：
+* 体重：
+
+轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。  
+亚成鸟。
+{% endtab %}
+{% endtabs %}
+
+
+
+### 短耳鸮 _Asio flammeus_
+
+![&#x4F5C;&#x8005;Jeff Dyck](../../.gitbook/assets/duan-er-xiao-.jpg)
+
+Lorem ipsum
+
+{% tabs %}
+{% tab title="生物学" %}
+* 体长：
+* 体重：
+
+轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。  
+亚成鸟。
 {% endtab %}
 
 {% tab title="生态学" %}
@@ -292,152 +434,6 @@ WIP
 ### 鸣声
 
 叫声描述：
-{% endtab %}
-
-{% tab title="生态学" %}
-
-{% endtab %}
-{% endtabs %}
-
-
-
-### 花头鸺鹠 _Glaucidium passerinum_
-
-![&#x4F5C;&#x8005;Helge Sorensen](../../.gitbook/assets/hua-tou-xiu-liu-.jpg)
-
-Lorem ipsum
-
-每1年相当于4人类年，y=4x+11
-
-{% tabs %}
-{% tab title="生物学" %}
-* 体长：15-19 cm
-* 体重：♂47-72 g；♀67-83 g
-
-轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。
-
-### 飞行
-
-WIP
-
-### 鸣声
-
-叫声描述：
-{% endtab %}
-
-{% tab title="生态学" %}
-* 生境：开阔针叶林、混交林。
-* 食物：以田鼠为主的小型哺乳类、小型鸟类。
-* 天敌：WIP
-
-text
-{% endtab %}
-{% endtabs %}
-
-
-
-### 斑头鸺鹠 _Glaucidium cuculoides_
-
-![&#x4F5C;&#x8005;Ambika](../../.gitbook/assets/ban-tou-xiu-liu-.jpeg)
-
-斑头鸺鹠是哈兰那的森林里最常见的居民之一。
-
-每1年相当于4人类年，y=4x+11
-
-{% tabs %}
-{% tab title="生物学" %}
-* 体长：22-25 cm
-* 体重：♂150-176 g；♀约240 g
-
-轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。  
-亚成鸟。裸部。
-
-### 飞行
-
-WIP
-
-### 鸣声
-
-叫声描述：
-{% endtab %}
-
-{% tab title="生态学" %}
-* 生境：开阔的亚高山或高山松-栎林、低地亚热带常绿林。一般低于2100米，有时至2700米。
-* 食物：以甲虫、蝗虫等大型昆虫为主，有时捕食小型哺乳类、蛙类、蜥蜴和小型鸟类。
-* 天敌：
-
-基本为日行动物。
-{% endtab %}
-{% endtabs %}
-
-
-
-### 纵纹腹小鸮 _Athene noctua_
-
-![&#x4F5C;&#x8005;Mustafa Sozen](../../.gitbook/assets/zong-wen-fu-xiao-xiao-.jpg)
-
-Lorem ipsum
-
-每1年相当于4人类年，y=4x+11
-
-{% tabs %}
-{% tab title="生物学" %}
-* 体长：22-25 cm
-* 体重：♂150-176 g；♀约240 g
-
-轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。
-
-### 飞行
-
-WIP
-
-### 鸣声
-
-叫声描述：
-{% endtab %}
-
-{% tab title="生态学" %}
-
-{% endtab %}
-{% endtabs %}
-
-
-
-### 短耳鸮 _Asio flammeus_
-
-![&#x4F5C;&#x8005;Jeff Dyck](../../.gitbook/assets/duan-er-xiao-.jpg)
-
-Lorem ipsum
-
-{% tabs %}
-{% tab title="生物学" %}
-* 体长：
-* 体重：
-
-轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。  
-亚成鸟。
-{% endtab %}
-
-{% tab title="生态学" %}
-
-{% endtab %}
-{% endtabs %}
-
-
-
-### 长耳鸮 _Asio otus_
-
-![&#x4F5C;&#x8005;H. Heerklotz](../../.gitbook/assets/chang-er-xiao-.jpg)
-
-Lorem ipsum
-
-{% tabs %}
-{% tab title="生物学" %}
-* 体长：
-* 体重：
-
-轮廓，姿态，体貌特征。（头-背面-腹面）基本羽雄鸟；替换羽雄鸟。基本羽雌鸟，替换羽雌鸟。大裸皮；眼-喙-蜡膜-足-爪。  
-亚成鸟。
 {% endtab %}
 
 {% tab title="生态学" %}

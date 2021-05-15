@@ -58,7 +58,7 @@
 
 ## 领土
 
-### [那萨达](../settlements/geography/nasaada.md)
+### [那萨达](../settlements/geography/leva.md)
 
 ### [弗洛西亚](../settlements/geography/vroxia.md)
 

@@ -44,29 +44,33 @@
 
 {% tabs %}
 {% tab title="常见" %}
-* 黑冠鹃隼 _Aviceda leuphotes_
 * 凤头鹰 _Accipiter trivirgatus_
 * 赤腹鹰 _Accipiter soloensis_
 * 仓鸮 _Tyto alba_
-* 领角鸮 _Otus lettia_
-* 东方角鸮 _Otus sunia_
 * 斑头鸺鹠 _Glaucidium cuculoides_
+* 东方角鸮 _Otus sunia_
+* 领角鸮 _Otus lettia_
 * 长耳鸮 _Asio otus_
 * 红嘴蓝鹊 _Urocissa erythroryncha_
 {% endtab %}
 
 {% tab title="少见" %}
 * 鹗 _Pandion haliaetus_
+* 黑冠鹃隼 _Aviceda leuphotes_
 * 蛇雕 _Spilornis cheela_
+* 东方草鸮 _Tyto longimembris_
+* 短耳鸮 _Asio flammeus_
 * 红隼 _Falco tinnunculus_
 * 游隼 _Falco peregrinus_
 * 喜鹊 _Pica pica_
+* 白颈鸦 _Corvus torquatus_
 * 大嘴乌鸦 _Corvus macrorhynchos_
 {% endtab %}
 
 {% tab title="罕见" %}
 * 雕鸮 _Bubo bubo_
 * 黄脚渔鸮 _Ketupa flavipes_
+* 灰林鸮 _Strix nivicolum_
 * 白腿小隼 _Microhierax melanoleucos_
 {% endtab %}
 {% endtabs %}
@@ -78,9 +82,6 @@
 **鸳鸯** _**Aix galericulata**_  
 冬候鸟。极为醒目的鸭类，雄鸟的色彩和形态极为夸张华丽，雌鸟则大体为褐灰色。善于攀援树木，或是在林间飞行穿梭。分布于阿克那湖。
 
-**斑嘴鸭** _**Anas zonorhyncha**_  
-冬候鸟。大型鸭类，通体被麻斑，得名于喙末端的醒目黄斑。分布于阿克那湖，数量巨大。
-
 **鳞胁秋沙鸭** _**Mergus squamatus**_  
 冬候鸟。大型潜水鸭类，喙如鸬鹚，边缘有齿状结构。两胁有黑白鳞状斑纹。分布于阿克那湖。
 
@@ -90,20 +91,14 @@
 **黑短脚鹎** _**Hypsipetes leucocephalus**_  
 留鸟。极为常见的林鸟。阿克那的黑短脚鹎头颈白色，其余通体黑色，喙、脚橘色。山区森林随处可见松散的小群。
 
-**棕脸鹟莺** _**Abroscopus albogularis**_  
-留鸟。体型极小。分布于森林、竹林。
+**短尾鸦雀** _**Neosuthora davidiana**_  
+留鸟。体型极小，体态浑圆。成群活动。
 
 **画眉** _**Garrulax canorus**_  
 留鸟。眼周有一圈醒目的白色，并向眼尾延长，因此得名。鸣声极为嘹亮，华丽多变。常在隐蔽的林下灌丛或草丛中活动。
 
 **靛冠噪鹛** _**Pterorhinus courtoisi**_  
 留鸟。分布于卡利戈河上游。
-
-**短尾鸦雀** _**Neosuthora davidiana**_  
-留鸟。体型极小，体态浑圆。成群活动。
-
-**白额燕尾** _**Enicurus leschenaulti**_  
-留鸟。黑白分明，尾甚长。溪流附近常见。
 
 **红尾水鸲** _**Phoenicurus fuliginosus**_  
 留鸟。溪流附近极为常见。雄鸟通体蓝黑色，尾部赭红色；雌鸟斑驳蓝灰色，尾黑白色。在水边或水中的岩石上奔走，并不断上下抖尾。
@@ -121,9 +116,6 @@
 
 **鬣羚（**_**Capricornis milneedwardsii**_**）**  
 长着马鬃般长鬣的奇特有蹄类。
-
-**赤腹松鼠** _**Callosciurus erythraeus**_  
-常见松鼠。
 
 **黑腹绒鼠** _**Eothenomys melanogaster**_
 
@@ -150,9 +142,6 @@
 
 **竹叶青（**_**Trimeresurus stejnegeri**_**）**  
 常见毒蛇。
-
-**黑异色灰蜻** _**Orthetrum melania**_  
-林下常见蜻蜓，雄性浅蓝灰色，雌性黄色。 
 
 **广斧螳** _**Hierodula patellifera**_  
 常见的浅绿色大型螳螂。

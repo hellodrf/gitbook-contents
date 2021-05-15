@@ -22,40 +22,6 @@
 
 ### 可扮演鸟类 <a id="ke-ban-yan-niao-lei"></a>
 
-{% tabs %}
-{% tab title="常见" %}
-* 鹗 Pandion haliaetus
-* 黑翅鸢 Elanus caeruleus
-* 白背兀鹫 Gyps bengalensis
-* 凤头鹰 Accipiter trivirgatus
-* 赤腹鹰 Accipiter soloensis
-* 赤鸢 Milvus milvus
-* 仓鸮 Tyto alba
-* 东方草鸮 Tyto longimembris
-* 领角鸮 Otus lettia
-* 东方角鸮 Otus sunia
-* 斑头鸺鹠 Glaucidium cuculoides
-* 短耳鸮 Asio flammeus
-* 长耳鸮 Asio otus
-* 红隼 Falco tinnunculus
-* 红嘴蓝鹊 Urocissa erythroryncha
-* 喜鹊 Pica pica
-* 小嘴乌鸦 Corvus corone
-* 白颈鸦 Corvus torquatus
-* 大嘴乌鸦 Corvus macrorhynchos
-{% endtab %}
-
-{% tab title="少见" %}
-* 纵纹腹小鸮 Athene noctua
-* 游隼 Falco peregrinus
-* 渡鸦 Corvus corax
-{% endtab %}
-
-{% tab title="罕见" %}
-* 雕鸮 Bubo bubo
-{% endtab %}
-{% endtabs %}
-
 ### 其他动物 <a id="qi-ta-dong-wu"></a>
 
 {% tabs %}

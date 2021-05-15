@@ -1,6 +1,6 @@
 # 地理
 
-## [那萨达](nasaada.md)
+## [那萨达](leva.md)
 
 ## [阿克那](akna.md)
 

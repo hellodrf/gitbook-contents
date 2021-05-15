@@ -4,7 +4,7 @@
 
 
 
-## [伊苏尔联盟](alliance.md)
+## [伊苏尔复兴会](resistance.md)
 
 
 
