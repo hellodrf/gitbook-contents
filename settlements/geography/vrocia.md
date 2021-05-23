@@ -16,3 +16,17 @@
 
 ### 可扮演鸟类 <a id="ke-ban-yan-niao-lei"></a>
 
+{% tabs %}
+{% tab title="常见" %}
+
+{% endtab %}
+
+{% tab title="少见" %}
+
+{% endtab %}
+
+{% tab title="罕见" %}
+
+{% endtab %}
+{% endtabs %}
+
