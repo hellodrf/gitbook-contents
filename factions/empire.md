@@ -58,9 +58,9 @@
 
 ## 领土
 
-### [勒瓦](../settlements/geography/siva.md)
+### [希瓦](../settlements/geography/siva.md)
 
-### [弗洛西亚](../settlements/geography/vroxia.md)
+### 
 
 ### [塞维纳塔](../settlements/geography/saewenata.md)
 
