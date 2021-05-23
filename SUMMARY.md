@@ -20,7 +20,7 @@
 * [世界设定](settlements/README.md)
   * [历史](settlements/history.md)
   * [地理](settlements/geography/README.md)
-    * [勒瓦](settlements/geography/leva.md)
+    * [希瓦](settlements/geography/siva.md)
     * [阿克那](settlements/geography/akna.md)
     * [弗洛西亚](settlements/geography/vroxia.md)
     * [塞维纳塔](settlements/geography/saewenata.md)
