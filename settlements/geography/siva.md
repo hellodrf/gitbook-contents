@@ -47,7 +47,6 @@
 * 游隼 _Falco peregrinus_ 
 * 红嘴蓝鹊 _Urocissa erythroryncha_ 
 * 喜鹊 _Pica pica_
-* 小嘴乌鸦 _Corvus corone_
 * 白颈鸦 _Corvus torquatus_
 * 大嘴乌鸦 _Corvus macrorhynchos_ 
 {% endtab %}
