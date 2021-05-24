@@ -17,6 +17,7 @@ description: 您需要满足特定条件（如提交特定申请，详见内文�
 * [蛇雕](accipiter.md#she-diao-spilornis-cheela) _Spilornis cheela_
 * [丽鹰雕](accipiter.md#li-ying-diao-spizaetus-ornatus) _Spizaetus ornatus_
 * \*[林雕](accipiter.md#lin-diao-ictinaetus-malaiensis) _Ictinaetus malaiensis_
+* [白肩雕](accipiter.md#bai-jian-diao-aquila-heliaca) _Aquila heliaca_
 * [凤头鹰](accipiter.md#feng-tou-ying-accipiter-trivirgatus) _Accipiter trivirgatus_
 * [赤腹鹰](accipiter.md#chi-fu-ying-accipiter-soloensis) _Accipiter soloensis_
 * \_\_[雀鹰](accipiter.md#que-ying-accipiter-nisus) _Accipiter nisus_

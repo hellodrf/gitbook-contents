@@ -66,7 +66,7 @@
 
 ### [阿克那](../settlements/geography/akna.md)
 
-### [安纳荷拉](../settlements/geography/marina.md)
+### [安纳荷拉](../settlements/geography/salanda.md)
 
 ### [伊苏里亚](../settlements/geography/issur.md)
 

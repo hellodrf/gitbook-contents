@@ -24,7 +24,7 @@
     * [阿克那](settlements/geography/akna.md)
     * [弗洛西亚](settlements/geography/vrocia.md)
     * [塞维纳塔](settlements/geography/saewenata.md)
-    * [马里那](settlements/geography/marina.md)
+    * [萨兰达](settlements/geography/salanda.md)
     * [伊苏里亚](settlements/geography/issur.md)
     * [索芬](settlements/geography/tsofon.md)
   * [家族](settlements/bloodlines.md)

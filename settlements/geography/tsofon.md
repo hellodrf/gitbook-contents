@@ -8,9 +8,7 @@
 
 受季风控制的温带大陆气候；高山。
 
-索芬的绝大部分地区为高原和山地。
-
-高原、山地、平原。湖泊、河流、沼泽。
+索芬的绝大部分地区为崎岖不平的山地。索芬的东部是岩质的海岸线，西部则是广袤的高原。
 
 ## 植被 <a id="zhi-bei"></a>
 
@@ -24,15 +22,30 @@
 
 {% tabs %}
 {% tab title="常见" %}
-
+* 雀鹰 _Accipiter nisus_
+* 苍鹰 _Accipiter gentilis_
+* 灰脸鵟鹰 _Butastur indicus_
+* 纵纹腹小鸮 _Athene noctua_
+* 花头鸺鹠 _Glaucidium passerinum_
+* 东方角鸮 _Otus sunia_
+* 长耳鸮 _Asio otus_
+* 燕隼 _Falco subbuteo_
+* 游隼 _Falco peregrinus_
+* 红嘴蓝鹊 _Urocissa erythroryncha_
+* 喜鹊 _Pica pica_
+* 寒鸦 _Coloeus monedula_
+* 小嘴乌鸦 _Corvus corone_
+* 大嘴乌鸦 _Corvus macrorhynchos_
 {% endtab %}
 
 {% tab title="少见" %}
-
+* 雕鸮 _Bubo bubo_
+* 灰林鸮 _Strix nivicolum_
+* 渡鸦 _Corvus corax_
 {% endtab %}
 
 {% tab title="罕见" %}
-
+* 
 {% endtab %}
 {% endtabs %}
 

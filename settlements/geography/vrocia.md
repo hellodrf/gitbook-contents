@@ -8,7 +8,7 @@
 
 典型的热带季风气候。夏季高温多雨，均温25-29℃，冬季均温14-22℃，在高山上的气温则更凉爽。
 
-弗洛西亚境内遍布高大的山脉，覆盖着茂密的热带森林。在地势平缓的地区，可见星星点点的农牧用地。在漫长的海岸线上，生长着欣欣向荣的红树林。
+弗洛西亚境内遍布高大的山脉，覆盖着茂密的热带森林。在地势平缓的地区，亦有成片的农牧用地。在漫长的海岸线上，生长着欣欣向荣的红树林。
 
 ## 植被 <a id="zhi-bei"></a>
 
@@ -21,6 +21,7 @@
 {% tabs %}
 {% tab title="常见" %}
 * 鹗 _Pandion haliaetus_
+* 黑翅鸢 _Elanus caeruleus_
 * 凤头鹰 _Accipiter trivirgatus_ 
 * 赤腹鹰 _Accipiter soloensis_ 
 * 赤鸢 _Milvus milvus_ 
@@ -29,7 +30,12 @@
 * 斑头鸺鹠 _Glaucidium cuculoides_
 * 东方角鸮 _Otus sunia_
 * 领角鸮 _Otus lettia_
+* 短耳鸮 _Asio flammeus_
+* 红隼 _Falco tinnunculus_
 * 食蝠隼 _Falco rufigularis_
+* 喜鹊 _Pica pica_
+* 白颈鸦 _Corvus torquatus_
+* 大嘴乌鸦 _Corvus macrorhynchos_
 {% endtab %}
 
 {% tab title="少见" %}
@@ -39,16 +45,12 @@
 * 乌草鸮 _Tyto tenebri_cosa
 * 雕鸮 _Bubo bubo_
 * 灰林鸮 _Strix nivicolum_
-* 游隼 Falco peregrinus
-* 喜鹊 Pica pica
-* 白颈鸦 Corvus torquatus
-* 大嘴乌鸦 Corvus macrorhynchos
+* 游隼 _Falco peregrinus_
 {% endtab %}
 
 {% tab title="罕见" %}
 * 丽鹰雕 _Spizaetus ornatus_
 * 黄脚渔鸮 _Ketupa flavipes_
-* 白腿小隼 _Microhierax melanoleucos_
 {% endtab %}
 {% endtabs %}
 

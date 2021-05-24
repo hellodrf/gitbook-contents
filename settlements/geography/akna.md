@@ -58,9 +58,6 @@
 * 鹗 _Pandion haliaetus_
 * 黑冠鹃隼 _Aviceda leuphotes_
 * 蛇雕 _Spilornis cheela_
-* 东方草鸮 _Tyto longimembris_
-* 短耳鸮 _Asio flammeus_
-* 红隼 _Falco tinnunculus_
 * 游隼 _Falco peregrinus_
 * 喜鹊 _Pica pica_
 * 白颈鸦 _Corvus torquatus_
@@ -108,7 +105,8 @@
 {% endtab %}
 
 {% tab title="兽类" %}
-**刺猬（**_**Erinaceus amurensis**_**）**
+**刺猬（**_**Erinaceus amurensis**_**）**  
+常见的小兽。昼伏夜出。
 
 **穿山甲（**_**Manis pentadactyla**_**）**
 
@@ -129,12 +127,11 @@
 {% endtab %}
 
 {% tab title="其他" %}
-**大树蛙** _**Zhangixalus dennysi**_
+**大树蛙** _**Zhangixalus dennysi**_  
+常见蛙类。通体碧绿色。
 
 **阿克那臭蛙（**_**Odorrana tianmuii**_**）**  
-常见蛙类。
-
-**铜蜓蜥** _**Sphenomorphus indicus**_
+常见蛙类。绿色的皮肤上披着褐色的花斑。
 
 **北草蜥** _**Takydromus septentrionalis**_
 
