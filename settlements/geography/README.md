@@ -2,13 +2,13 @@
 
 ## [希瓦](siva.md)
 
-## [阿克那](akna.md)
+## [阿克那](akhya.md)
 
 ## 艾舒亚
 
 ## [塞维纳塔](saewenata.md)
 
-## [安纳荷拉](salanda.md)
+## [安纳荷拉](salanna.md)
 
 ## [伊苏里亚](issur.md)
 
