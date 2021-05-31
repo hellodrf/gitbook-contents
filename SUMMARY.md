@@ -21,7 +21,7 @@
   * [历史](settlements/history.md)
   * [地理](settlements/geography/README.md)
     * [希瓦](settlements/geography/siva.md)
-    * [阿克夏](settlements/geography/akhya.md)
+    * [阿克夏](settlements/geography/aksia.md)
     * [弗洛西亚](settlements/geography/vrocia.md)
     * [格里安达](settlements/geography/saewenata.md)
     * [萨尔兰纳](settlements/geography/salanna.md)

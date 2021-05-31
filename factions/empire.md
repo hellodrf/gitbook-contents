@@ -64,7 +64,7 @@
 
 ### [塞维纳塔](../settlements/geography/saewenata.md)
 
-### [阿克那](../settlements/geography/akhya.md)
+### [阿克那](../settlements/geography/aksia.md)
 
 ### [安纳荷拉](../settlements/geography/salanna.md)
 
