@@ -2,7 +2,7 @@
 
 文字文字‌
 
-![](../../.gitbook/assets/suo-fen-.jpg)
+![](../../.gitbook/assets/sai-wei-er-.jpg)
 
 ## 气候与地理 <a id="qi-hou"></a>
 
