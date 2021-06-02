@@ -20,7 +20,7 @@
 
 ## 领土
 
-### [索芬 TSOFON](../settlements/geography/tsofon.md)
+### [索芬 TSOFON](../settlements/geography/sevir.md)
 
 索芬是曾经的伊苏尔联盟领土北部的一小片山地高原。崎岖的地形，使得哈兰那帝国没能将其攻陷——或者说，他们目前还对这里没有兴趣。
 

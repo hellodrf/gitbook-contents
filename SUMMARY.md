@@ -26,7 +26,7 @@
     * [格里安达](settlements/geography/saewenata.md)
     * [萨尔兰纳](settlements/geography/salanna.md)
     * [伊苏里亚](settlements/geography/issur.md)
-    * [索芬](settlements/geography/tsofon.md)
+    * [塞维尔](settlements/geography/sevir.md)
   * [家族](settlements/bloodlines.md)
   * [技术](settlements/technology.md)
 * [角色创建](character/README.md)
