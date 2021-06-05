@@ -2,15 +2,15 @@
 
 ## [希瓦](siva.md)
 
-## [阿克那](aksia.md)
+## [阿克夏](aksia.md)
 
-## 艾舒亚
+## [弗洛西亚](vrocia.md)
 
-## [塞维纳塔](saewenata.md)
+## [格里安达](saewenata.md)
 
-## [安纳荷拉](salanna.md)
+## [萨尔兰纳](salanna.md)
 
 ## [伊苏里亚](issur.md)
 
-## [索芬](sevir.md)
+## [塞维尔](sevir.md)
 
