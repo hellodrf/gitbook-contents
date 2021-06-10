@@ -60,13 +60,13 @@
 
 ### [希瓦](../settlements/geography/siva.md)
 
-### 
+### [阿克夏](../settlements/geography/aksia.md)
 
-### [塞维纳塔](../settlements/geography/saewenata.md)
+### [弗洛西亚](../settlements/geography/vrocia.md)
 
-### [阿克那](../settlements/geography/aksia.md)
+### [格里安达](../settlements/geography/saewenata.md)
 
-### [安纳荷拉](../settlements/geography/salanna.md)
+### [萨尔兰纳](../settlements/geography/salanna.md)
 
 ### [伊苏里亚](../settlements/geography/issur.md)
 

@@ -1,8 +1,6 @@
-# 塞维尔
+# 艾索克
 
 文字文字‌
-
-![](../../.gitbook/assets/sai-wei-er-.jpg)
 
 ## 气候与地理 <a id="qi-hou"></a>
 
